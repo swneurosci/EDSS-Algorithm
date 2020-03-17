@@ -1,0 +1,353 @@
+C0585549	Abducting nystagmus
+C0585549	Abducting nystagmus (disorder)
+C2013357	absent opticokinetic nystagmus
+C2013357	absent opticokinetic nystagmus (physical finding)
+C0271389	Acquired jerk nystagmus
+C1282461	Acquired nystagmus
+C1282461	Acquired nystagmus (disorder)
+C1282963	Acquired pendular nystagmus
+C1282963	Acquired pendular nystagmus (disorder)
+C0271384	Amaurotic nystagmus
+C0585568	Ataxic nystagmus
+C0585568	Ataxic nystagmus (disorder)
+C1534560	Central nystagmus &/or vertigo
+C1534560	Central nystagmus &/or vertigo (disorder)
+C1534560	Central nystagmus/vertigo
+C0456750	Central positional nystagmus
+C0456750	Central positional nystagmus (disorder)
+C0585543	Central vestibular nystagmus
+C0585543	Central vestibular nystagmus (disorder)
+C0585568	Cerebellar nystagmus
+C0521757	Conjugate nystagmus
+C0521757	Conjugate nystagmus (disorder)
+C2939429	Converg retraction nystagmus
+C0521759	Convergence nystagmus
+C0521759	Convergence nystagmus (disorder)
+C0521759	convergence nystagmus (physical finding)
+C2939429	Convergence retraction nystagmus
+C2939429	Convergence retraction nystagmus (disorder)
+C0155380	Dissociated nystagmus
+C0155380	Dissociated nystagmus (disorder)
+C0155380	dissociated nystagmus (physical finding)
+C1302997	Divergence retraction nystagmus
+C1302997	Divergence retraction nystagmus (disorder)
+C0585544	Downbeat central nystagmus
+C0585544	Downbeat central vestibular nystagmus
+C0585544	Downbeat central vestibular nystagmus (disorder)
+C0585544	downbeat nystagmus
+C0585544	Downbeat nystagmus (disorder)
+C0585544	downbeat nystagmus (physical finding)
+C1321325	Elliptical nystagmus
+C1321325	Elliptical nystagmus (disorder)
+C0271390	End-position nystagmus
+C0271390	End-position nystagmus (disorder)
+C4518723	Eyelid nystagmus
+C4518723	Eyelid nystagmus (disorder)
+C0521760	Fatigable positional nystagmus
+C0521760	Fatigable positional nystagmus (disorder)
+C3281075	Fine horizontal nystagmus
+C0152224	Fixation nystagmus
+C0152224	Fixation nystagmus (disorder)
+C0152224	Fixation nystagmus, NOS
+C0271390	Gaze evoked nystagmus
+C0344244	Gaze paretic nystagmus
+C0344244	Gaze paretic nystagmus (disorder)
+C1853394	Gaze-evoked horizontal nystagmus
+C1861739	Gaze-evoked horizontal nystagmus (not always present)
+C0271390	Gaze-evoked nystagmus
+C3278786	Gaze-evoked nystagmus (1 patient)
+C1969723	Gaze-evoked nystagmus (33%)
+C0271390	Gazed-evoked nystagmus
+C1640811	Heartbeat nystagmus
+C1640811	Heartbeat nystagmus (disorder)
+C0585548	Hemi-seesaw nystagmus
+C0585548	Hemi-seesaw nystagmus (disorder)
+C0271385	Horizontal central vestibular nystagmus
+C3553051	Horizontal gaze nystagmus
+C0271385	Horizontal nystagmus
+C1833803	Horizontal nystagmus (5%)
+C3553823	Horizontal nystagmus (about half of patients)
+C0271385	Horizontal nystagmus (disorder)
+C0271385	horizontal nystagmus (physical finding)
+C0271385	horizontal nystagmus was observed
+C3279319	Horizontal or rotary nystagmus
+C1866180	Horizontal pendular nystagmus
+C0344240	Irregular nystagmus
+C0344240	Irregular nystagmus (disorder)
+C0271389	Jerk nystagmus
+C0271389	Jerk nystagmus (disorder)
+C0563630	Manifest nystagmus
+C0563630	Manifest nystagmus (disorder)
+C0563632	Manifest-latent nystagmus
+C0344241	Micronystagmus
+C0344241	Micronystagmus (observable entity)
+C3281219	Micronystagmus (rare)
+C0344239	Mixed nystagmus
+C0344239	Mixed nystagmus (disorder)
+C1850287	No nystagmus
+C0521761	Non-fatigable positional nystagmus
+C0521761	Non-fatigable positional nystagmus (disorder)
+C0028738	Nystagmus
+C0028738	nystagmus (diagnosis)
+C0028738	Nystagmus (disorder)
+C1844729	Nystagmus (females)
+C0028738	nystagmus (physical finding)
+C1866859	Nystagmus (rare)
+C2673293	Nystagmus (type I)
+C2676253	Nystagmus (uncommon)
+C0339666	Nystagmus &/or other irregular eye movements
+C0339666	Nystagmus &/or other irregular eye movements (disorder)
+C0558852	Nystagmus absent
+C0558852	Nystagmus absent (context-dependent category)
+C0558852	Nystagmus absent (finding)
+C0558852	Nystagmus absent (situation)
+C4069791	Nystagmus amp Eye
+C4067872	Nystagmus amplitude
+C4069791	Nystagmus amplitude Eye
+C0339666	Nystagmus and other irregular eye movements
+C0339666	Nystagmus and other irregular eye movements (disorder)
+C1842193	Nystagmus decreases on convergence
+C4069790	Nystagmus dir Eye
+C4067871	Nystagmus direction
+C4069790	Nystagmus direction Eye
+C0946259	Nystagmus examination
+C0945161	Nystagmus examination Left eye
+C0945162	Nystagmus examination Left eye Narrative
+C0945700	Nystagmus examination Right eye
+C0945701	Nystagmus examination Right eye Narrative
+C0945162	Nystagmus examination:Find:Pt:Eye.left:Nar
+C0945701	Nystagmus examination:Find:Pt:Eye.right:Nar
+C0945162	Nystagmus examination:Finding:Point in time:Eye.left:Narrative
+C0945701	Nystagmus examination:Finding:Point in time:Eye.right:Narrative
+C0945161	Nystagmus examination:Presence or Identity:Point in time:Eye.left:Nominal
+C0945700	Nystagmus examination:Presence or Identity:Point in time:Eye.right:Nominal
+C0945161	Nystagmus examination:Prid:Pt:Eye.left:Nom
+C0945700	Nystagmus examination:Prid:Pt:Eye.right:Nom
+C4069890	Nystagmus freq Eye
+C4067891	Nystagmus frequency
+C4069890	Nystagmus frequency Eye
+C4069890	Nystagmus frequency:Find:Pt:Eye:Ord
+C4069890	Nystagmus frequency:Finding:Point in time:Eye:Ordinal
+C1855413	Nystagmus in adult patients
+C3880850	Nystagmus inducing optokinetic drum
+C3880850	Nystagmus inducing optokinetic drum (physical object)
+C3877913	Nystagmus inducing tape
+C3877913	Nystagmus inducing tape (physical object)
+C0521766	Nystagmus inhibited when fixation removed
+C0521766	Nystagmus inhibited when fixation removed (disorder)
+C1842192	Nystagmus is accentuated by fixation, lateral gaze, smooth pursuit
+C3279324	Nystagmus is often the presenting sign
+C3842080	Nystagmus noted
+C4013199	Nystagmus on lateral gaze
+C0339666	Nystagmus or other irregular eye movement NOS
+C0339666	Nystagmus or other irregular eye movement NOS (disorder)
+C0585567	Nystagmus present
+C0585567	Nystagmus present (finding)
+C0521763	Nystagmus produced by neck rotation
+C0521763	Nystagmus produced by neck rotation (disorder)
+C0520731	Nystagmus retractorius
+C0520731	Nystagmus retractorius (disorder)
+C0585566	Nystagmus signs
+C0585566	Nystagmus signs (disorder)
+C0491746	Nystagmus tape
+C0491746	Nystagmus tape (physical object)
+C0200205	Nystagmus test
+C0200205	Nystagmus test (procedure)
+C0200205	Nystagmus test, NOS
+C0200205	nystagmus tests
+C4315118	Nystagmus, bilateral horizontal
+C0585544	Nystagmus, downbeat
+C0271390	Nystagmus, gaze-evoked
+C0271385	Nystagmus, horizontal
+C3553179	Nystagmus, horizontal (rare)
+C1853394	Nystagmus, horizontal gaze-evoked
+C1853394	Nystagmus, horizontal, gaze-evoked
+C3552279	Nystagmus, horizontal, mild
+C2674365	Nystagmus, horizontal, mild (44%)
+C2673809	Nystagmus, infantile
+C4015090	Nystagmus, intermittent (1 of 2 sibs)
+C2748925	Nystagmus, jerky
+C1842187	Nystagmus, jerky, horizontal, congenital
+C0563632	Nystagmus, manifest-latent
+C1837545	Nystagmus, mild
+C3281220	Nystagmus, minimal rotational (rare)
+C3281218	Nystagmus, moderate
+C1839579	NYSTAGMUS, MYOCLONIC
+C0028738	Nystagmus, NOS
+C0271388	Nystagmus, pendular
+C2677686	Nystagmus, vertical (rare)
+C0339667	NYSTAGMUS, VOLUNTARY
+C4069794	Nystagmus:Type:Point in time:Eye:Nominal
+C4069794	Nystagmus:Type:Pt:Eye:Nom
+C0339666	Nystagmus/irreg.eye movt. NOS
+C0339666	Nystagmus+other irreg eye movt
+C0437615	O/E - no nystagmus
+C0437615	O/E - no nystagmus (finding)
+C0437614	O/E - nystagmus
+C0437618	O/E - nystagmus - CNS -regular
+C0437618	O/E - nystagmus - CNS -regular (finding)
+C0437614	O/E - nystagmus (finding)
+C0437614	O/E - nystagmus NOS
+C0437614	O/E - nystagmus NOS (finding)
+C0437616	O/E - visual nystagmus
+C0437616	O/E - visual nystagmus (finding)
+C0437617	O/E-nystagmus-labyrinth-irreg.
+C0437617	O/E-nystagmus-labyrinth-irreg. (finding)
+C0271384	Ocular nystagmus
+C0162567	OKN - Optokinetic nystagmus
+C0437615	On examination - no nystagmus
+C0437615	On examination - no nystagmus (context-dependent category)
+C0437615	On examination - no nystagmus (situation)
+C0437614	On examination - nystagmus
+C0437618	On examination - nystagmus - central nervous system-regular
+C0437618	On examination - nystagmus - central nervous system-regular (disorder)
+C0437618	On examination - nystagmus - CNS -regular
+C0437618	On examination - nystagmus - CNS -regular (context-dependent category)
+C0437618	On examination - nystagmus - CNS -regular (disorder)
+C0437614	On examination - nystagmus (context-dependent category)
+C0437614	On examination - nystagmus (finding)
+C0437614	On examination - nystagmus NOS
+C0437614	On examination - nystagmus NOS (context-dependent category)
+C0437614	On examination - nystagmus NOS (disorder)
+C0437617	On examination - nystagmus-labyrinth-irreg. (context-dependent category)
+C0437616	On examination - visual nystagmus
+C0437616	On examination - visual nystagmus (context-dependent category)
+C0437616	On examination - visual nystagmus (disorder)
+C2013358	opticokinetic nystagmus absent to left
+C2013358	opticokinetic nystagmus absent to left (physical finding)
+C2013359	opticokinetic nystagmus absent to right
+C2013359	opticokinetic nystagmus absent to right (physical finding)
+C2013357	opticokinetic nystagmus was absent
+C2013358	opticokinetic nystagmus was absent to the left
+C2013359	opticokinetic nystagmus was absent to the right
+C0162567	Optokinetic nystagmus
+C0200211	Optokinetic nystagmus test
+C0200211	Optokinetic nystagmus test (procedure)
+C0200211	Optokinetic nystagmus test (regime/therapy)
+C0200213	Optokinetic nystagmus test, bidirectional, foveal or peripheral stimulation, with recording
+C0200213	Optokinetic nystagmus test, bidirectional, with foveal or peripheral stimulation with recording
+C0200212	Optokinetic nystagmus test, bidirectional, with recording
+C0200212	Optokinetic nystagmus test, bidirectional, with recording (procedure)
+C0200212	Optokinetic nystagmus test, bidirectional, with recording (regime/therapy)
+C0029620	Other forms of nystagmus
+C0029620	Other forms of nystagmus (disorder)
+C0030214	Palatal nystagmus
+C0271388	Pendular nystagmus
+C0271388	Pendular nystagmus (disorder)
+C0271388	Pendular nystagmus (finding)
+C0271388	pendular nystagmus (physical finding)
+C0271388	Pendular nystagmus [Ambiguous]
+C0271388	pendular nystagmus was observed
+C0271382	Periodic alternating nystagmus
+C0271382	Periodic alternating nystagmus (disorder)
+C0585541	Periph vestibular nystagmus
+C0585541	Peripheral vestibular nystagmus
+C0585541	Peripheral vestibular nystagmus (disorder)
+C0521754	Permanent nystagmus
+C0521754	Permanent nystagmus (disorder)
+C4518722	Perverted nystagmus
+C4518722	Perverted nystagmus (disorder)
+C0028740	Physiologic Nystagmus (function)
+C4522031	Physiological nystagmus
+C0028740	Physiological nystagmus
+C4522031	Physiological nystagmus (disorder)
+C0028740	Physiological nystagmus (observable entity)
+C0200208	POSITIONAL NYSTAGMUS
+C0524672	Positional Nystagmus
+C0524672	Positional nystagmus (disorder)
+C0200208	Positional nystagmus test
+C0200210	positional nystagmus test
+C0200210	positional nystagmus test (procedure)
+C0200208	Positional nystagmus test (procedure)
+C0200208	Positional nystagmus test (regime/therapy)
+C0200210	Positional nystagmus test with minimum of 4 positions with recording
+C0200209	Positional nystagmus test with recording
+C0200209	Positional nystagmus test with recording (procedure)
+C0200209	Positional nystagmus test with recording (regime/therapy)
+C0524672	Positional nystagmus, NOS
+C0521762	Positional nystagmus, variable eye direction
+C0521762	Positional nystagmus, variable eye direction (disorder)
+C0344246	Postural nystagmus
+C0344246	Postural nystagmus (disorder)
+C0349685	Pressure-induced nystagmus
+C0349685	Pressure-induced nystagmus (disorder)
+C0271387	Rebound nystagmus
+C0271387	Rebound nystagmus (disorder)
+C0271387	rebound nystagmus (physical finding)
+C0271387	rebound nystagmus was observed
+C0520731	Retraction nystagmus
+C0520731	Retraction nystagmus (disorder)
+C0271389	Rhythmical nystagmus
+C0240595	Rotary nystagmus
+C0240595	Rotary nystagmus (disorder)
+C3553612	Rotary nystagmus (in 1 patient)
+C0240595	Rotational nystagmus
+C0240595	Rotational nystagmus (disorder)
+C0240595	Rotatory nystagmus
+C0240595	rotatory nystagmus (physical finding)
+C2219362	rotatory nystagmus induced only by sudden position change
+C2219362	rotatory nystagmus induced only by sudden position change (physical finding)
+C0240595	rotatory nystagmus was observed
+C2219362	rotatory nystagmus was observed which was induced only by sudden position change
+C4478410	Searching nystagmus
+C0344243	See-saw nystagmus
+C0344243	See-saw nystagmus (disorder)
+C0344243	see-saw nystagmus (physical finding)
+C0344243	see-saw nystagmus was present
+C0344243	Seesaw nystagmus
+C0585538	Sensory defect nystagmus
+C3839734	Sensory nystagmus
+C3839734	Sensory nystagmus (disorder)
+C4230066	Severe nystagmus
+C0349686	Sound intensity-induced nystagmus
+C0349686	Sound intensity-induced nystagmus (disorder)
+C0349686	Sound-induced nystagmus
+C0349681	Spontaneous nystagmus
+C0349681	spontaneous nystagmus (diagnosis)
+C0349681	Spontaneous nystagmus (disorder)
+C0271384	Spontaneous ocular nystagmus
+C0271384	Spontaneous ocular nystagmus (disorder)
+C0271383	Symptomatic nystagmus
+C0271383	Symptomatic nystagmus (disorder)
+C0521753	Temporary nystagmus
+C0521753	Temporary nystagmus (disorder)
+C0585546	Torsional central vestibular nystagmus
+C0585546	Torsional central vestibular nystagmus (disorder)
+C4546199	Torsional nystagmus
+C4546199	Torsional nystagmus (disorder)
+C4069794	Type of Nystagmus
+C0521755	Unidirectional nystagmus
+C0521755	Unidirectional nystagmus (disorder)
+C0344242	Uniocular nystagmus
+C0344242	Uniocular nystagmus (disorder)
+C0028738	Unspecified nystagmus
+C0028738	Unspecified nystagmus (disorder)
+C0585545	Upbeat central nystagmus
+C0585545	Upbeat central vestibular nystagmus
+C0585545	Upbeat central vestibular nystagmus (disorder)
+C0585545	Upbeat nystagmus
+C0585545	Upbeat nystagmus (disorder)
+C0585545	upbeat nystagmus (physical finding)
+C0585545	upbeat nystagmus was observed
+C0271386	Vertical nystagmus
+C0271386	Vertical nystagmus (disorder)
+C2225474	vertical nystagmus induced by head shaking
+C2225474	vertical nystagmus induced by head shaking (physical finding)
+C0456750	vertigo of central origin with positional nystagmus
+C0456750	vertigo of central origin with positional nystagmus (diagnosis)
+C0200212	vestibular eval & recording optokinetic nystagmus bidirectional
+C0200212	vestibular eval & recording optokinetic nystagmus bidirectional (procedure)
+C2022135	vestibular evaluation and recording of optokinetic nystagmus
+C2022135	vestibular evaluation and recording of optokinetic nystagmus (procedure)
+C2022133	vestibular evaluation and recording of spontaneous nystagmus
+C2022133	vestibular evaluation and recording of spontaneous nystagmus (procedure)
+C0200210	vestibular evaluation positional nystagmus test
+C2022134	vestibular evaluation with recording of positional nystagmus
+C2022134	vestibular evaluation with recording of positional nystagmus (procedure)
+C0155379	Vestibular nystagmus
+C0271384	Visual deprivation nystagmus
+C0271384	visual deprivation nystagmus (diagnosis)
+C0271384	Visual deprivation nystagmus (disorder)
+C0339667	Voluntary nystagmus
+C0339667	Voluntary nystagmus (disorder)
+

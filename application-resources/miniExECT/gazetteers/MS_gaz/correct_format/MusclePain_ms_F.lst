@@ -1,0 +1,135 @@
+(Myalgia: [unspecified] or [intercostal myalgia]) or (muscle pain)	CUI=C1540708	PREF=(Myalgia: [unspecified] or [intercostal myalgia]) or (muscle pain)
+(Myalgia: [unspecified] or [intercostal myalgia]) or (muscle pain) (disorder)	CUI=C1540708	PREF=(Myalgia: [unspecified] or [intercostal myalgia]) or (muscle pain) (disorder)
+Abdominal muscle pain	CUI=C3840090	PREF=Abdominal muscle pain
+Abdominal muscle pain (finding)	CUI=C3840090	PREF=Abdominal muscle pain (finding)
+Aching muscles	CUI=C0231528	PREF=Aching muscles
+Calf and thigh cramping muscle pains	CUI=C3806621	PREF=Calf and thigh cramping muscle pains
+Centrally mediated myalgia	CUI=C3839780	PREF=Centrally mediated myalgia
+Centrally mediated myalgia (finding)	CUI=C3839780	PREF=Centrally mediated myalgia (finding)
+Charley-horse	CUI=C0277823	PREF=Charley-horse
+Charleyhorse	CUI=C0277823	PREF=Charleyhorse
+Charleyhorse (finding)	CUI=C0277823	PREF=Charleyhorse (finding)
+Diffuse muscle tenderness	CUI=C0575065	PREF=Diffuse muscle tenderness
+Diffuse muscle tenderness (finding)	CUI=C0575065	PREF=Diffuse muscle tenderness (finding)
+diffuse muscle tenderness (physical finding)	CUI=C0575065	PREF=diffuse muscle tenderness (physical finding)
+Diffuse myofascial pain synd	CUI=C0016053	PREF=Diffuse myofascial pain synd
+Diffuse myofascial pain syndrome	CUI=C0016053	PREF=Diffuse myofascial pain syndrome
+generalized muscle aches	CUI=C0231528	PREF=generalized muscle aches
+generalized muscle aches (symptom)	CUI=C0231528	PREF=generalized muscle aches (symptom)
+generalized myalgia	CUI=C0231528	PREF=generalized myalgia
+Have muscle pains	CUI=C3843952	PREF=Have muscle pains
+jaw muscle pain only while chewing	CUI=C0239064	PREF=jaw muscle pain only while chewing
+jaw muscle pain only while chewing (jaw claudication)	CUI=C0239064	PREF=jaw muscle pain only while chewing (jaw claudication)
+jaw muscle pain only while chewing (symptom)	CUI=C0239064	PREF=jaw muscle pain only while chewing (symptom)
+Localized masticatory muscle soreness	CUI=C3697315	PREF=Localized masticatory muscle soreness
+Localized masticatory muscle soreness (finding)	CUI=C3697315	PREF=Localized masticatory muscle soreness (finding)
+MUSCLE ACHE	CUI=C0231528	PREF=MUSCLE ACHE
+muscle aches	CUI=C0231528	PREF=muscle aches
+muscle aches (symptom)	CUI=C0231528	PREF=muscle aches (symptom)
+muscle aches in neck or shoulder	CUI=C2219826	PREF=muscle aches in neck or shoulder
+muscle aches in neck or shoulder (symptom)	CUI=C2219826	PREF=muscle aches in neck or shoulder (symptom)
+muscle aches in the neck or shoulder	CUI=C2219826	PREF=muscle aches in the neck or shoulder
+muscle aches, generalized (myalgias)	CUI=C0231528	PREF=muscle aches, generalized (myalgias)
+MUSCLE DISCOMFORT	CUI=C0231528	PREF=MUSCLE DISCOMFORT
+MUSCLE PAIN	CUI=C0231528	PREF=MUSCLE PAIN
+Muscle pain (finding)	CUI=C0231528	PREF=Muscle pain (finding)
+Muscle pain (in some patients)	CUI=C4228676	PREF=Muscle pain (in some patients)
+Muscle pain (less common)	CUI=C2750559	PREF=Muscle pain (less common)
+Muscle Pain Adverse Event	CUI=C1963177	PREF=Muscle Pain Adverse Event
+Muscle pain after exercise	CUI=C4014083	PREF=Muscle pain after exercise
+Muscle pain and cramping on exertion	CUI=C3805997	PREF=Muscle pain and cramping on exertion
+Muscle pain and cramping on exertion	CUI=C3805997	PREF=Muscle pain and cramping on exertion
+Muscle pain and cramps following exercise	CUI=C1968737	PREF=Muscle pain and cramps following exercise
+muscle pain in both shoulders	CUI=C2220085	PREF=muscle pain in both shoulders
+muscle pain in both shoulders (symptom)	CUI=C2220085	PREF=muscle pain in both shoulders (symptom)
+muscle pain in left shoulder	CUI=C2220084	PREF=muscle pain in left shoulder
+muscle pain in left shoulder (symptom)	CUI=C2220084	PREF=muscle pain in left shoulder (symptom)
+muscle pain in right shoulder	CUI=C2220083	PREF=muscle pain in right shoulder
+muscle pain in right shoulder (symptom)	CUI=C2220083	PREF=muscle pain in right shoulder (symptom)
+muscle pain in shoulder	CUI=C2220082	PREF=muscle pain in shoulder
+muscle pain in shoulder (symptom)	CUI=C2220082	PREF=muscle pain in shoulder (symptom)
+Muscle pain with exercise	CUI=C1850830	PREF=Muscle pain with exercise
+Muscle pain with exercise (in older patients)	CUI=C1860063	PREF=Muscle pain with exercise (in older patients)
+Muscle pain, exercise-induced	CUI=C1850830	PREF=Muscle pain, exercise-induced
+Muscle soreness	CUI=C0231528	PREF=Muscle soreness
+Muscle soreness	CUI=C0575064	PREF=Muscle soreness
+Muscle tender point	CUI=C0575066	PREF=Muscle tender point
+Muscle tender point (finding)	CUI=C0575066	PREF=Muscle tender point (finding)
+Muscle tenderness	CUI=C0575064	PREF=Muscle tenderness
+Muscle tension pain	CUI=C0458242	PREF=Muscle tension pain
+Muscle tension pain (finding)	CUI=C0458242	PREF=Muscle tension pain (finding)
+Myalgia (diagnosis)	CUI=C0231528	PREF=Myalgia (diagnosis)
+myalgia ankle and foot	CUI=C0839431	PREF=myalgia ankle and foot
+myalgia forearm	CUI=C0839427	PREF=myalgia forearm
+myalgia hand	CUI=C0839428	PREF=myalgia hand
+myalgia lower leg	CUI=C0839430	PREF=myalgia lower leg
+Myalgia NOS	CUI=C0231528	PREF=Myalgia NOS
+myalgia of ankle and foot	CUI=C0839431	PREF=myalgia of ankle and foot
+myalgia of ankle and foot (diagnosis)	CUI=C0839431	PREF=myalgia of ankle and foot (diagnosis)
+myalgia of forearm	CUI=C0839427	PREF=myalgia of forearm
+myalgia of forearm (diagnosis)	CUI=C0839427	PREF=myalgia of forearm (diagnosis)
+myalgia of hand	CUI=C0839428	PREF=myalgia of hand
+myalgia of hand (diagnosis)	CUI=C0839428	PREF=myalgia of hand (diagnosis)
+myalgia of lower leg	CUI=C0839430	PREF=myalgia of lower leg
+myalgia of lower leg (diagnosis)	CUI=C0839430	PREF=myalgia of lower leg (diagnosis)
+myalgia of multiple sites	CUI=C0839424	PREF=myalgia of multiple sites
+myalgia of multiple sites (diagnosis)	CUI=C0839424	PREF=myalgia of multiple sites (diagnosis)
+myalgia of other site	CUI=C0839432	PREF=myalgia of other site
+myalgia of other site (diagnosis)	CUI=C0839432	PREF=myalgia of other site (diagnosis)
+myalgia of pelvic region and thigh	CUI=C0839429	PREF=myalgia of pelvic region and thigh
+myalgia of pelvic region and thigh (diagnosis)	CUI=C0839429	PREF=myalgia of pelvic region and thigh (diagnosis)
+myalgia of shoulder region	CUI=C0839425	PREF=myalgia of shoulder region
+myalgia of shoulder region (diagnosis)	CUI=C0839425	PREF=myalgia of shoulder region (diagnosis)
+myalgia of upper arm	CUI=C0839426	PREF=myalgia of upper arm
+myalgia of upper arm (diagnosis)	CUI=C0839426	PREF=myalgia of upper arm (diagnosis)
+myalgia other site	CUI=C0839432	PREF=myalgia other site
+myalgia pelvic region and thigh	CUI=C0839429	PREF=myalgia pelvic region and thigh
+Myalgia unspecified	CUI=C0231528	PREF=Myalgia unspecified
+Myalgia unspecified (finding)	CUI=C0231528	PREF=Myalgia unspecified (finding)
+Myalgias	CUI=C0231528	PREF=Myalgias
+myalgias started suddenly	CUI=C2232738	PREF=myalgias started suddenly
+Myalgic	CUI=C0231528	PREF=Myalgic
+Myasthenia angiosclerotica	CUI=C0021775	PREF=Myasthenia angiosclerotica
+Myodynia	CUI=C0231528	PREF=Myodynia
+Myofac pain dysfunct syndrome	CUI=C0016053	PREF=Myofac pain dysfunct syndrome
+Myofacial pain dysfunction syndrome	CUI=C0016053	PREF=Myofacial pain dysfunction syndrome
+Myofascial pain dysfunct syn	CUI=C0016053	PREF=Myofascial pain dysfunct syn
+Myofascial pain dysfunction syndrome	CUI=C0016053	PREF=Myofascial pain dysfunction syndrome
+Myofascial pain syndrome	CUI=C0016053	PREF=Myofascial pain syndrome
+Myofascial pain syndrome (disorder)	CUI=C0016053	PREF=Myofascial pain syndrome (disorder)
+Myofascial trigger point syndrome	CUI=C0016053	PREF=Myofascial trigger point syndrome
+Myoneuralgia	CUI=C0231528	PREF=Myoneuralgia
+Myosalgia	CUI=C0231528	PREF=Myosalgia
+Pain on move skeletal muscle	CUI=C0575069	PREF=Pain on move skeletal muscle
+Pain on movement of skeletal muscle	CUI=C0575069	PREF=Pain on movement of skeletal muscle
+Pain on movement of skeletal muscle (finding)	CUI=C0575069	PREF=Pain on movement of skeletal muscle (finding)
+Polymyalgia	CUI=C0521516	PREF=Polymyalgia
+Polymyalgia (disorder)	CUI=C0521516	PREF=Polymyalgia (disorder)
+progressively more severe muscle pain	CUI=C3862538	PREF=progressively more severe muscle pain
+progressively more severe muscle pain (symptom)	CUI=C3862538	PREF=progressively more severe muscle pain (symptom)
+severe muscle pain	CUI=C3862404	PREF=severe muscle pain
+severe muscle pain (symptom)	CUI=C3862404	PREF=severe muscle pain (symptom)
+severe muscle pain spreading to more muscles	CUI=C3862403	PREF=severe muscle pain spreading to more muscles
+severe muscle pain spreading to more muscles (symptom)	CUI=C3862403	PREF=severe muscle pain spreading to more muscles (symptom)
+Skeletal muscle tender	CUI=C0575064	PREF=Skeletal muscle tender
+Skeletal muscle tender (finding)	CUI=C0575064	PREF=Skeletal muscle tender (finding)
+sudden onset of generalized muscle aches	CUI=C2232738	PREF=sudden onset of generalized muscle aches
+sudden onset of generalized muscle aches (symptom)	CUI=C2232738	PREF=sudden onset of generalized muscle aches (symptom)
+Tenalgia	CUI=C0231529	PREF=Tenalgia
+Tenalgia (finding)	CUI=C0231529	PREF=Tenalgia (finding)
+Tender muscles	CUI=C0575064	PREF=Tender muscles
+Tenderness at enthesis	CUI=C0575067	PREF=Tenderness at enthesis
+Tenderness at muscle insertion	CUI=C0575067	PREF=Tenderness at muscle insertion
+Tenderness at muscle insertion (finding)	CUI=C0575067	PREF=Tenderness at muscle insertion (finding)
+Tenderness of tendon	CUI=C0575046	PREF=Tenderness of tendon
+Tenderness of tendon (finding)	CUI=C0575046	PREF=Tenderness of tendon (finding)
+tenderness tendon(s)	CUI=C0575046	PREF=tenderness tendon(s)
+tenderness tendon(s) (physical finding)	CUI=C0575046	PREF=tenderness tendon(s) (physical finding)
+Tendon pain	CUI=C0231529	PREF=Tendon pain
+tendon tenderness was seen	CUI=C0575046	PREF=tendon tenderness was seen
+Tenodynia	CUI=C0231529	PREF=Tenodynia
+thigh muscle pain with an inability to bend forward	CUI=C2128635	PREF=thigh muscle pain with an inability to bend forward
+thigh muscle pain with an inability to bend forward	CUI=C2128635	PREF=thigh muscle pain with an inability to bend forward
+Viral myalgia	CUI=C0410249	PREF=Viral myalgia
+Viral myalgia (disorder)	CUI=C0410249	PREF=Viral myalgia (disorder)
+	CUI=	PREF=

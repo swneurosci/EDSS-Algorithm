@@ -1,0 +1,735 @@
+CUI	STR
+C0454625	DAMP - Deficits in attention motor control and perception
+C0454625	Deficits in attention motor control and perception
+C0454623	Disorders of attention and motor control
+C0589522	Oculomotor control
+C0589522	Oculomotor control, function
+C0454625	Deficits in attention motor control and perception (disorder)
+C0454623	Disorders of attention and motor control (disorder)
+C0589522	Oculomotor control, function (observable entity)
+C0517961	Neurological status: central motor control
+C0517961	Central motor control neurological status
+C0392702	[D]Abnormal involuntary movement NOS (situation)
+C0392702	[D]Abnormal involuntary movements (situation)
+C0476217	[D]Head movements abnormal (situation)
+C1319208	Ability to make coordinated movements
+C1319208	Ability to make coordinated movements (observable entity)
+C0564061	Ability to make movements for speech (observable entity)
+C0562023	Ability to perform fine motor function
+C0562023	Ability to perform fine motor function (observable entity)
+C0560424	Ability to perform gross motor function
+C0560424	Ability to perform gross motor function (observable entity)
+C0563129	Ability to perform oral motor function
+C0563129	Ability to perform oral motor function (observable entity)
+C0578729	Able to imitate tongue movements (finding)
+C0564062	Able to make movements for speech (finding)
+C0563323	Able to perform oral motor functions
+C0563323	Able to perform oral motor functions (finding)
+C4479492	Abnormal hand movements
+C0476217	abnormal head movement
+C0476217	Abnormal head movements
+C0476217	abnormal head movements (diagnosis)
+C0392702	Abnormal involuntary movements
+C0521588	Abnormal jaw movement
+C1842583	Abnormal jerky eye movements
+C0231586	Abnormal joint movement
+C0558189	Abnormal movement
+C0558189	Abnormal movements
+C4313685	Absent motor skills
+C0454464	Active elbow movements
+C0454475	Active foot movements
+C0454466	Active hand movements
+C0454473	Active knee movements
+C0454471	Active lower limb movements
+C0231481	Active movement (function)
+C0231481	Active movement (observable entity)
+C0231481	Active movement, function (observable entity)
+C0454467	Active neck movements
+C0454470	Active pelvic movements
+C0575005	Active range of joint movement absent
+C0575005	Active range of joint movement absent (finding)
+C0574963	Active range of joint movement increased (finding)
+C0575008	Active range of joint movement normal (finding)
+C0575002	Active range of joint movement reduced (finding)
+C0454462	Active shoulder girdle movements
+C0454463	Active shoulder movements
+C0454461	Active upper limb movements
+C0454465	Active wrist movements
+C0454465	Active wrist movements (observable entity)
+C0454465	Active wrist movements (qualifier value)
+C0454465	Active wrist movements, function (observable entity)
+C2127602	ankle catches during movement
+C2127602	ankle catches during movement (symptom)
+C0576209	Ankle joint - painful on movement
+C0576209	Ankle joint - painful on movement (finding)
+C1288131	Ankle joint - range of movement - finding
+C0576183	Ankle joint - range of movement (observable entity)
+C2108795	ankle joint pain feels better after normal movement
+C2126211	ankle joint pain with passive movement
+C2109031	ankle joint stiffness improves after normal movement
+C2088498	ankle pain elicited by motion at initiation of movement
+C2108795	ankle pain feels better after normal movement
+C2126210	ankle pain with active movement
+C2108819	ankle pain worsens with foot movement
+C2108819	ankle pain worsens with foot movement (symptom)
+C2109031	ankle stiffness feels better after normal movement
+C2177869	bilateral ankle pain elicited by active motion at initiation of movement
+C2196502	bilateral ankle pain elicited by motion at initiation of movement
+C2199255	bilateral impaired heel-to-shin movement was seen
+C2127605	both ankles catch during movement
+C2127605	both ankles catch during movement (symptom)
+C2127541	both elbows catch during movement
+C2127634	both hips catch during movement (symptom)
+C2127580	both knees catch during movement
+C2127662	both shoulders catch during movement
+C2127662	both shoulders catch during movement (symptom)
+C2127919	both wrists catch during movement
+C2127919	both wrists catch during movement (symptom)
+C0575253	Cervical spine - painful on movement (finding)
+C1287900	Cervical spine - range of movement - finding
+C2044043	Cervical spine - range of movement (observable entity)
+C0575253	Cervical spine painful on movement
+C0575253	Cervical spine painful on movement (finding)
+C0427083	Control of movement
+C1286480	Control of movement - finding
+C0427083	Control of movement (observable entity)
+C0582221	Decrease range subtal movement
+C1853374	Decreased active movements
+C0582213	Decreased range ankle movement
+C0582184	Decreased range elbow movement
+C0582195	Decreased range fing movement
+C0582217	Decreased range foot movement
+C0582217	Decreased range foot movement
+C0582203	Decreased range hip movement
+C0582208	Decreased range knee movement
+C0582213	Decreased range of ankle movement
+C0582213	Decreased range of ankle movement (finding)
+C0582229	Decreased range of cervical spine movement (finding)
+C0582184	Decreased range of elbow movement
+C0582184	Decreased range of elbow movement (finding)
+C0582195	Decreased range of finger movement
+C0582195	Decreased range of finger movement (finding)
+C0582217	Decreased range of foot movement
+C0582217	Decreased range of foot movement
+C0582217	Decreased range of foot movement (finding)
+C0582217	Decreased range of foot movement (finding)
+C0582203	Decreased range of hip movement
+C0582203	Decreased range of hip movement (finding)
+C0582208	Decreased range of knee movement
+C0582208	Decreased range of knee movement (finding)
+C0582237	Decreased range of lumbar spine movement
+C0582237	Decreased range of lumbar spine movement (finding)
+C0582184	Decreased range of movement of elbows
+C0582208	Decreased range of movement of knees
+C3550895	Decreased range of movement of proximal interphalangeal joints
+C0582180	Decreased range of shoulder movement
+C0582180	Decreased range of shoulder movement (finding)
+C0582221	Decreased range of subtalar movement
+C0582221	Decreased range of subtalar movement (finding)
+C0582233	Decreased range of thoracic spine movement
+C0582233	Decreased range of thoracic spine movement (finding)
+C0582199	Decreased range of thumb movement
+C0582199	Decreased range of thumb movement (finding)
+C0582225	Decreased range of toe movement
+C0582225	Decreased range of toe movement (finding)
+C0582188	Decreased range of wrist movement
+C0582188	Decreased range of wrist movement (finding)
+C0582199	Decreased range thumb movement
+C0582225	Decreased range toe movement
+C0582188	Decreased range wrist movement
+C3810002	Defects in fine motor skills
+C3554395	Difficulties in fine movement of the hands
+C4015243	Difficulties with fine motor skills and coordination
+C0578733	Difficulty imitating tongue movements (finding)
+C0562455	Difficulty in initiating movement
+C0562455	Difficulty in initiating movement (finding)
+C1853406	Difficulty in tongue movements
+C0562455	Difficulty initiating movement
+C0564066	Difficulty making movements for speech (finding)
+C0563327	Difficulty performing oral motor functions
+C0563327	Difficulty performing oral motor functions (finding)
+C2678069	Dyskinetic movements
+C0013421	Dystonic movements
+C0454579	Efferent motor aphasia
+C0454579	Efferent motor dysphasia
+C2127538	elbow catches during movement
+C2127538	elbow catches during movement (symptom)
+C0575699	Elbow joint - painful on movement (finding)
+C1288023	Elbow joint - range of movement - finding
+C0575649	Elbow joint - range of movement (observable entity)
+C2088479	elbow pain was elicited at the initiation of movement
+C1273968	Extrapyramidal movements
+C1273968	Extrapyramidal movements (finding)
+C4314467	Extrapyramidal movements (later onset)
+C0015413	Eye movement
+C1287611	Eye movement - finding
+C0028850	Eye movement disorder
+C0556292	Fine motor disability
+C0562229	Fine motor functions
+C0562229	Fine motor functions (observable entity)
+C0556281	Fine motor impairment
+C4315644	Fine motor impairment, mild
+C0678857	fine motor skills
+C1288190	Finger joint - range of movement - finding
+C0575830	Finger joint - range of movement (observable entity)
+C0575880	Finger joint painful on movement (finding)
+C2127754	fingers 'catch' during movement
+C2127767	fingers of both hands 'catch' during movement
+C2127761	fingers of left hand 'catch' during movement
+C2127761	fingers of left hand 'catch' during movement (symptom)
+C2127755	fingers of right hand 'catch' during movement
+C2127755	fingers of right hand 'catch' during movement (symptom)
+C0424248	Flapping movements of arms (finding)
+C0424247	Flapping movements of hands (finding)
+C0576274	Foot joint - painful on movement
+C0576274	Foot joint - painful on movement (finding)
+C0576246	Foot joint - range of movement
+C1288144	Foot joint - range of movement - finding
+C0576246	Foot joint - range of movement (observable entity)
+C2088501	foot pain was elicited at the initiation of movement
+C0457168	Full movement
+C0455917	Good control of movement
+C0455917	Good control of movement (finding)
+C0556290	Gross motor disability
+C4479271	Gross motor function deficits
+C0677549	Gross motor functions
+C0556280	Gross motor impairment
+C0678858	gross motor skills
+C1286403	Gross movement of body and limbs - finding
+C0427001	Gross movement of body and limbs (observable entity)
+C1285622	Gross movement of limb
+C1285622	Gross movement of limb (observable entity)
+C3176201	Hand movements - left
+C3176178	Hand movements - right
+C2028532	hand pain was elicited by motion at the initiation of movement
+C0476217	Head movements abnormal (finding)
+C2030985	hip catches during movement
+C2030985	hip catches during movement (symptom)
+C1288078	Hip joint - range of movement - finding
+C0576002	Hip joint - range of movement (observable entity)
+C2108676	hip joint pain feels better after normal movement
+C2108676	hip joint pain feels better after normal movement (symptom)
+C0576071	Hip joint painful on movement (finding)
+C2109036	hip joint stiffness feels better after normal movement
+C2031134	hip pain was elicited at the initiation of movement
+C2031101	hip pain was elicited by active abduction at the initiation of movement
+C2031104	hip pain was elicited by active adduction at the initiation of movement
+C2016418	hip pain was elicited by active external rotation at the initiation of movement with the hip extended
+C2031110	hip pain was elicited by active flexion at the initiation of movement
+C2016432	hip pain was elicited by active internal rotation at the initiation of movement with the hip extended
+C2031160	hip pain was elicited by passive abduction at the initiation of movement
+C2032620	hip pain was elicited by passive external rotation at the initiation of movement with the hip extended
+C2032623	hip pain was elicited by passive external rotation at the initiation of movement with the hip flexed
+C0578731	Imitates tongue movements
+C0589187	Imitation of oral motor function
+C0589187	Imitation oral motor function
+C3275368	Impaired fine motor skills
+C2199253	impaired finger-to-nose movement
+C2199253	impaired finger-to-nose movement (physical finding)
+C2199247	impaired finger-to-nose movement on left only
+C2199247	impaired finger-to-nose movement on left only (physical finding)
+C2199248	impaired finger-to-nose movement on right only
+C2199248	impaired finger-to-nose movement on right only (physical finding)
+C2199253	impaired finger-to-nose movement was seen
+C2199247	impaired finger-to-nose movement was seen only on the left
+C2199248	impaired finger-to-nose movement was seen only on the right
+C2199249	impaired heel-shin movement using right heel
+C2199249	impaired heel-shin movement using right heel (physical finding)
+C2199254	impaired heel-to-shin movement
+C2199254	impaired heel-to-shin movement (physical finding)
+C2199255	impaired heel-to-shin movement bilaterally
+C2199255	impaired heel-to-shin movement bilaterally (physical finding)
+C2199250	impaired heel-to-shin movement using left heel
+C2199250	impaired heel-to-shin movement using left heel (physical finding)
+C2199254	impaired heel-to-shin movement was seen
+C2199250	impaired heel-to-shin movement was seen using the left heel
+C3808837	Impaired ocular movements
+C0427086	Involuntary movement
+C0427086	Involuntary movement (finding)
+C2109427	knee catches during movement
+C2109427	knee catches during movement (symptom)
+C0576139	Knee joint - painful on movement
+C0576139	Knee joint - painful on movement (finding)
+C0576094	Knee joint - range of movement
+C1288104	Knee joint - range of movement - finding
+C0576094	Knee joint - range of movement (observable entity)
+C2110491	knee joint pain with active movement
+C2110492	knee joint pain with passive movement
+C2110492	knee joint pain with passive movement (symptom)
+C0576139	Knee joint painful on movement
+C0576139	Knee joint painful on movement (finding)
+C0576139	Knee joint-painful movement
+C2110491	knee pain with active movement
+C2110491	knee pain with active movement (symptom)
+C0427084	Lack of control of movement
+C4540359	Lack of purposeful movement
+C0424232	Lack of spontaneous movement
+C0424232	Lack of spontaneous movements
+C3281031	Lack of volitional movement
+C2127604	left ankle catches during movement
+C2127604	left ankle catches during movement (symptom)
+C2127540	left elbow catches during movement
+C2127540	left elbow catches during movement (symptom)
+C2128004	left fourth toe 'catches' during movement
+C2128001	left great toe 'catches' during movement
+C2128001	left great toe 'catches' during movement (symptom)
+C2127633	left hip catches during movement
+C2127763	left index finger 'catches' during movement
+C2127763	left index finger 'catches' during movement (symptom)
+C2127691	left inner edge shoulder blade pain improves with movement
+C2127690	left inner edge shoulder blade pain unchanged with movement
+C2127689	left inner edge shoulder blade pain worse with movement
+C2127579	left knee catches during movement
+C2127579	left knee catches during movement (symptom)
+C2127766	left little finger 'catches' during movement
+C2127766	left little finger 'catches' during movement (symptom)
+C2128005	left little toe 'catches' during movement
+C2128005	left little toe 'catches' during movement (symptom)
+C2127764	left middle finger 'catches' during movement
+C2127764	left middle finger 'catches' during movement (symptom)
+C2128003	left middle toe 'catches' during movement
+C2128003	left middle toe 'catches' during movement (symptom)
+C2127765	left ring finger 'catches' during movement
+C2128002	left second toe 'catches' during movement
+C2127661	left shoulder catches during movement
+C2127661	left shoulder catches during movement (symptom)
+C2127762	left thumb 'catches' during movement
+C2127762	left thumb 'catches' during movement (symptom)
+C2127691	left upper back pain along inner edge of scapula improves with movement
+C2127690	left upper back pain along inner edge of scapula unchanged with movement
+C2127918	left wrist catches during movement
+C2127918	left wrist catches during movement (symptom)
+C0234652	Lightning eye movement (finding)
+C0555086	Limb movement absent
+C0555086	Limb movement not present
+C4539289	Limitation of carpal and interphalangeal joint movement, progressive
+C0231589	Limitation of joint movement (finding)
+C1851542	Limited hip movement
+C4540512	Limited movement at elbows
+C4540513	Limited movement at wrists
+C4229608	Limited movements of the knee joints
+C1840088	Limited wrist movement
+C0427084	Loss of control of movement
+C0427084	Loss of control of movement (finding)
+C1868513	Loss of fine motor skills
+C1864672	Loss of motor functions
+C4014590	Loss of motor skills
+C4538503	Loss of movement in the elbows (in some patients)
+C4538505	Loss of movement in the knees (uncommon)
+C2678185	Loss of purposeful hand movements
+C2673268	Loss of spontaneous movement
+C2673268	Loss of spontaneous movements
+C2129458	lower back pain in midline improves with movement
+C2129458	lower back pain in midline improves with movement (symptom)
+C2129457	lower back pain in midline unchanged with movement
+C2129457	lower back pain in midline unchanged with movement (symptom)
+C2129456	lower back pain midline worse with movement
+C0575448	Lumbar spine - painful on movement
+C0575448	Lumbar spine - painful on movement (finding)
+C0575375	Lumbar spine - range of movement
+C1287946	Lumbar spine - range of movement - finding
+C0575375	Lumbar spine - range of movement (observable entity)
+C0575448	Lumbar spine painful on movement
+C0575448	Lumbar spine painful on movement (finding)
+C0575448	lumbar spine painful on movement (symptom)
+C0575375	Lumbar spine-range movement
+C2129452	midback pain in midline improves with movement
+C2129452	midback pain in midline improves with movement (symptom)
+C2129451	midback pain in midline unchanged with movement
+C2129451	midback pain in midline unchanged with movement (symptom)
+C2129450	midback pain in midline worse with movement
+C2129450	midback pain in midline worse with movement (symptom)
+C2130081	midback pain unchanged with straining during bowel movement
+C2130081	midback pain unchanged with straining during bowel movements
+C2129247	midback pain worse with straining during bowel movements
+C2129456	midline low back pain worse with movement
+C2129458	midline lower back pain improves with movement
+C2129457	midline lower back pain unchanged with movement
+C2129456	midline lower back pain worse with movement
+C2129452	midline midback pain improves with movement
+C2129451	midline midback pain unchanged with movement
+C2129450	midline midback pain worse with movement
+C2129446	midline upper back pain improves with movement
+C2129445	midline upper back pain is unchanged with movement
+C2129444	midline upper back pain worse with movement
+C4036279	Moderate slowness, poverty or small amplitude of movement
+C4036306	Moderately impaired. Definite and early fatiguing. May have occasional arrests in movement
+C0575060	Muscle movement against resistance incomplete (finding)
+C1834694	Muscle weakness, distal (lower limbs more affected than upper limbs), due to motor neuronopathy
+C1854665	Muscle weakness, symmetric, proximal (lower limbs more affected than upper limbs) due to motor neuronopathy
+C1319209	Neck joint - range of movement
+C1319209	Neck joint - range of movement (observable entity)
+C2219657	neck pain increased by head movement
+C2129421	neck pain increased by head movement bending to left
+C2129422	neck pain increased by head movement turning to right
+C2128493	neck stiffness loosens after ordinary movements
+C0582214	No ankle movement
+C0582214	No ankle movement (finding)
+C0582230	No cervical spine movement (finding)
+C0582185	No elbow movement (finding)
+C0582196	No finger movement (finding)
+C0582218	No foot movement
+C0582218	No foot movement
+C0582218	No foot movement (finding)
+C0582204	No hip movement
+C0582204	No hip movement (finding)
+C0558695	No involuntary movements (context-dependent category)
+C0558695	No involuntary movements (finding)
+C0558695	No involuntary movements (situation)
+C0582209	No knee movement
+C0582209	No knee movement (finding)
+C0582238	No lumbar spine movement
+C0582238	No lumbar spine movement (finding)
+C3553480	No motor skills acquired (in some)
+C4036164	No movement
+C4228112	No purposeful eye movements (patient B)
+C4296871	No purposeful leg movement
+C0582181	No shoulder movement
+C0582181	No shoulder movement (finding)
+C2748966	No spontaneous movements
+C0582222	No subtalar movement
+C0582222	No subtalar movement (finding)
+C0582234	No thoracic spine movement
+C0582234	No thoracic spine movement (finding)
+C0582200	No thumb movement
+C0582200	No thumb movement (finding)
+C0582226	No toe movement
+C0582226	No toe movement (finding)
+C0582189	No wrist movement
+C0582189	No wrist movement (finding)
+C1850572	Normal fine motor activity
+C4509452	Normal or spontaneous movement (< 2 years of age)
+C0582210	Normal range of ankle movement
+C0582210	Normal range of ankle movement (finding)
+C0582227	Normal range of cervical spine movement (finding)
+C0582182	Normal range of elbow movement (finding)
+C0582192	Normal range of finger movement (finding)
+C0582215	Normal range of foot movement
+C0582215	Normal range of foot movement (finding)
+C0582201	Normal range of hip movement
+C0582201	Normal range of hip movement (finding)
+C0582206	Normal range of knee movement
+C0582206	Normal range of knee movement (finding)
+C0582235	Normal range of lumbar spine movement
+C0582235	Normal range of lumbar spine movement (finding)
+C0582178	Normal range of shoulder movement
+C0582178	Normal range of shoulder movement (finding)
+C0582219	Normal range of subtalar movement
+C0582219	Normal range of subtalar movement (finding)
+C0582231	Normal range of thoracic spine movement
+C0582231	Normal range of thoracic spine movement (finding)
+C0582197	Normal range of thumb movement
+C0582197	Normal range of thumb movement (finding)
+C0582223	Normal range of toe movement
+C0582223	Normal range of toe movement (finding)
+C0582186	Normal range of wrist movement
+C0582186	Normal range of wrist movement (finding)
+C0582178	Normal range shoulder movement
+C0582219	Normal range subtalar movement
+C4036172	Normal symmetrical movements
+C0577905	Normal vocal cord movement (finding)
+C0563145	Oral motor functions
+C2088498	pain of ankle elicited by motion at initiation of movement
+C2088498	pain of ankle elicited by motion at initiation of movement (physical finding)
+C2177869	pain of both ankles elicited by active motion at initiation of movement
+C2177869	pain of both ankles elicited by active motion at initiation of movement (physical finding)
+C2196502	pain of both ankles elicited by motion at initiation of movement
+C2196502	pain of both ankles elicited by motion at initiation of movement (physical finding)
+C2196543	pain of both feet elicited at initiation of movement
+C2196543	pain of both feet elicited at initiation of movement (physical finding)
+C2044074	pain of cervical spine elicited by bilateral extension at initiation of movement
+C2044074	pain of cervical spine elicited by bilateral extension at initiation of movement (physical finding)
+C2044077	pain of cervical spine elicited by bilateral flexion at initiation of movement
+C2044077	pain of cervical spine elicited by bilateral flexion at initiation of movement (physical finding)
+C2044080	pain of cervical spine elicited by bilateral lateral bending at initiation of movement
+C2044080	pain of cervical spine elicited by bilateral lateral bending at initiation of movement (physical finding)
+C2044083	pain of cervical spine elicited by bilateral rotation at initiation of movement
+C2044083	pain of cervical spine elicited by bilateral rotation at initiation of movement (physical finding)
+C2044086	pain of cervical spine elicited by left-sided extension at initiation of movement
+C2044086	pain of cervical spine elicited by left-sided extension at initiation of movement (physical finding)
+C2044089	pain of cervical spine elicited by left-sided flexion at initiation of movement
+C2044089	pain of cervical spine elicited by left-sided flexion at initiation of movement (physical finding)
+C2044092	pain of cervical spine elicited by left-sided lateral bending at initiation of movement
+C2044092	pain of cervical spine elicited by left-sided lateral bending at initiation of movement (physical finding)
+C2044095	pain of cervical spine elicited by left-sided rotation at initiation of movement
+C2044095	pain of cervical spine elicited by left-sided rotation at initiation of movement (physical finding)
+C2044098	pain of cervical spine elicited by right-sided extension at initiation of movement
+C2044098	pain of cervical spine elicited by right-sided extension at initiation of movement (physical finding)
+C2044101	pain of cervical spine elicited by right-sided flexion at initiation of movement
+C2044101	pain of cervical spine elicited by right-sided flexion at initiation of movement (physical finding)
+C2044104	pain of cervical spine elicited by right-sided lateral bending at initiation of movement
+C2044104	pain of cervical spine elicited by right-sided lateral bending at initiation of movement (physical finding)
+C2044107	pain of cervical spine elicited by right-sided rotation at initiation of movement
+C2044107	pain of cervical spine elicited by right-sided rotation at initiation of movement (physical finding)
+C2088479	pain of elbow elicited at initiation of movement
+C2088479	pain of elbow elicited at initiation of movement (physical finding)
+C2016681	pain of finger of left hand elicited at initiation of movement
+C2016681	pain of finger of left hand elicited at initiation of movement (physical finding)
+C2031664	pain of finger of left hand elicited by abduction at initiation of movement
+C2031664	pain of finger of left hand elicited by abduction at initiation of movement (physical finding)
+C2031665	pain of finger of left hand elicited by adduction at initiation of movement
+C2031665	pain of finger of left hand elicited by adduction at initiation of movement (physical finding)
+C2031666	pain of finger of left hand elicited by extension at initiation of movement
+C2031666	pain of finger of left hand elicited by extension at initiation of movement (physical finding)
+C2031667	pain of finger of left hand elicited by flexion at initiation of movement
+C2031667	pain of finger of left hand elicited by flexion at initiation of movement (physical finding)
+C2031676	pain of finger of right hand elicited by abduction at initiation of movement
+C2031676	pain of finger of right hand elicited by abduction at initiation of movement (physical finding)
+C2031677	pain of finger of right hand elicited by adduction at initiation of movement
+C2031677	pain of finger of right hand elicited by adduction at initiation of movement (physical finding)
+C2016695	pain of finger of right hand elicited by at initiation of movement
+C2016695	pain of finger of right hand elicited by at initiation of movement (physical finding)
+C2031678	pain of finger of right hand elicited by extension at initiation of movement
+C2031678	pain of finger of right hand elicited by extension at initiation of movement (physical finding)
+C2031679	pain of finger of right hand elicited by flexion at initiation of movement
+C2031679	pain of finger of right hand elicited by flexion at initiation of movement (physical finding)
+C2016660	pain of fingers of both hands elicited at initiation of movement
+C2016660	pain of fingers of both hands elicited at initiation of movement (physical finding)
+C2031643	pain of fingers of both hands elicited by abduction at initiation of movement
+C2031643	pain of fingers of both hands elicited by abduction at initiation of movement (physical finding)
+C2031644	pain of fingers of both hands elicited by adduction at initiation of movement
+C2031644	pain of fingers of both hands elicited by adduction at initiation of movement (physical finding)
+C2031645	pain of fingers of both hands elicited by extension at initiation of movement
+C2031645	pain of fingers of both hands elicited by extension at initiation of movement (physical finding)
+C2031646	pain of fingers of both hands elicited by flexion at initiation of movement
+C2031646	pain of fingers of both hands elicited by flexion at initiation of movement (physical finding)
+C2088501	pain of foot elicited at initiation of movement
+C2088501	pain of foot elicited at initiation of movement (physical finding)
+C2028532	pain of hand elicited at initiation of movement
+C2028532	pain of hand elicited at initiation of movement (physical finding)
+C2031107	pain of hip elicited active extension at initiation of movement
+C2031107	pain of hip elicited active extension at initiation of movement (physical finding)
+C2031110	pain of hip elicited active flexion at initiation of movement
+C2031110	pain of hip elicited active flexion at initiation of movement (physical finding)
+C2031101	pain of hip elicited by active abduction at initiation of movement
+C2031101	pain of hip elicited by active abduction at initiation of movement (physical finding)
+C2031104	pain of hip elicited by active adduction at initiation of movement
+C2031104	pain of hip elicited by active adduction at initiation of movement (physical finding)
+C2016418	pain of hip elicited by active external rotation with hip extended at initiation of movement
+C2016418	pain of hip elicited by active external rotation with hip extended at initiation of movement (physical finding)
+C2016421	pain of hip elicited by active external rotation with hip flexed at initiation of movement
+C2016421	pain of hip elicited by active external rotation with hip flexed at initiation of movement (physical finding)
+C2016432	pain of hip elicited by active internal rotation with hip extended at initiation of movement
+C2016432	pain of hip elicited by active internal rotation with hip extended at initiation of movement (physical finding)
+C2016435	pain of hip elicited by active internal rotation with hip flexed at initiation of movement
+C2016435	pain of hip elicited by active internal rotation with hip flexed at initiation of movement (physical finding)
+C2031134	pain of hip elicited by motion at initiation of movement
+C2031134	pain of hip elicited by motion at initiation of movement (physical finding)
+C2031160	pain of hip elicited by passive abduction at initiation of movement
+C2031160	pain of hip elicited by passive abduction at initiation of movement (physical finding)
+C2031163	pain of hip elicited by passive adduction at initiation of movement
+C2031163	pain of hip elicited by passive adduction at initiation of movement (physical finding)
+C2031166	pain of hip elicited by passive extension at initiation of movement
+C2031166	pain of hip elicited by passive extension at initiation of movement (physical finding)
+C2032620	pain of hip elicited by passive external rotation with hip extended at initiation of movement
+C2032620	pain of hip elicited by passive external rotation with hip extended at initiation of movement (physical finding)
+C2032623	pain of hip elicited by passive external rotation with hip flexed at initiation of movement
+C2032623	pain of hip elicited by passive external rotation with hip flexed at initiation of movement (physical finding)
+C2031169	pain of hip elicited by passive flexion at initiation of movement
+C2031169	pain of hip elicited by passive flexion at initiation of movement (physical finding)
+C2032634	pain of hip elicited by passive internal rotation with hip extended at initiation of movement
+C2032634	pain of hip elicited by passive internal rotation with hip extended at initiation of movement (physical finding)
+C2032637	pain of hip elicited by passive internal rotation with hip flexed at initiation of movement
+C2032637	pain of hip elicited by passive internal rotation with hip flexed at initiation of movement (physical finding)
+C2139489	pain of left ankle elicited by active motion at initiation of movement
+C2139489	pain of left ankle elicited by active motion at initiation of movement (physical finding)
+C2139505	pain of left ankle elicited by motion at initiation of movement
+C2139505	pain of left ankle elicited by motion at initiation of movement (physical finding)
+C2196542	pain of left foot elicited at initiation of movement
+C2196542	pain of left foot elicited at initiation of movement (physical finding)
+C2110456	pain of left knee elicited at initiation of movement
+C2110456	pain of left knee elicited at initiation of movement (physical finding)
+C2199983	pain of lumbosacral spine elicited at initiation of active movement
+C2199983	pain of lumbosacral spine elicited at initiation of active movement (physical finding)
+C2199985	pain of lumbosacral spine elicited at initiation of movement
+C2199985	pain of lumbosacral spine elicited at initiation of movement (physical finding)
+C2199984	pain of lumbosacral spine elicited at initiation of passive movement
+C2199984	pain of lumbosacral spine elicited at initiation of passive movement (physical finding)
+C2177395	pain of right ankle elicited by active motion at initiation of movement
+C2177395	pain of right ankle elicited by active motion at initiation of movement (physical finding)
+C2196501	pain of right ankle elicited by motion at initiation of movement
+C2196501	pain of right ankle elicited by motion at initiation of movement (physical finding)
+C2196541	pain of right foot elicited at initiation of movement
+C2196541	pain of right foot elicited at initiation of movement (physical finding)
+C2110463	pain of right knee elicited by motion at initiation of movement
+C2110463	pain of right knee elicited by motion at initiation of movement (physical finding)
+C2088488	pain of shoulder elicited by motion at initiation of movement
+C2088488	pain of shoulder elicited by motion at initiation of movement (physical finding)
+C2115834	pain of thoracolumbar spine at initiation of active movement
+C2115834	pain of thoracolumbar spine at initiation of active movement (physical finding)
+C2115835	pain of thoracolumbar spine at initiation of passive movement
+C2115835	pain of thoracolumbar spine at initiation of passive movement (physical finding)
+C2088491	pain of thoracolumbar spine elicited at initiation of movement
+C2088491	pain of thoracolumbar spine elicited at initiation of movement (physical finding)
+C2088504	pain of toe elicited at initiation of movement
+C2088504	pain of toe elicited at initiation of movement (physical finding)
+C2144287	pain of toe of left foot elicited at initiation of movement
+C2144287	pain of toe of left foot elicited at initiation of movement (physical finding)
+C2144288	pain of toe of right foot elicited at initiation of movement
+C2144288	pain of toe of right foot elicited at initiation of movement (physical finding)
+C2144286	pain of toes of both feet elicited at initiation of movement
+C2144286	pain of toes of both feet elicited at initiation of movement (physical finding)
+C0423655	Pain on abdominal wall movement (finding)
+C0575033	Pain on joint movement
+C0575033	Pain on joint movement (finding)
+C0567231	Pain on movement of cervix (finding)
+C0567259	Pain on movement of ovary (finding)
+C0576840	Pain on movement of pinna (finding)
+C0575069	Pain on movement of skeletal muscle
+C0575069	Pain on movement of skeletal muscle (finding)
+C0574747	Pain on movement of skin (finding)
+C0567086	Pain on movement of uterus (finding)
+C2032688	pain shooting down arm triggered by neck movement
+C2032688	pain shooting down arm triggered by neck movement (symptom)
+C2196543	pain was elicited at the initiation of movement of both feet
+C0239430	pain with eye movement
+C2032726	pain with eye movement to left
+C2032726	pain with eye movement to left (symptom)
+C2032727	pain with eye movement to right
+C2032727	pain with eye movement to right (symptom)
+C0556864	Passve movement-shouldr girdle
+C3647084	patient activity at time of event - involving dancing / rhythmic movement
+C3647084	patient activity at time of event - involving dancing / rhythmic movement (history)
+C3845453	Patient has no pain or pain does not interfere with activity or movement
+C3844520	Patient has pain that does not interfere with activity or movement
+C0026598	Perception of movement (function)
+C0563325	Performs oral motor functions
+C0563325	Performs oral motor functions
+C0079991	PM - Passive movements
+C2111852	polysomnography: periodic leg movements
+C2111852	polysomnography: periodic leg movements (procedure)
+C0455918	Poor control of movement (finding)
+C1855555	Poor fine and gross motor coordination
+C4014389	Poor fine motor skills
+C0556280	Poor gross motor coordination
+C1848453	Poor motor coordination
+C4479570	Poor motor skills
+C2675268	Poor spontaneous movements
+C3151614	Restricted range of movement in some joints (rare)
+C2127603	right ankle catches during movement
+C2127603	right ankle catches during movement (symptom)
+C2032247	right eye pain with movement
+C2127998	right fourth toe 'catches' during movement
+C2127998	right fourth toe 'catches' during movement (symptom)
+C2127995	right great toe 'catches' during movement
+C2127632	right hip catches during movement
+C2127632	right hip catches during movement (symptom)
+C2127757	right index finger 'catches' during movement
+C2127757	right index finger 'catches' during movement (symptom)
+C2127687	right inner edge shoulder blade pain unchanged with movement
+C2127686	right inner edge shoulder blade pain worse with movement
+C2127578	right knee catches during movement
+C2127578	right knee catches during movement (symptom)
+C2127760	right little finger 'catches' during movement
+C2127999	right little toe 'catches' during movement
+C2127999	right little toe 'catches' during movement (symptom)
+C2127758	right middle finger 'catches' during movement
+C2127758	right middle finger 'catches' during movement (symptom)
+C2127997	right middle toe 'catches' during movement
+C2127997	right middle toe 'catches' during movement (symptom)
+C2127759	right ring finger 'catches' during movement
+C2127996	right second toe 'catches' during movement
+C2127660	right shoulder catches during movement
+C2127660	right shoulder catches during movement (symptom)
+C2127756	right thumb 'catches' during movement
+C2127756	right thumb 'catches' during movement (symptom)
+C2127917	right wrist catches during movement
+C2127659	shoulder catches during movement
+C0575545	Shoulder joint - range of movement
+C1287989	Shoulder joint - range of movement - finding
+C0575545	Shoulder joint - range of movement (observable entity)
+C2128142	shoulder joint pain feels better after normal movement
+C2126208	shoulder joint pain with active movement
+C2126208	shoulder joint pain with active movement (symptom)
+C0575627	Shoulder joint painful on movement
+C0575627	Shoulder joint painful on movement (finding)
+C2109059	shoulder joint stiffness feels better after normal movement
+C2127602	the ankle catches during movement
+C2127538	the elbow catches during movement
+C2127767	the fingers of both hands 'catch' during movement
+C2030985	the hip catches during movement
+C2109427	the knee catches during movement
+C2127604	the left ankle catches during movement
+C2127540	the left elbow catches during movement
+C2128004	the left fourth toe 'catches' during movement
+C2128001	the left great toe 'catches' during movement
+C2127633	the left hip catches during movement
+C2127763	the left index finger 'catches' during movement
+C2127579	the left knee catches during movement
+C2127766	the left little finger 'catches' during movement
+C2128005	the left little toe 'catches' during movement
+C2127764	the left middle finger 'catches' during movement
+C2128003	the left middle toe 'catches' during movement
+C2127765	the left ring finger 'catches' during movement
+C2128002	the left second toe 'catches' during movement
+C2127661	the left shoulder catches during movement
+C2127762	the left thumb 'catches' during movement
+C2127918	the left wrist catches during movement
+C2127603	the right ankle catches during movement
+C2127539	the right elbow catches during movement
+C2127998	the right fourth toe 'catches' during movement
+C2127995	the right great toe 'catches' during movement
+C2127632	the right hip catches during movement
+C2127757	the right index finger 'catches' during movement
+C2127578	the right knee catches during movement
+C2127760	the right little finger 'catches' during movement
+C2127999	the right little toe 'catches' during movement
+C2127758	the right middle finger 'catches' during movement
+C2127997	the right middle toe 'catches' during movement
+C2127759	the right ring finger 'catches' during movement
+C2127996	the right second toe 'catches' during movement
+C2127660	the right shoulder catches during movement
+C2127756	the right thumb 'catches' during movement
+C2127917	the right wrist catches during movement
+C2127659	the shoulder catches during movement
+C2128006	the toes of both feet 'catch' during movement
+C2127916	the wrist catches during movement
+C0575354	Thoracic spine - painful on movement (finding)
+C1287925	Thoracic spine - range of movement - finding
+C0575281	Thoracic spine - range of movement (observable entity)
+C0575905	Thumb joint - range of movement
+C1288204	Thumb joint - range of movement - finding
+C0575905	Thumb joint - range of movement (observable entity)
+C0575966	Thumb joint painful on movement
+C0575966	Thumb joint painful on movement (finding)
+C0575905	Thumb joint-range of movement
+C0576340	Toe joint - range of movement
+C1288220	Toe joint - range of movement - finding
+C0576340	Toe joint - range of movement (observable entity)
+C2108897	toe joint pain with active movement
+C2108898	toe joint pain with passive movement
+C0576390	Toe joint painful on movement
+C0576390	Toe joint painful on movement (finding)
+C2088504	toe pain was elicited at the initiation of movement
+C2127993	toes 'catch' during movement
+C2127993	toes 'catch' during movement (symptom)
+C2128006	toes of both feet 'catch' during movement (symptom)
+C2128000	toes of left foot 'catch' during movement
+C2128000	toes of left foot 'catch' during movement (symptom)
+C2127994	toes of right foot 'catch' during movement
+C2127994	toes of right foot 'catch' during movement (symptom)
+C2127687	upper back pain along inner edge of right scapula unchanged with movement
+C2127687	upper back pain along inner edge of right scapula unchanged with movement (symptom)
+C2127686	upper back pain along inner edge of right scapula worse with movement
+C2127686	upper back pain along inner edge of right scapula worse with movement (symptom)
+C2129446	upper back pain in midline improves with movement
+C2129446	upper back pain in midline improves with movement (symptom)
+C2129445	upper back pain in midline unchanged with movement
+C2129445	upper back pain in midline unchanged with movement (symptom)
+C2129444	upper back pain in midline worse with movement
+C2129444	upper back pain in midline worse with movement (symptom)
+C4229270	Upper motor neuron involvement
+C0749870	Upper motor neuron signs
+C0575026	Weakness of joint movement
+C0575026	Weakness of joint movement (finding)
+C2127916	wrist catches during movement
+C2127916	wrist catches during movement (symptom)
+C0575717	Wrist joint - range of movement
+C1288039	Wrist joint - range of movement - finding
+C0575717	Wrist joint - range of movement (observable entity)
+C0575788	Wrist joint painful movement
+C0575788	Wrist joint painful on movement
+C0575788	Wrist joint painful on movement (finding)
+C0575717	Wrist joint-range of movement
+C2088476	wrist pain was elicited at the initiation of movement
+C2126204	wrist pain with active movement

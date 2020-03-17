@@ -1,0 +1,22 @@
+Imports: {import static gate.Utils.*; }
+
+Phase: EDSSNHSNo
+Input: NHS_No EDSS
+Options: control=all
+
+/*
+ * Get NHS_No for EDSS
+ */
+
+ Rule: EDSSNHSNo
+ Priority: 100
+(
+
+    ({NHS_No}):c
+	({EDSS}):edss
+):match
+-->
+:edss {
+  getOnlyAnn(edssAnnots).getFeatures().put("NHS", 
+    getOnlyAnn(bindings.get("c")).getFeatures().get("nhs_value"));
+}

@@ -1,0 +1,6 @@
+STR	CUI=CUI	PREF=STR
+Relapse episode	CUI=C0580821	PREF=Relapse episode
+Relapse episode (qualifier value)	CUI=C0580821	PREF=Relapse episode (qualifier value)
+Relapse phase	CUI=C0035020	PREF=Relapse phase
+Relapse phase (qualifier value)	CUI=C0035020	PREF=Relapse phase (qualifier value)
+Multiple sclerosis relapse	CUI=C0856120	PREF=Multiple sclerosis relapse

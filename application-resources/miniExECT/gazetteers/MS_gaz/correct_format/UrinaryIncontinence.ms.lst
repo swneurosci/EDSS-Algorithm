@@ -1,0 +1,106 @@
+daytime urinary incontinence	CUI=C0270328	PREF=daytime urinary incontinence
+Dependency urinary incontinence	CUI=C0403671	PREF=Dependency urinary incontinence
+Dependency urinary incontinence (finding)	CUI=C0403671	PREF=Dependency urinary incontinence (finding)
+Finding of urinary incontinence occurrence	CUI=C1720030	PREF=Finding of urinary incontinence occurrence
+Finding of urinary incontinence occurrence (finding)	CUI=C1720030	PREF=Finding of urinary incontinence occurrence (finding)
+Fluid output.urinary incontinence	CUI=C0489513	PREF=Fluid output.urinary incontinence
+frequency of urinary incontinence at night while asleep	CUI=C2187991	PREF=frequency of urinary incontinence at night while asleep
+frequency of urinary incontinence at night while asleep (symptom)	CUI=C2187991	PREF=frequency of urinary incontinence at night while asleep (symptom)
+frequency of urinary incontinence during day	CUI=C2187992	PREF=frequency of urinary incontinence during day
+frequency of urinary incontinence during day (symptom)	CUI=C2187992	PREF=frequency of urinary incontinence during day (symptom)
+Frequently incontinent (7 or more episodes of urinary incontinence, but with at least one episode of continent voiding)	CUI=C3844709	PREF=Frequently incontinent (7 or more episodes of urinary incontinence, but with at least one episode of continent voiding)
+functional urinary incontinence	CUI=C0150042	PREF=functional urinary incontinence
+functional urinary incontinence (diagnosis)	CUI=C0150042	PREF=functional urinary incontinence (diagnosis)
+Functional urinary incontinence (finding)	CUI=C0150042	PREF=Functional urinary incontinence (finding)
+Functional urinary incontinence [CCC]	CUI=C0945576	PREF=Functional urinary incontinence [CCC]
+Intermittent urinary incontinence	CUI=C3472580	PREF=Intermittent urinary incontinence
+Intermittent urinary incontinence (finding)	CUI=C3472580	PREF=Intermittent urinary incontinence (finding)
+Mixed urinary incontinence	CUI=C0869256	PREF=Mixed urinary incontinence
+Number of urinary incontinence episodes	CUI=C1720011	PREF=Number of urinary incontinence episodes
+Number of urinary incontinence episodes (observable entity)	CUI=C1720011	PREF=Number of urinary incontinence episodes (observable entity)
+Other specified urinary incontinence	CUI=C0477757	PREF=Other specified urinary incontinence
+Postural urinary incontinence	CUI=C0403669	PREF=Postural urinary incontinence
+Postural urinary incontinence (diagnosis)	CUI=C0403669	PREF=Postural urinary incontinence (diagnosis)
+Postural urinary incontinence (finding)	CUI=C0403669	PREF=Postural urinary incontinence (finding)
+Reflex urinary incontinence	CUI=C0150043	PREF=Reflex urinary incontinence
+Reflex urinary incontinence (finding)	CUI=C0150043	PREF=Reflex urinary incontinence (finding)
+Reflex urinary incontinence [CCC]	CUI=C0943836	PREF=Reflex urinary incontinence [CCC]
+Reflex urinary incontinence:Find:Pt:Genitourinary system:Ord:Observed.CCC	CUI=C0943836	PREF=Reflex urinary incontinence:Find:Pt:Genitourinary system:Ord:Observed.CCC
+Reflex urinary incontinence:Finding:Point in time:Genitourinary system:Ordinal:Observed.CCC	CUI=C0943836	PREF=Reflex urinary incontinence:Finding:Point in time:Genitourinary system:Ordinal:Observed.CCC
+Stress urinary incontinence	CUI=C0042025	PREF=Stress urinary incontinence
+Stress urinary incontinence (disorder)	CUI=C0042025	PREF=Stress urinary incontinence (disorder)
+Stress urinary incontinence [CCC]	CUI=C0943853	PREF=Stress urinary incontinence [CCC]
+Stress urinary incontinence:Find:Pt:Genitourinary system:Ord:Observed.CCC	CUI=C0943853	PREF=Stress urinary incontinence:Find:Pt:Genitourinary system:Ord:Observed.CCC
+Stress urinary incontinence:Finding:Point in time:Genitourinary system:Ordinal:Observed.CCC	CUI=C0943853	PREF=Stress urinary incontinence:Finding:Point in time:Genitourinary system:Ordinal:Observed.CCC
+Total urinary incontinence	CUI=C0150044	PREF=Total urinary incontinence
+Total urinary incontinence (finding)	CUI=C0150044	PREF=Total urinary incontinence (finding)
+Total urinary incontinence [CCC]	CUI=C0945590	PREF=Total urinary incontinence [CCC]
+Total urinary incontinence:Find:Pt:Genitourinary system:Ord:Observed.CCC	CUI=C0945590	PREF=Total urinary incontinence:Find:Pt:Genitourinary system:Ord:Observed.CCC
+Total urinary incontinence:Finding:Point in time:Genitourinary system:Ordinal:Observed.CCC	CUI=C0945590	PREF=Total urinary incontinence:Finding:Point in time:Genitourinary system:Ordinal:Observed.CCC
+Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility	CUI=C2707774	PREF=Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility
+Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility [CMS Assessment]	CUI=C2707773	PREF=Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility [CMS Assessment]
+Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility:Find:Pt:^Patient:Ord:CMS Assessment	CUI=C2707773	PREF=Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility:Find:Pt:^Patient:Ord:CMS Assessment
+Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility:Finding:Point in time:^Patient:Ordinal:CMS Assessment	CUI=C2707773	PREF=Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility:Finding:Point in time:^Patient:Ordinal:CMS Assessment
+UI - Urinary incontinence	CUI=C0042024	PREF=UI - Urinary incontinence
+Unspecified urinary incontinence	CUI=C0042024	PREF=Unspecified urinary incontinence
+Urge urinary incontinence	CUI=C0150045	PREF=Urge urinary incontinence
+Urge urinary incontinence (finding)	CUI=C0150045	PREF=Urge urinary incontinence (finding)
+Urge urinary incontinence [CCC]	CUI=C0943870	PREF=Urge urinary incontinence [CCC]
+Urinary Incontinence	CUI=C0042024	PREF=Urinary Incontinence
+Urinary incontinence (1 family)	CUI=C4014056	PREF=Urinary incontinence (1 family)
+Urinary incontinence (adult)	CUI=C2673419	PREF=Urinary incontinence (adult)
+urinary incontinence (diagnosis)	CUI=C0042024	PREF=urinary incontinence (diagnosis)
+Urinary incontinence (finding)	CUI=C0042024	PREF=Urinary incontinence (finding)
+Urinary incontinence (in 1 of 3 patients)	CUI=C3552722	PREF=Urinary incontinence (in 1 of 3 patients)
+Urinary incontinence (in some patients with HSAN2D)	CUI=C4012060	PREF=Urinary incontinence (in some patients with HSAN2D)
+Urinary incontinence (in some patients)	CUI=C4230731	PREF=Urinary incontinence (in some patients)
+Urinary incontinence (rare)	CUI=C3808649	PREF=Urinary incontinence (rare)
+Urinary incontinence (variable)	CUI=C3280712	PREF=Urinary incontinence (variable)
+urinary incontinence at least twice a week	CUI=C2188456	PREF=urinary incontinence at least twice a week
+urinary incontinence before reaching bathroom	CUI=C2126234	PREF=urinary incontinence before reaching bathroom
+urinary incontinence before reaching bathroom (symptom)	CUI=C2126234	PREF=urinary incontinence before reaching bathroom (symptom)
+Urinary incontinence care: enuresis	CUI=C0262740	PREF=Urinary incontinence care: enuresis
+urinary incontinence characterized	CUI=C2236602	PREF=urinary incontinence characterized
+Urinary incontinence due to bladder problem	CUI=C3668875	PREF=Urinary incontinence due to bladder problem
+urinary incontinence due to cognitive impairment	CUI=C2368031	PREF=urinary incontinence due to cognitive impairment
+urinary incontinence due to cognitive impairment (diagnosis)	CUI=C2368031	PREF=urinary incontinence due to cognitive impairment (diagnosis)
+Urinary incontinence due to cognitive impairment, or severe physical disability or immobility	CUI=C2349678	PREF=Urinary incontinence due to cognitive impairment, or severe physical disability or immobility
+urinary incontinence due to immobility	CUI=C2368033	PREF=urinary incontinence due to immobility
+urinary incontinence due to immobility (diagnosis)	CUI=C2368033	PREF=urinary incontinence due to immobility (diagnosis)
+urinary incontinence due to severe physical disability	CUI=C2368032	PREF=urinary incontinence due to severe physical disability
+urinary incontinence due to severe physical disability (diagnosis)	CUI=C2368032	PREF=urinary incontinence due to severe physical disability (diagnosis)
+Urinary incontinence due to urethral sphincter incompetence	CUI=C0403666	PREF=Urinary incontinence due to urethral sphincter incompetence
+urinary incontinence gradual onset	CUI=C3645888	PREF=urinary incontinence gradual onset
+urinary incontinence gradual onset (symptom)	CUI=C3645888	PREF=urinary incontinence gradual onset (symptom)
+urinary incontinence occurring at least twice a week	CUI=C2188456	PREF=urinary incontinence occurring at least twice a week
+urinary incontinence occurring at least twice a week (symptom)	CUI=C2188456	PREF=urinary incontinence occurring at least twice a week (symptom)
+Urinary incontinence of non-organic origin	CUI=C0403670	PREF=Urinary incontinence of non-organic origin
+Urinary incontinence of non-organic origin (finding)	CUI=C0403670	PREF=Urinary incontinence of non-organic origin (finding)
+Urinary incontinence of nonorganic origin	CUI=C0403670	PREF=Urinary incontinence of nonorganic origin
+urinary incontinence on exam	CUI=C2188450	PREF=urinary incontinence on exam
+Urinary incontinence or urinary catheter present	CUI=C1830535	PREF=Urinary incontinence or urinary catheter present
+urinary incontinence postural	CUI=C0403669	PREF=urinary incontinence postural
+urinary incontinence preceded by a sudden urge	CUI=C2126233	PREF=urinary incontinence preceded by a sudden urge
+urinary incontinence preceded by sudden urge	CUI=C2126233	PREF=urinary incontinence preceded by sudden urge
+urinary incontinence preceded by sudden urge (symptom)	CUI=C2126233	PREF=urinary incontinence preceded by sudden urge (symptom)
+urinary incontinence presence or absence assessed	CUI=C1964101	PREF=urinary incontinence presence or absence assessed
+urinary incontinence presence or absence assessed (treatment)	CUI=C1964101	PREF=urinary incontinence presence or absence assessed (treatment)
+urinary incontinence volume	CUI=C3645887	PREF=urinary incontinence volume
+urinary incontinence volume (symptom)	CUI=C3645887	PREF=urinary incontinence volume (symptom)
+urinary incontinence volume large	CUI=C3645886	PREF=urinary incontinence volume large
+urinary incontinence volume large (symptom)	CUI=C3645886	PREF=urinary incontinence volume large (symptom)
+urinary incontinence volume small	CUI=C3645885	PREF=urinary incontinence volume small
+urinary incontinence volume small (symptom)	CUI=C3645885	PREF=urinary incontinence volume small (symptom)
+urinary incontinence volume unable to be determined	CUI=C3645884	PREF=urinary incontinence volume unable to be determined
+urinary incontinence volume unable to be determined (symptom)	CUI=C3645884	PREF=urinary incontinence volume unable to be determined (symptom)
+urinary incontinence while supine on exam	CUI=C2188452	PREF=urinary incontinence while supine on exam
+urinary incontinence with anatomical correction	CUI=C2188453	PREF=urinary incontinence with anatomical correction
+urinary incontinence with continuous leakage	CUI=C0150044	PREF=urinary incontinence with continuous leakage
+urinary incontinence with continuous leakage (symptom)	CUI=C0150044	PREF=urinary incontinence with continuous leakage (symptom)
+urinary incontinence without sensory awareness	CUI=C2127284	PREF=urinary incontinence without sensory awareness
+urinary incontinence without sensory awareness (symptom)	CUI=C2127284	PREF=urinary incontinence without sensory awareness (symptom)
+urinary incontinence without sensory awareness of fullness	CUI=C2188457	PREF=urinary incontinence without sensory awareness of fullness
+urinary incontinence without sensory awareness of fullness (symptom)	CUI=C2188457	PREF=urinary incontinence without sensory awareness of fullness (symptom)
+urinary incontinence without sensory awareness of wetness	CUI=C2188458	PREF=urinary incontinence without sensory awareness of wetness
+urinary incontinence without sensory awareness of wetness (symptom)	CUI=C2188458	PREF=urinary incontinence without sensory awareness of wetness (symptom)
+When urinary incontinence occurs	CUI=C1830599	PREF=When urinary incontinence occurs

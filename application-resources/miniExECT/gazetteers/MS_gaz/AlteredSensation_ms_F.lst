@@ -1,0 +1,249 @@
+C0476226	[D]Anaesthesia of skin
+C0476226	[D]Anaesthesia of skin (situation)
+C0476226	[D]Anesthesia of skin
+C0476226	[D]Anesthesia of skin (context-dependent category)
+C0476226	[D]Anesthesia of skin (situation)
+C0241057	[D]Burning of skin
+C0241057	[D]Burning of skin (context-dependent category)
+C0241057	[D]Burning of skin (situation)
+C0020453	[D]Hyperaesthesia
+C0020453	[D]Hyperaesthesia (situation)
+C0020453	[D]Hyperesthesia
+C0020453	[D]Hyperesthesia (context-dependent category)
+C0020453	[D]Hyperesthesia (situation)
+C0020580	[D]Hypesthesia
+C0020580	[D]Hypoaesthesia
+C0020580	[D]Hypoaesthesia (situation)
+C0020580	[D]Hypoesthesia
+C0020580	[D]Hypoesthesia (context-dependent category)
+C0020580	[D]Hypoesthesia (situation)
+C0030554	[D]Paraesthesia
+C0030554	[D]Paraesthesia (situation)
+C0030554	[D]Paresthesia
+C0030554	[D]Paresthesia (context-dependent category)
+C0030554	[D]Paresthesia (situation)
+C0012766	[D]Skin sensation disturb.NOS
+C0012766	[D]Skin sensation disturbance
+C0012766	[D]Skin sensation disturbance (context-dependent category)
+C0012766	[D]Skin sensation disturbance (situation)
+C0012766	[D]Skin sensation disturbance NOS
+C0235050	[D]Tingling of skin
+C0235050	[D]Tingling of skin (context-dependent category)
+C0235050	[D]Tingling of skin (situation)
+C0033774	[X]Pruritus, unspecified
+C0033774	[X]Pruritus, unspecified (disorder)
+C0012766	Abnormal skin sensitivity
+C0423575	Altered sensation
+C0423575	Altered sensation of skin
+C0423575	Altered sensation of skin (finding)
+C0476226	Anaesthesia of skin
+C0476226	Anesthesia of skin
+C0476226	Anesthesia of skin (finding)
+C0241057	Burning of skin
+C0241057	burning sensation
+C0241057	burning sensation (dysesthesia)
+C0241057	Burning sensation of skin
+C0241057	Burning sensation of skin (finding)
+C0241057	burning sensation of skin (symptom)
+C0241057	BURNING SKIN
+C0423575	Changed sensation
+C0151838	Circumoral paraesthesia
+C0151838	Circumoral paresthesia
+C0151838	Circumoral paresthesia (finding)
+C0520902	Decreased skin sensitivity
+C0520902	Decreased skin sensitivity (finding)
+C0423575	Different sensation
+C0423575	Disturbance of skin sensation
+C0012766	disturbances in skin sensation
+C0012766	Disturbances of skin sensation
+C0012766	disturbances of skin sensation (symptom)
+C0423575	Disturbed sensation
+C0392699	DYSAESTHESIA
+C0392699	Dysaesthesia (abnormal sensation)
+C0392699	DYSESTHESIA
+C0241057	dysesthesia
+C0392699	Dysesthesia (abnormal sensation)
+C0392699	Dysesthesia (finding)
+C0392699	Dysesthesia (finding) [Ambiguous]
+C0392699	Dysesthesias
+C0576659	Finding of sensation of touch
+C0576659	Finding of sensation of touch (finding)
+C0576651	Finding of temperature sense
+C0576651	Finding of temperature sense (finding)
+C0576682	Finding of vibration sense
+C0576682	Finding of vibration sense (finding)
+C0576698	Graphaesthesia absent
+C0576698	Graphesthesia absent
+C0576698	Graphesthesia absent (finding)
+C0439814	Has prickling sensation
+C0439814	Has prickling sensation (finding)
+C2242996	Has tingling sensation
+C0235050	Has tingling sensation
+C2242996	Has tingling sensation (finding)
+C0020453	Heightened sensation
+C0020453	Heightened sensation of skin
+C0020453	Heightened sensation of skin (finding)
+C0686769	Hutchinson mask
+C0686769	Hutchinson's mask
+C0686769	Hutchinson's mask (finding)
+C0020453	HYPERAESTHESIA
+C0020453	Hyperaesthesia (increased sensitivity)
+C0020453	Hyperesthesia
+C0020453	Hyperesthesia (finding)
+C0020453	Hyperesthesia (increased sensitivity)
+C0020453	hyperesthesia as symptom
+C0020453	Hypersensitivity - sensation
+C0020580	Hypesthesia
+C0020580	Hypesthesia (finding)
+C0020580	HYPOAESTHESIA
+C0020580	Hypoaesthesia (reduced sensation)
+C0020580	Hypoesthesia
+C0020580	Hypoesthesia (reduced sensation)
+C0020580	Impaired sensation
+C0020453	Increased sensitivity - sensation
+C0020453	increased sensitivity to touch or pain
+C0020453	increased sensitivity to touch or pain (symptom)
+C0020453	increased sensitivity to touch or pain as symptom
+C0020453	Increased sensitivity-sensatn
+C0033774	Irritating sensation
+C0033774	Irritation - sensation
+C0033774	Itch
+C0033774	Itch NOS
+C0033774	Itch of skin
+C0033774	Itch of skin (observable entity)
+C0033774	Itch of skin, NOS
+C0033774	Itching
+C0033774	Itching (finding)
+C0033774	itching (pruritus)
+C0033774	Itching of skin
+C0033774	Itching of skin (finding)
+C0033774	itching skin
+C0033774	Itchy
+C0020580	Limited sensation
+C1302066	Loss of protective sensation of skin
+C1302066	Loss of protective sensation of skin (finding)
+C0522057	Loss of sensation of skin
+C0522057	Loss of sensation of skin (finding)
+C0520899	Normal skin sensitivity
+C0520899	Normal skin sensitivity (finding)
+C0522057	Numbness of skin
+C0522057	Numbness of skin (finding)
+C0576659	Obs of sensation of touch
+C0576651	Obs of temperature sense
+C0576659	Observation of sensation of touch
+C0576651	Observation of temperature sense
+C0576682	Observation of vibration sense
+C0241136	Pain of skin
+C0241136	Pain of skin (finding)
+C0030554	PARAESTHESIA
+C0030554	Paraesthesia (numbness/tingling)
+C0151838	PARAESTHESIA CIRCUMORAL
+C0587058	Paraesthesia of arm
+C0239591	Paraesthesia of finger
+C0239652	Paraesthesia of foot
+C0239836	Paraesthesia of hand
+C0235046	Paraesthesia of skin
+C0587058	Paraesthesia of upper extremity
+C0587058	Paraesthesia of upper limb
+C0235046	PARAESTHESIA SKIN
+C0030554	Paraesthesias
+C0030554	Paraesthesias
+C0030554	Paresthesia
+C2242996	paresthesia
+C0030554	Paresthesia
+C0030554	Paresthesia (finding)
+C0030554	Paresthesia (numbness/tingling)
+C0587058	Paresthesia (numbness/tingling) of arm
+C0151838	PARESTHESIA CIRCUMORAL
+C0587058	Paresthesia of arm
+C0239591	Paresthesia of finger
+C0239591	Paresthesia of finger (finding)
+C0239652	Paresthesia of foot
+C0239652	Paresthesia of foot (finding)
+C0239836	Paresthesia of hand
+C0239836	Paresthesia of hand (finding)
+C0235046	Paresthesia of skin
+C0235046	Paresthesia of skin (finding)
+C0587058	Paresthesia of upper extremity
+C0587058	Paresthesia of upper limb
+C0587058	Paresthesia of upper limb (finding)
+C0235046	PARESTHESIA SKIN
+C0587058	Paresthesia upper limb
+C0030554	PARESTHESIAS
+C0423572	Pins and needles
+C0423572	Pins and needles (finding)
+C0423572	Pins and needles (physical object)
+C0423572	Pins and needles sensation
+C0439814	Pricking sensation
+C0439814	Pricking: [sensation] or [has sensation]
+C0439814	Pricking: [sensation] or [has sensation] (finding)
+C0439814	Prickling
+C0439814	Prickling (qualifier value)
+C0439814	Prickling sensation
+C0439814	Prickling sensation (finding)
+C0439814	Prickling sensation of skin
+C0439814	Prickling sensation of skin (finding)
+C0439814	Prickling sensation quality
+C0439814	Prickling sensation quality (qualifier value)
+C0033774	Pruritic dermatitis
+C0033774	Pruritic dermatitis, NOS
+C0033774	Pruritic disorder
+C0033774	Pruritic disorders
+C0033774	Pruritic disorders (disorder)
+C0033774	PRURITIS
+C0033774	Pruritus
+C0033774	Pruritus - disorder
+C0033774	pruritus (diagnosis)
+C0033774	Pruritus (disorder)
+C0033774	Pruritus (finding)
+C0033774	pruritus (symptom)
+C0033774	Pruritus [Ambiguous]
+C0033774	Pruritus [dup] (finding)
+C0033774	Pruritus NOS
+C0033774	Pruritus NOS (disorder)
+C0033774	Pruritus of skin
+C0033774	Pruritus of skin (finding)
+C0033774	Pruritus of skin (finding) [Ambiguous]
+C0033774	Pruritus of skin, NOS
+C0033774	Pruritus, NOS
+C0033774	Pruritus, unspecified
+C0520903	Radiosensitivity of skin
+C0020580	Reduced sensation
+C0020580	Reduced sensation of skin
+C0020580	Reduced sensation of skin (finding)
+C0241057	Sensation of burning of skin
+C0241057	Sensation of burning of skin (finding)
+C0423580	Sensitive to touch
+C0423580	Sensitive to touch (finding)
+C0020580	Sensory impairment
+C0574746	Skin non-tender
+C0574746	Skin non-tender (context-dependent category)
+C0574746	Skin non-tender (finding)
+C0574746	Skin non-tender (situation)
+C0012766	Skin sensation disturb.NOS
+C0012766	Skin sensation disturbance
+C0012766	Skin sensation disturbance (finding)
+C0012766	Skin sensation disturbance NOS
+C0241164	Skin tender
+C0241164	Skin tender (finding)
+C0241164	Skin tenderness
+C0241164	Skin tenderness (finding)
+C1442877	Sore
+C1442877	Sore skin
+C1442877	Sore skin (finding)
+C0020580	Tactile hypaesthesia
+C0020580	Tactile hypesthesia
+C0020580	Tactile hypesthesia (finding)
+C2242996	Tingling
+C2242996	tingling (paresthesia)
+C2242996	tingling (symptom)
+C0235050	Tingling of skin
+C0235050	Tingling of skin (finding)
+C2242996	Tingling sensation
+C0235050	TINGLING SKIN
+C2242996	Tingling: [sensation] or [has sensation]
+C2242996	Tingling: [sensation] or [has sensation] (finding)
+C0521673	Unilateral sensory loss of face and trunk, opposite sides
+C0521673	Unilateral sensory loss of face and trunk, opposite sides (finding)
+C0521673	Unilateral sensory loss of face and trunk, opposite sides (situation)
+

@@ -1,0 +1,193 @@
+CUI	STR
+C0026769	Multiple Sclerosis
+C0235962	MULTIPLE SCLEROSIS AGGRAVATED
+C0270784	Brain stem multiple sclerosis
+C0338475	Cord multiple sclerosis
+C0026769	Generalized multiple sclerosis
+C0026769	Multiple sclerosis, NOS
+C0026769	Generalised multiple sclerosis
+C0026769	MS - Multiple sclerosis
+C0026769	Multiple sclerosis NOS
+C0338475	Multiple sclerosis of the spinal cord
+C0338475	Multiple sclerosis-spinal cord
+C0393664	Acute relapsing multiple sclerosis
+C0393665	Chron prog multiple sclerosis
+C0393665	Chronic progressive multiple sclerosis
+C0455388	FH: Multiple sclerosis
+C0451246	Kurtzke multiple sclerosis rating scale
+C0451246	Kurtzke multiple sclerosis scale
+C0455388	Family history: Multiple sclerosis (context-dependent category)
+C0455388	Family history: Multiple sclerosis (situation)
+C1859904	Adult patients have heterogeneous symptoms including some with relapsing-remitting symptoms similar to multiple sclerosis
+C1868685	MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO
+C0581392	Exacerbation of multiple sclerosis
+C0455388	Family history of multiple sclerosis
+C0455388	FH multiple sclerosis
+C0751965	Secondary progressive multiple sclerosis
+C0455388	Family history: Multiple sclerosis
+C0751965	Secondary progressive multiple sclerosis (disorder)
+C0751967	Relapsing remitting multiple sclerosis (disorder)
+C0751967	Relapsing remitting multiple sclerosis
+C0751964	Primary progressive multiple sclerosis (disorder)
+C0751964	Primary progressive multiple sclerosis
+C0026769	multiple sclerosis (diagnosis)
+C0026769	generalized multiple sclerosis (diagnosis)
+C0338475	multiple sclerosis localized to spinal cord
+C0270784	multiple sclerosis localized to brain stem (diagnosis)
+C0270784	multiple sclerosis localized to brain stem
+C0270784	multiple sclerosis localized to the brain stem
+C0338475	multiple sclerosis localized to spinal cord (diagnosis)
+C0338475	multiple sclerosis localized to the spinal cord
+C0270784	Multiple sclerosis of the brainstem
+C0393666	Remittent-progressive multiple sclerosis
+C2585570	Benign multiple sclerosis
+C2586221	Malignant multiple sclerosis
+C2585570	Benign multiple sclerosis (disorder)
+C2586221	Malignant multiple sclerosis (disorder)
+C2584785	Behaviour related to multiple sclerosis self management
+C2584785	Behavior related to multiple sclerosis self management (observable entity)
+C2584785	Behavior related to multiple sclerosis self management
+C2675476	MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 4
+C2675477	MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 3
+C2675478	MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 2
+C3888106	MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 1
+C2675478	MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 2 (finding)
+C2708305	Multiple sclerosis panel:-:Pt:Ser+CSF:-
+C2737148	Multiple sclerosis in last 7D
+C0270784	Multiple sclerosis of brain stem
+C2875068	Disseminated multiple sclerosis
+C0338475	Multiple sclerosis of cord
+C3533265	Functional assessment of multiple sclerosis questionnaire - version 4
+C3553728	MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 5
+C2739383	Multiple sclerosis in last 7 days [MDSv3]
+C0581392	Multiple sclerosis (MS) exacerbation
+C0026769	Multiple sclerosis NOS (disorder)
+C1276811	Other drugs used for the treatment of multiple sclerosis (product)
+C0270784	Brain stem multiple sclerosis (disorder)
+C0338475	Cord multiple sclerosis (disorder)
+C0751967	Multiple sclerosis (MS) relapsing remitting
+C0751964	Multiple sclerosis (MS) primary progressive
+C0393665	Multiple sclerosis (MS) chronic/progressive
+C1276811	Other drugs used for the treatment of multiple sclerosis
+C0455388	FH: Multiple sclerosis (situation)
+C0026769	Multiple sclerosis (disorder)
+C0393666	Multiple sclerosis (MS) remitting progressive
+C0751965	Multiple sclerosis (MS) secondary progressive
+C3697908	Dementia due to multiple sclerosis with altered behaviour
+C3697128	Dementia associated with multiple sclerosis
+C3697908	Dementia due to multiple sclerosis with altered behavior
+C3697128	Dementia associated with multiple sclerosis (disorder)
+C3697908	Dementia due to multiple sclerosis with altered behavior (disorder)
+C3669354	Multiple sclerosis action plan
+C3483347	Functional Assessment of multiple sclerosis questionnaire - version 4 (FAMS) [FACIT]
+C1716762	Multiple sclerosis [Minimum Data Set]
+C3483347	Functional assessment of multiple sclerosis questionnaire - version 4:-:Pt:^Patient:-:FACIT
+C3483347	Functional assessment of multiple sclerosis questionnaire - version 4:-:Point in time:^Patient:-:FACIT
+C1716762	Multiple sclerosis:Find:Pt:^Patient:Ord:MDS
+C1716762	Multiple sclerosis:Finding:Point in time:^Patient:Ordinal:MDS
+C3669353	Multiple sclerosis action plan
+C3669353	Multiple sclerosis action plan:Finding:Point in time:{Setting}:Document:{Provider}
+C3839390	Suspected multiple sclerosis
+C3839267	Multiple sclerosis clinic
+C3839267	Multiple sclerosis clinic (environment)
+C3839390	Suspected multiple sclerosis (situation)
+C0026769	Multiple sclerosis - MS
+C3875963	Multiple sclerosis data web-based application software (physical object)
+C3875963	Multiple sclerosis data web-based application software
+C2677247	MULTIPLE SCLEROSIS, DISEASE PROGRESSION, MODIFIER OF
+C4047687	Functional quadriplegia due to multiple sclerosis (disorder)
+C4047687	Functional quadriplegia due to multiple sclerosis
+C3669353	Multiple sclerosis action plan:Finding:Point in time:{Setting}:Document:{Role}
+C2739383	Multiple sclerosis in last 7D:Find:7D:^Patient:Ord:MDSv3
+C2739383	Multiple sclerosis in last 7D:Finding:7 days:^Patient:Ordinal:MDSv3
+C3669353	Multiple sclerosis action plan:Find:Pt:{Setting}:Doc:{Role}
+C3827008	Functional Assessment of Multiple Sclerosis Questionnaire
+C4489305	Neurologic conditions- multiple sclerosis
+C4487316	Multiple sclerosis action plan &#x7C; {Setting}
+C0026769	Multiple sclerosis (MS)
+C0393666	Progressive relapsing multiple sclerosis (disorder)
+C4518551	Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome
+C4518551	Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome (disorder)
+C0393666	Progressive relapsing multiple sclerosis
+C4047684	Cognitive deficit due to multiple sclerosis
+C4047684	Congitive deficit due to multiple sclerosis
+C4047684	Congitive impairment due to multiple sclerosis
+C4047684	Congitive impairment due to multiple sclerosis (disorder)
+C4047684	Cognitive impairment due to multiple sclerosis (disorder)
+C4047684	Cognitive impairment due to multiple sclerosis
+C3697128	dementia in dis class elsewhere associated with multiple sclerosis
+C3697128	Dementia associated with multiple sclerosis (diagnosis)
+C0393665	Chronic progressive multiple sclerosis (disorder)
+C0581392	Exacerbation of multiple sclerosis (disorder)
+C0026769	Generalized multiple sclerosis (disorder)
+C0393664	Acute relapsing multiple sclerosis (disorder)
+C0451246	Kurtzke multiple sclerosis rating scale (assessment scale)
+C0270784	Multiple sclerosis of the brainstem (disorder)
+C0338475	Multiple sclerosis of the spinal cord (disorder)
+C0393666	Remittent-progressive multiple sclerosis (disorder)
+C1276811	Other drugs used for the treatment of multiple sclerosis (substance)
+C0026769	Disseminated sclerosis
+C0026769	Multiple Sclerosis
+C0026769	Generalized multiple sclerosis
+C0026769	Multiple sclerosis, NOS
+C0026769	DS - Disseminated sclerosis
+C0026769	Generalised multiple sclerosis
+C0026769	MS - Multiple sclerosis
+C0026769	Multiple sclerosis NOS
+C0026769	multiple sclerosis (diagnosis)
+C0026769	generalized multiple sclerosis (diagnosis)
+C0026769	Multiple sclerosis NOS (disorder)
+C0026769	Multiple sclerosis (disorder)
+C0026769	Multiple sclerosis - MS
+C0026769	Multiple sclerosis (MS)
+C0026769	Generalized multiple sclerosis (disorder)
+C0338475	Cord multiple sclerosis
+C0338475	Multiple sclerosis of the spinal cord
+C0338475	Multiple sclerosis-spinal cord
+C0338475	multiple sclerosis localized to spinal cord
+C0338475	multiple sclerosis localized to spinal cord (diagnosis)
+C0338475	multiple sclerosis localized to the spinal cord
+C0338475	Multiple sclerosis of cord
+C0338475	Cord multiple sclerosis (disorder)
+C0338475	Multiple sclerosis of the spinal cord (disorder)
+C0393664	Acute relapsing mult sclerosis
+C0393664	Acute relapsing multiple sclerosis
+C0393664	Acute relapsing multiple sclerosis (disorder)
+C0393665	Chron prog multiple sclerosis
+C0393665	Chronic progressive multiple sclerosis
+C0393665	Multiple sclerosis (MS) chronic/progressive
+C0393665	Chronic progressive multiple sclerosis (disorder)
+C0581392	Exacerbation of multiple sclerosis
+C0581392	Exacerbation multple sclerosis
+C0581392	Multiple sclerosis (MS) exacerbation
+C0581392	Exacerbation of multiple sclerosis (disorder)
+C0270784	Brain stem multiple sclerosis
+C0270784	multiple sclerosis localized to brain stem (diagnosis)
+C0270784	multiple sclerosis localized to brain stem
+C0270784	multiple sclerosis localized to the brain stem
+C0270784	Multipl sclerosis of brainstem
+C0270784	Multiple sclerosis of the brainstem
+C0270784	Multiple sclerosis of brain stem
+C0270784	Brain stem multiple sclerosis (disorder)
+C0270784	Multiple sclerosis of the brainstem (disorder)
+C0393666	Remittent-prog mult sclerosis
+C0393666	Remittent-progressive multiple sclerosis
+C0393666	Multiple sclerosis (MS) remitting progressive
+C0393666	Progressive relapsing multiple sclerosis (disorder)
+C0393666	Progressive relapsing multiple sclerosis
+C0393666	Remittent-progressive multiple sclerosis (disorder)
+C0751967	Relapsing remitting multiple sclerosis (disorder)
+C0751967	Relapsing remitting multiple sclerosis
+C0751967	Multiple sclerosis (MS) relapsing remitting
+C2585570	Benign multiple sclerosis
+C2585570	Benign multiple sclerosis (disorder)
+C2586221	Malignant multiple sclerosis
+C2586221	Malignant multiple sclerosis (disorder)
+C4518551	Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome
+C4518551	Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome (disorder)
+C0751965	Secondary progressive multiple sclerosis
+C0751965	Secondary progressive multiple sclerosis (disorder)
+C0751965	Multiple sclerosis (MS) secondary progressive
+C0751964	Primary progressive multiple sclerosis (disorder)
+C0751964	Primary progressive multiple sclerosis
+C0751964	Multiple sclerosis (MS) primary progressive

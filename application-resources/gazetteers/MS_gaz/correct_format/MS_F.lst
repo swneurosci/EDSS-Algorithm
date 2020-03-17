@@ -1,0 +1,193 @@
+STR	CUI=CUI	PREF=STR
+Multiple Sclerosis	CUI=C0026769	PREF=Multiple Sclerosis
+MULTIPLE SCLEROSIS AGGRAVATED	CUI=C0235962	PREF=MULTIPLE SCLEROSIS AGGRAVATED
+Brain stem multiple sclerosis	CUI=C0270784	PREF=Brain stem multiple sclerosis
+Cord multiple sclerosis	CUI=C0338475	PREF=Cord multiple sclerosis
+Generalized multiple sclerosis	CUI=C0026769	PREF=Generalized multiple sclerosis
+Multiple sclerosis, NOS	CUI=C0026769	PREF=Multiple sclerosis, NOS
+Generalised multiple sclerosis	CUI=C0026769	PREF=Generalised multiple sclerosis
+MS - Multiple sclerosis	CUI=C0026769	PREF=MS - Multiple sclerosis
+Multiple sclerosis NOS	CUI=C0026769	PREF=Multiple sclerosis NOS
+Multiple sclerosis of the spinal cord	CUI=C0338475	PREF=Multiple sclerosis of the spinal cord
+Multiple sclerosis-spinal cord	CUI=C0338475	PREF=Multiple sclerosis-spinal cord
+Acute relapsing multiple sclerosis	CUI=C0393664	PREF=Acute relapsing multiple sclerosis
+Chron prog multiple sclerosis	CUI=C0393665	PREF=Chron prog multiple sclerosis
+Chronic progressive multiple sclerosis	CUI=C0393665	PREF=Chronic progressive multiple sclerosis
+FH: Multiple sclerosis	CUI=C0455388	PREF=FH: Multiple sclerosis
+Kurtzke multiple sclerosis rating scale	CUI=C0451246	PREF=Kurtzke multiple sclerosis rating scale
+Kurtzke multiple sclerosis scale	CUI=C0451246	PREF=Kurtzke multiple sclerosis scale
+Family history: Multiple sclerosis (context-dependent category)	CUI=C0455388	PREF=Family history: Multiple sclerosis (context-dependent category)
+Family history: Multiple sclerosis (situation)	CUI=C0455388	PREF=Family history: Multiple sclerosis (situation)
+Adult patients have heterogeneous symptoms including some with relapsing-remitting symptoms similar to multiple sclerosis	CUI=C1859904	PREF=Adult patients have heterogeneous symptoms including some with relapsing-remitting symptoms similar to multiple sclerosis
+MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO	CUI=C1868685	PREF=MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO
+Exacerbation of multiple sclerosis	CUI=C0581392	PREF=Exacerbation of multiple sclerosis
+Family history of multiple sclerosis	CUI=C0455388	PREF=Family history of multiple sclerosis
+FH multiple sclerosis	CUI=C0455388	PREF=FH multiple sclerosis
+Secondary progressive multiple sclerosis	CUI=C0751965	PREF=Secondary progressive multiple sclerosis
+Family history: Multiple sclerosis	CUI=C0455388	PREF=Family history: Multiple sclerosis
+Secondary progressive multiple sclerosis (disorder)	CUI=C0751965	PREF=Secondary progressive multiple sclerosis (disorder)
+Relapsing remitting multiple sclerosis (disorder)	CUI=C0751967	PREF=Relapsing remitting multiple sclerosis (disorder)
+Relapsing remitting multiple sclerosis	CUI=C0751967	PREF=Relapsing remitting multiple sclerosis
+Primary progressive multiple sclerosis (disorder)	CUI=C0751964	PREF=Primary progressive multiple sclerosis (disorder)
+Primary progressive multiple sclerosis	CUI=C0751964	PREF=Primary progressive multiple sclerosis
+multiple sclerosis (diagnosis)	CUI=C0026769	PREF=multiple sclerosis (diagnosis)
+generalized multiple sclerosis (diagnosis)	CUI=C0026769	PREF=generalized multiple sclerosis (diagnosis)
+multiple sclerosis localized to spinal cord	CUI=C0338475	PREF=multiple sclerosis localized to spinal cord
+multiple sclerosis localized to brain stem (diagnosis)	CUI=C0270784	PREF=multiple sclerosis localized to brain stem (diagnosis)
+multiple sclerosis localized to brain stem	CUI=C0270784	PREF=multiple sclerosis localized to brain stem
+multiple sclerosis localized to the brain stem	CUI=C0270784	PREF=multiple sclerosis localized to the brain stem
+multiple sclerosis localized to spinal cord (diagnosis)	CUI=C0338475	PREF=multiple sclerosis localized to spinal cord (diagnosis)
+multiple sclerosis localized to the spinal cord	CUI=C0338475	PREF=multiple sclerosis localized to the spinal cord
+Multiple sclerosis of the brainstem	CUI=C0270784	PREF=Multiple sclerosis of the brainstem
+Remittent-progressive multiple sclerosis	CUI=C0393666	PREF=Remittent-progressive multiple sclerosis
+Benign multiple sclerosis	CUI=C2585570	PREF=Benign multiple sclerosis
+Malignant multiple sclerosis	CUI=C2586221	PREF=Malignant multiple sclerosis
+Benign multiple sclerosis (disorder)	CUI=C2585570	PREF=Benign multiple sclerosis (disorder)
+Malignant multiple sclerosis (disorder)	CUI=C2586221	PREF=Malignant multiple sclerosis (disorder)
+Behaviour related to multiple sclerosis self management	CUI=C2584785	PREF=Behaviour related to multiple sclerosis self management
+Behavior related to multiple sclerosis self management (observable entity)	CUI=C2584785	PREF=Behavior related to multiple sclerosis self management (observable entity)
+Behavior related to multiple sclerosis self management	CUI=C2584785	PREF=Behavior related to multiple sclerosis self management
+MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 4	CUI=C2675476	PREF=MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 4
+MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 3	CUI=C2675477	PREF=MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 3
+MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 2	CUI=C2675478	PREF=MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 2
+MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 1	CUI=C3888106	PREF=MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 1
+MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 2 (finding)	CUI=C2675478	PREF=MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 2 (finding)
+Multiple sclerosis panel:-:Pt:Ser+CSF:-	CUI=C2708305	PREF=Multiple sclerosis panel:-:Pt:Ser+CSF:-
+Multiple sclerosis in last 7D	CUI=C2737148	PREF=Multiple sclerosis in last 7D
+Multiple sclerosis of brain stem	CUI=C0270784	PREF=Multiple sclerosis of brain stem
+Disseminated multiple sclerosis	CUI=C2875068	PREF=Disseminated multiple sclerosis
+Multiple sclerosis of cord	CUI=C0338475	PREF=Multiple sclerosis of cord
+Functional assessment of multiple sclerosis questionnaire - version 4	CUI=C3533265	PREF=Functional assessment of multiple sclerosis questionnaire - version 4
+MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 5	CUI=C3553728	PREF=MULTIPLE SCLEROSIS, SUSCEPTIBILITY TO, 5
+Multiple sclerosis in last 7 days [MDSv3]	CUI=C2739383	PREF=Multiple sclerosis in last 7 days [MDSv3]
+Multiple sclerosis (MS) exacerbation	CUI=C0581392	PREF=Multiple sclerosis (MS) exacerbation
+Multiple sclerosis NOS (disorder)	CUI=C0026769	PREF=Multiple sclerosis NOS (disorder)
+Other drugs used for the treatment of multiple sclerosis (product)	CUI=C1276811	PREF=Other drugs used for the treatment of multiple sclerosis (product)
+Brain stem multiple sclerosis (disorder)	CUI=C0270784	PREF=Brain stem multiple sclerosis (disorder)
+Cord multiple sclerosis (disorder)	CUI=C0338475	PREF=Cord multiple sclerosis (disorder)
+Multiple sclerosis (MS) relapsing remitting	CUI=C0751967	PREF=Multiple sclerosis (MS) relapsing remitting
+Multiple sclerosis (MS) primary progressive	CUI=C0751964	PREF=Multiple sclerosis (MS) primary progressive
+Multiple sclerosis (MS) chronic/progressive	CUI=C0393665	PREF=Multiple sclerosis (MS) chronic/progressive
+Other drugs used for the treatment of multiple sclerosis	CUI=C1276811	PREF=Other drugs used for the treatment of multiple sclerosis
+FH: Multiple sclerosis (situation)	CUI=C0455388	PREF=FH: Multiple sclerosis (situation)
+Multiple sclerosis (disorder)	CUI=C0026769	PREF=Multiple sclerosis (disorder)
+Multiple sclerosis (MS) remitting progressive	CUI=C0393666	PREF=Multiple sclerosis (MS) remitting progressive
+Multiple sclerosis (MS) secondary progressive	CUI=C0751965	PREF=Multiple sclerosis (MS) secondary progressive
+Dementia due to multiple sclerosis with altered behaviour	CUI=C3697908	PREF=Dementia due to multiple sclerosis with altered behaviour
+Dementia associated with multiple sclerosis	CUI=C3697128	PREF=Dementia associated with multiple sclerosis
+Dementia due to multiple sclerosis with altered behavior	CUI=C3697908	PREF=Dementia due to multiple sclerosis with altered behavior
+Dementia associated with multiple sclerosis (disorder)	CUI=C3697128	PREF=Dementia associated with multiple sclerosis (disorder)
+Dementia due to multiple sclerosis with altered behavior (disorder)	CUI=C3697908	PREF=Dementia due to multiple sclerosis with altered behavior (disorder)
+Multiple sclerosis action plan	CUI=C3669354	PREF=Multiple sclerosis action plan
+Functional Assessment of multiple sclerosis questionnaire - version 4 (FAMS) [FACIT]	CUI=C3483347	PREF=Functional Assessment of multiple sclerosis questionnaire - version 4 (FAMS) [FACIT]
+Multiple sclerosis [Minimum Data Set]	CUI=C1716762	PREF=Multiple sclerosis [Minimum Data Set]
+Functional assessment of multiple sclerosis questionnaire - version 4:-:Pt:^Patient:-:FACIT	CUI=C3483347	PREF=Functional assessment of multiple sclerosis questionnaire - version 4:-:Pt:^Patient:-:FACIT
+Functional assessment of multiple sclerosis questionnaire - version 4:-:Point in time:^Patient:-:FACIT	CUI=C3483347	PREF=Functional assessment of multiple sclerosis questionnaire - version 4:-:Point in time:^Patient:-:FACIT
+Multiple sclerosis:Find:Pt:^Patient:Ord:MDS	CUI=C1716762	PREF=Multiple sclerosis:Find:Pt:^Patient:Ord:MDS
+Multiple sclerosis:Finding:Point in time:^Patient:Ordinal:MDS	CUI=C1716762	PREF=Multiple sclerosis:Finding:Point in time:^Patient:Ordinal:MDS
+Multiple sclerosis action plan	CUI=C3669353	PREF=Multiple sclerosis action plan
+Multiple sclerosis action plan:Finding:Point in time:{Setting}:Document:{Provider}	CUI=C3669353	PREF=Multiple sclerosis action plan:Finding:Point in time:{Setting}:Document:{Provider}
+Suspected multiple sclerosis	CUI=C3839390	PREF=Suspected multiple sclerosis
+Multiple sclerosis clinic	CUI=C3839267	PREF=Multiple sclerosis clinic
+Multiple sclerosis clinic (environment)	CUI=C3839267	PREF=Multiple sclerosis clinic (environment)
+Suspected multiple sclerosis (situation)	CUI=C3839390	PREF=Suspected multiple sclerosis (situation)
+Multiple sclerosis - MS	CUI=C0026769	PREF=Multiple sclerosis - MS
+Multiple sclerosis data web-based application software (physical object)	CUI=C3875963	PREF=Multiple sclerosis data web-based application software (physical object)
+Multiple sclerosis data web-based application software	CUI=C3875963	PREF=Multiple sclerosis data web-based application software
+MULTIPLE SCLEROSIS, DISEASE PROGRESSION, MODIFIER OF	CUI=C2677247	PREF=MULTIPLE SCLEROSIS, DISEASE PROGRESSION, MODIFIER OF
+Functional quadriplegia due to multiple sclerosis (disorder)	CUI=C4047687	PREF=Functional quadriplegia due to multiple sclerosis (disorder)
+Functional quadriplegia due to multiple sclerosis	CUI=C4047687	PREF=Functional quadriplegia due to multiple sclerosis
+Multiple sclerosis action plan:Finding:Point in time:{Setting}:Document:{Role}	CUI=C3669353	PREF=Multiple sclerosis action plan:Finding:Point in time:{Setting}:Document:{Role}
+Multiple sclerosis in last 7D:Find:7D:^Patient:Ord:MDSv3	CUI=C2739383	PREF=Multiple sclerosis in last 7D:Find:7D:^Patient:Ord:MDSv3
+Multiple sclerosis in last 7D:Finding:7 days:^Patient:Ordinal:MDSv3	CUI=C2739383	PREF=Multiple sclerosis in last 7D:Finding:7 days:^Patient:Ordinal:MDSv3
+Multiple sclerosis action plan:Find:Pt:{Setting}:Doc:{Role}	CUI=C3669353	PREF=Multiple sclerosis action plan:Find:Pt:{Setting}:Doc:{Role}
+Functional Assessment of Multiple Sclerosis Questionnaire	CUI=C3827008	PREF=Functional Assessment of Multiple Sclerosis Questionnaire
+Neurologic conditions- multiple sclerosis	CUI=C4489305	PREF=Neurologic conditions- multiple sclerosis
+Multiple sclerosis action plan &#x7C; {Setting}	CUI=C4487316	PREF=Multiple sclerosis action plan &#x7C; {Setting}
+Multiple sclerosis (MS)	CUI=C0026769	PREF=Multiple sclerosis (MS)
+Progressive relapsing multiple sclerosis (disorder)	CUI=C0393666	PREF=Progressive relapsing multiple sclerosis (disorder)
+Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome	CUI=C4518551	PREF=Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome
+Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome (disorder)	CUI=C4518551	PREF=Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome (disorder)
+Progressive relapsing multiple sclerosis	CUI=C0393666	PREF=Progressive relapsing multiple sclerosis
+Cognitive deficit due to multiple sclerosis	CUI=C4047684	PREF=Cognitive deficit due to multiple sclerosis
+Congitive deficit due to multiple sclerosis	CUI=C4047684	PREF=Congitive deficit due to multiple sclerosis
+Congitive impairment due to multiple sclerosis	CUI=C4047684	PREF=Congitive impairment due to multiple sclerosis
+Congitive impairment due to multiple sclerosis (disorder)	CUI=C4047684	PREF=Congitive impairment due to multiple sclerosis (disorder)
+Cognitive impairment due to multiple sclerosis (disorder)	CUI=C4047684	PREF=Cognitive impairment due to multiple sclerosis (disorder)
+Cognitive impairment due to multiple sclerosis	CUI=C4047684	PREF=Cognitive impairment due to multiple sclerosis
+dementia in dis class elsewhere associated with multiple sclerosis	CUI=C3697128	PREF=dementia in dis class elsewhere associated with multiple sclerosis
+Dementia associated with multiple sclerosis (diagnosis)	CUI=C3697128	PREF=Dementia associated with multiple sclerosis (diagnosis)
+Chronic progressive multiple sclerosis (disorder)	CUI=C0393665	PREF=Chronic progressive multiple sclerosis (disorder)
+Exacerbation of multiple sclerosis (disorder)	CUI=C0581392	PREF=Exacerbation of multiple sclerosis (disorder)
+Generalized multiple sclerosis (disorder)	CUI=C0026769	PREF=Generalized multiple sclerosis (disorder)
+Acute relapsing multiple sclerosis (disorder)	CUI=C0393664	PREF=Acute relapsing multiple sclerosis (disorder)
+Kurtzke multiple sclerosis rating scale (assessment scale)	CUI=C0451246	PREF=Kurtzke multiple sclerosis rating scale (assessment scale)
+Multiple sclerosis of the brainstem (disorder)	CUI=C0270784	PREF=Multiple sclerosis of the brainstem (disorder)
+Multiple sclerosis of the spinal cord (disorder)	CUI=C0338475	PREF=Multiple sclerosis of the spinal cord (disorder)
+Remittent-progressive multiple sclerosis (disorder)	CUI=C0393666	PREF=Remittent-progressive multiple sclerosis (disorder)
+Other drugs used for the treatment of multiple sclerosis (substance)	CUI=C1276811	PREF=Other drugs used for the treatment of multiple sclerosis (substance)
+Disseminated sclerosis	CUI=C0026769	PREF=Disseminated sclerosis
+Multiple Sclerosis	CUI=C0026769	PREF=Multiple Sclerosis
+Generalized multiple sclerosis	CUI=C0026769	PREF=Generalized multiple sclerosis
+Multiple sclerosis, NOS	CUI=C0026769	PREF=Multiple sclerosis, NOS
+DS - Disseminated sclerosis	CUI=C0026769	PREF=DS - Disseminated sclerosis
+Generalised multiple sclerosis	CUI=C0026769	PREF=Generalised multiple sclerosis
+MS - Multiple sclerosis	CUI=C0026769	PREF=MS - Multiple sclerosis
+Multiple sclerosis NOS	CUI=C0026769	PREF=Multiple sclerosis NOS
+multiple sclerosis (diagnosis)	CUI=C0026769	PREF=multiple sclerosis (diagnosis)
+generalized multiple sclerosis (diagnosis)	CUI=C0026769	PREF=generalized multiple sclerosis (diagnosis)
+Multiple sclerosis NOS (disorder)	CUI=C0026769	PREF=Multiple sclerosis NOS (disorder)
+Multiple sclerosis (disorder)	CUI=C0026769	PREF=Multiple sclerosis (disorder)
+Multiple sclerosis - MS	CUI=C0026769	PREF=Multiple sclerosis - MS
+Multiple sclerosis (MS)	CUI=C0026769	PREF=Multiple sclerosis (MS)
+Generalized multiple sclerosis (disorder)	CUI=C0026769	PREF=Generalized multiple sclerosis (disorder)
+Cord multiple sclerosis	CUI=C0338475	PREF=Cord multiple sclerosis
+Multiple sclerosis of the spinal cord	CUI=C0338475	PREF=Multiple sclerosis of the spinal cord
+Multiple sclerosis-spinal cord	CUI=C0338475	PREF=Multiple sclerosis-spinal cord
+multiple sclerosis localized to spinal cord	CUI=C0338475	PREF=multiple sclerosis localized to spinal cord
+multiple sclerosis localized to spinal cord (diagnosis)	CUI=C0338475	PREF=multiple sclerosis localized to spinal cord (diagnosis)
+multiple sclerosis localized to the spinal cord	CUI=C0338475	PREF=multiple sclerosis localized to the spinal cord
+Multiple sclerosis of cord	CUI=C0338475	PREF=Multiple sclerosis of cord
+Cord multiple sclerosis (disorder)	CUI=C0338475	PREF=Cord multiple sclerosis (disorder)
+Multiple sclerosis of the spinal cord (disorder)	CUI=C0338475	PREF=Multiple sclerosis of the spinal cord (disorder)
+Acute relapsing mult sclerosis	CUI=C0393664	PREF=Acute relapsing mult sclerosis
+Acute relapsing multiple sclerosis	CUI=C0393664	PREF=Acute relapsing multiple sclerosis
+Acute relapsing multiple sclerosis (disorder)	CUI=C0393664	PREF=Acute relapsing multiple sclerosis (disorder)
+Chron prog multiple sclerosis	CUI=C0393665	PREF=Chron prog multiple sclerosis
+Chronic progressive multiple sclerosis	CUI=C0393665	PREF=Chronic progressive multiple sclerosis
+Multiple sclerosis (MS) chronic/progressive	CUI=C0393665	PREF=Multiple sclerosis (MS) chronic/progressive
+Chronic progressive multiple sclerosis (disorder)	CUI=C0393665	PREF=Chronic progressive multiple sclerosis (disorder)
+Exacerbation of multiple sclerosis	CUI=C0581392	PREF=Exacerbation of multiple sclerosis
+Exacerbation multple sclerosis	CUI=C0581392	PREF=Exacerbation multple sclerosis
+Multiple sclerosis (MS) exacerbation	CUI=C0581392	PREF=Multiple sclerosis (MS) exacerbation
+Exacerbation of multiple sclerosis (disorder)	CUI=C0581392	PREF=Exacerbation of multiple sclerosis (disorder)
+Brain stem multiple sclerosis	CUI=C0270784	PREF=Brain stem multiple sclerosis
+multiple sclerosis localized to brain stem (diagnosis)	CUI=C0270784	PREF=multiple sclerosis localized to brain stem (diagnosis)
+multiple sclerosis localized to brain stem	CUI=C0270784	PREF=multiple sclerosis localized to brain stem
+multiple sclerosis localized to the brain stem	CUI=C0270784	PREF=multiple sclerosis localized to the brain stem
+Multipl sclerosis of brainstem	CUI=C0270784	PREF=Multipl sclerosis of brainstem
+Multiple sclerosis of the brainstem	CUI=C0270784	PREF=Multiple sclerosis of the brainstem
+Multiple sclerosis of brain stem	CUI=C0270784	PREF=Multiple sclerosis of brain stem
+Brain stem multiple sclerosis (disorder)	CUI=C0270784	PREF=Brain stem multiple sclerosis (disorder)
+Multiple sclerosis of the brainstem (disorder)	CUI=C0270784	PREF=Multiple sclerosis of the brainstem (disorder)
+Remittent-prog mult sclerosis	CUI=C0393666	PREF=Remittent-prog mult sclerosis
+Remittent-progressive multiple sclerosis	CUI=C0393666	PREF=Remittent-progressive multiple sclerosis
+Multiple sclerosis (MS) remitting progressive	CUI=C0393666	PREF=Multiple sclerosis (MS) remitting progressive
+Progressive relapsing multiple sclerosis (disorder)	CUI=C0393666	PREF=Progressive relapsing multiple sclerosis (disorder)
+Progressive relapsing multiple sclerosis	CUI=C0393666	PREF=Progressive relapsing multiple sclerosis
+Remittent-progressive multiple sclerosis (disorder)	CUI=C0393666	PREF=Remittent-progressive multiple sclerosis (disorder)
+Relapsing remitting multiple sclerosis (disorder)	CUI=C0751967	PREF=Relapsing remitting multiple sclerosis (disorder)
+Relapsing remitting multiple sclerosis	CUI=C0751967	PREF=Relapsing remitting multiple sclerosis
+Multiple sclerosis (MS) relapsing remitting	CUI=C0751967	PREF=Multiple sclerosis (MS) relapsing remitting
+Benign multiple sclerosis	CUI=C2585570	PREF=Benign multiple sclerosis
+Benign multiple sclerosis (disorder)	CUI=C2585570	PREF=Benign multiple sclerosis (disorder)
+Malignant multiple sclerosis	CUI=C2586221	PREF=Malignant multiple sclerosis
+Malignant multiple sclerosis (disorder)	CUI=C2586221	PREF=Malignant multiple sclerosis (disorder)
+Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome	CUI=C4518551	PREF=Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome
+Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome (disorder)	CUI=C4518551	PREF=Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome (disorder)
+Secondary progressive multiple sclerosis	CUI=C0751965	PREF=Secondary progressive multiple sclerosis
+Secondary progressive multiple sclerosis (disorder)	CUI=C0751965	PREF=Secondary progressive multiple sclerosis (disorder)
+Multiple sclerosis (MS) secondary progressive	CUI=C0751965	PREF=Multiple sclerosis (MS) secondary progressive
+Primary progressive multiple sclerosis (disorder)	CUI=C0751964	PREF=Primary progressive multiple sclerosis (disorder)
+Primary progressive multiple sclerosis	CUI=C0751964	PREF=Primary progressive multiple sclerosis
+Multiple sclerosis (MS) primary progressive	CUI=C0751964	PREF=Multiple sclerosis (MS) primary progressive

@@ -1,0 +1,76 @@
+C0425291	Amount and type of tobacco smoked
+C0425291	Amount+type of tobacco smoked
+C3251046	assess smoking status: current smoker or current exposure to secondhand smoke
+C3251046	assess smoking status: current smoker or current exposure to secondhand smoke (treatment)
+C3251045	assessment of smoking status and exposure to secondhand smoke
+C3251045	assessment of smoking status and exposure to secondhand smoke (treatment)
+C4027558	assessment of tobacco use - smoking status, nhis
+C0337664	Current smoker
+C0586982	Date ceased smoking
+C0586982	Date ceased smoking (finding)
+C0586982	Date ceased smoking (observable entity)
+C2960584	Failed attempt to stop smoking
+C2960584	Failed attempt to stop smoking (finding)
+C0453996	Finding of tobacco smoking behavior
+C0453996	Finding of tobacco smoking behavior (finding)
+C1287521	Finding of tobacco smoking consumption
+C1287521	Finding of tobacco smoking consumption (finding)
+C0425304	Keeps trying to stop smoking
+C0425304	Keeps trying to stop smoking (finding)
+C0337672	Non-smoker
+C0337672	Non-smoker (finding)
+C0337672	Non-smoker (life style)
+C1271050	Not interested in stopping smoking
+C1271050	Not interested in stopping smoking (finding)
+C1271048	Ready to stop smoking
+C1271048	Ready to stop smoking (finding)
+C0425312	Rolls own cigarettes
+C0425312	Rolls own cigarettes (finding)
+C0425312	rolls own cigarettes (history)
+C0337664	Smoker
+C0337664	Smoker (finding)
+C0337664	Smoker (life style)
+C0337664	Smoker, NOS
+C1276355	Smoking reduced
+C1276355	Smoking reduced (finding)
+C1276355	Smoking reduced (observable entity)
+C1519386	Smoking status
+C1272229	Smoking status at 4 weeks
+C1272229	Smoking status at 4 weeks (observable entity)
+C1272231	Smoking status at 52 weeks
+C1272231	Smoking status at 52 weeks (observable entity)
+C1272230	Smoking status between 4 and 52 weeks
+C1272230	Smoking status between 4 and 52 weeks (observable entity)
+C3169448	Smoking status FTND
+C3169448	Smoking status:Find:Pt:^Patient:Nom:FTND
+C3169448	Smoking status:Finding:Point in time:^Patient:Nominal:FTND
+C0425310	Stopped smoking
+C0425310	Stopped smoking (finding)
+C1271049	Thinking about stopping smoking
+C1271049	Thinking about stopping smoking (finding)
+C1271049	Thinking about stopping smoking (observable entity)
+C0453997	Time since stopped smoking
+C0453997	Time since stopped smoking (observable entity)
+C0453996	Tobacco smoking behavior
+C0453996	Tobacco smoking behavior - finding
+C0453996	tobacco smoking behavior (history)
+C0425291	Tobacco smoking consumption
+C1287521	Tobacco smoking consumption - finding
+C0425291	tobacco smoking consumption (history)
+C3496610	Tobacco smoking status
+C4265568	Tobacco smoking status for tobacco smoker
+C3496611	Tobacco smoking status NHIS
+C3496611	Tobacco smoking status NHIS
+C0425306	Tobacco smoking status unknown
+C4263526	Tobacco smoking status.tobacco smoker
+C4263526	Tobacco smoking status.tobacco smoker
+C0453998	Total time smoked
+C0453998	Total time smoked (observable entity)
+C0425308	Trying to give up smoking
+C0425308	Trying to give up smoking (finding)
+C3533078	Vital signs with smoking status and pain scale
+C3533587	Vital signs with smoking status and pain scale [VSP]
+C3645745	vital signs with smoking status and pain scale panel
+C3645745	vital signs with smoking status and pain scale panel (physical finding)
+C3533587	Vital signs with smoking status and pain scale:-:Point in time:^Patient:-:VSP
+C3533587	Vital signs with smoking status and pain scale:-:Pt:^Patient:-:VSP

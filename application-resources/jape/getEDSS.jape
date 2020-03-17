@@ -1,0 +1,78 @@
+Phase: EDSS_Score
+Input:EDS Number Range Sentence timeElapsed
+Options: control=appelt
+
+Rule: EDSS
+
+(
+	({EDS})
+	({Number}):num
+
+):match
+-->
+:match.EDSS = {rule = EDSS1a, value = :num.Number.value, EDSSTrue = yes}
+
+                                                
+Rule: EDSS
+
+(
+	({EDS})
+	({Range}):num
+
+):match
+-->
+:match.EDSS = {rule = EDSS1b, 
+			   valueLower = :num.Range.N1, 
+			   value = :num.Range.N2,
+			   EDSSTrue = yes}
+
+
+Rule: EDSSUnchanged
+(
+	({EDS}):umls
+    ({timeElapsed.time=="unchanged"}):t
+
+):match
+-->
+:match.EDSS = {rule = EDSSUnchanged, context = :t.timeElapsed.time}
+
+
+Rule: EDSSUnchanged
+(
+	({EDS}):umls
+    ({timeElapsed.time=="unchanged"}):t
+    ({Number}):num
+
+):match
+-->
+:match.EDSS = {rule = EDSSUnchangedNumber, value = :num.Number.value, context = :t.timeElapsed.time}
+
+
+Rule: EDSSUnchanged
+(
+	({EDS}):umls
+    ({timeElapsed.time=="unchanged"}):t
+    ({Range}):num
+
+):match
+-->
+:match.EDSS = {rule = EDSSUnchangedRange, valueLower = :num.Range.N1, 
+			   value = :num.Range.N2, context = :t.timeElapsed.time}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

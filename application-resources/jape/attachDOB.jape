@@ -1,0 +1,23 @@
+ Imports: {import static gate.Utils.*; }
+
+Phase: EDSSDOBDate
+Input: Date_of_Birth EDSS
+Options: control=all
+
+/*
+ * Get DOB for EDSS
+ */
+ 
+ 
+ Rule: DOB
+ Priority: 100
+(
+
+    ({Date_of_Birth}):c
+	({EDSS}):edss
+):match
+-->
+:edss {
+  getOnlyAnn(edssAnnots).getFeatures().put("DOB", 
+    getOnlyAnn(bindings.get("c")).getFeatures().get("value"));
+}

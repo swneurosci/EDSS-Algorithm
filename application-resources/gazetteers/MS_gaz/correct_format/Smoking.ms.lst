@@ -1,0 +1,76 @@
+Amount and type of tobacco smoked	CUI=C0425291	PREF=Amount and type of tobacco smoked
+Amount+type of tobacco smoked	CUI=C0425291	PREF=Amount+type of tobacco smoked
+assess smoking status: current smoker or current exposure to secondhand smoke	CUI=C3251046	PREF=assess smoking status: current smoker or current exposure to secondhand smoke
+assess smoking status: current smoker or current exposure to secondhand smoke (treatment)	CUI=C3251046	PREF=assess smoking status: current smoker or current exposure to secondhand smoke (treatment)
+assessment of smoking status and exposure to secondhand smoke	CUI=C3251045	PREF=assessment of smoking status and exposure to secondhand smoke
+assessment of smoking status and exposure to secondhand smoke (treatment)	CUI=C3251045	PREF=assessment of smoking status and exposure to secondhand smoke (treatment)
+assessment of tobacco use - smoking status, nhis	CUI=C4027558	PREF=assessment of tobacco use - smoking status, nhis
+Current smoker	CUI=C0337664	PREF=Current smoker
+Date ceased smoking	CUI=C0586982	PREF=Date ceased smoking
+Date ceased smoking (finding)	CUI=C0586982	PREF=Date ceased smoking (finding)
+Date ceased smoking (observable entity)	CUI=C0586982	PREF=Date ceased smoking (observable entity)
+Failed attempt to stop smoking	CUI=C2960584	PREF=Failed attempt to stop smoking
+Failed attempt to stop smoking (finding)	CUI=C2960584	PREF=Failed attempt to stop smoking (finding)
+Finding of tobacco smoking behavior	CUI=C0453996	PREF=Finding of tobacco smoking behavior
+Finding of tobacco smoking behavior (finding)	CUI=C0453996	PREF=Finding of tobacco smoking behavior (finding)
+Finding of tobacco smoking consumption	CUI=C1287521	PREF=Finding of tobacco smoking consumption
+Finding of tobacco smoking consumption (finding)	CUI=C1287521	PREF=Finding of tobacco smoking consumption (finding)
+Keeps trying to stop smoking	CUI=C0425304	PREF=Keeps trying to stop smoking
+Keeps trying to stop smoking (finding)	CUI=C0425304	PREF=Keeps trying to stop smoking (finding)
+Non-smoker	CUI=C0337672	PREF=Non-smoker
+Non-smoker (finding)	CUI=C0337672	PREF=Non-smoker (finding)
+Non-smoker (life style)	CUI=C0337672	PREF=Non-smoker (life style)
+Not interested in stopping smoking	CUI=C1271050	PREF=Not interested in stopping smoking
+Not interested in stopping smoking (finding)	CUI=C1271050	PREF=Not interested in stopping smoking (finding)
+Ready to stop smoking	CUI=C1271048	PREF=Ready to stop smoking
+Ready to stop smoking (finding)	CUI=C1271048	PREF=Ready to stop smoking (finding)
+Rolls own cigarettes	CUI=C0425312	PREF=Rolls own cigarettes
+Rolls own cigarettes (finding)	CUI=C0425312	PREF=Rolls own cigarettes (finding)
+rolls own cigarettes (history)	CUI=C0425312	PREF=rolls own cigarettes (history)
+Smoker	CUI=C0337664	PREF=Smoker
+Smoker (finding)	CUI=C0337664	PREF=Smoker (finding)
+Smoker (life style)	CUI=C0337664	PREF=Smoker (life style)
+Smoker, NOS	CUI=C0337664	PREF=Smoker, NOS
+Smoking reduced	CUI=C1276355	PREF=Smoking reduced
+Smoking reduced (finding)	CUI=C1276355	PREF=Smoking reduced (finding)
+Smoking reduced (observable entity)	CUI=C1276355	PREF=Smoking reduced (observable entity)
+Smoking status	CUI=C1519386	PREF=Smoking status
+Smoking status at 4 weeks	CUI=C1272229	PREF=Smoking status at 4 weeks
+Smoking status at 4 weeks (observable entity)	CUI=C1272229	PREF=Smoking status at 4 weeks (observable entity)
+Smoking status at 52 weeks	CUI=C1272231	PREF=Smoking status at 52 weeks
+Smoking status at 52 weeks (observable entity)	CUI=C1272231	PREF=Smoking status at 52 weeks (observable entity)
+Smoking status between 4 and 52 weeks	CUI=C1272230	PREF=Smoking status between 4 and 52 weeks
+Smoking status between 4 and 52 weeks (observable entity)	CUI=C1272230	PREF=Smoking status between 4 and 52 weeks (observable entity)
+Smoking status FTND	CUI=C3169448	PREF=Smoking status FTND
+Smoking status:Find:Pt:^Patient:Nom:FTND	CUI=C3169448	PREF=Smoking status:Find:Pt:^Patient:Nom:FTND
+Smoking status:Finding:Point in time:^Patient:Nominal:FTND	CUI=C3169448	PREF=Smoking status:Finding:Point in time:^Patient:Nominal:FTND
+Stopped smoking	CUI=C0425310	PREF=Stopped smoking
+Stopped smoking (finding)	CUI=C0425310	PREF=Stopped smoking (finding)
+Thinking about stopping smoking	CUI=C1271049	PREF=Thinking about stopping smoking
+Thinking about stopping smoking (finding)	CUI=C1271049	PREF=Thinking about stopping smoking (finding)
+Thinking about stopping smoking (observable entity)	CUI=C1271049	PREF=Thinking about stopping smoking (observable entity)
+Time since stopped smoking	CUI=C0453997	PREF=Time since stopped smoking
+Time since stopped smoking (observable entity)	CUI=C0453997	PREF=Time since stopped smoking (observable entity)
+Tobacco smoking behavior	CUI=C0453996	PREF=Tobacco smoking behavior
+Tobacco smoking behavior - finding	CUI=C0453996	PREF=Tobacco smoking behavior - finding
+tobacco smoking behavior (history)	CUI=C0453996	PREF=tobacco smoking behavior (history)
+Tobacco smoking consumption	CUI=C0425291	PREF=Tobacco smoking consumption
+Tobacco smoking consumption - finding	CUI=C1287521	PREF=Tobacco smoking consumption - finding
+tobacco smoking consumption (history)	CUI=C0425291	PREF=tobacco smoking consumption (history)
+Tobacco smoking status	CUI=C3496610	PREF=Tobacco smoking status
+Tobacco smoking status for tobacco smoker	CUI=C4265568	PREF=Tobacco smoking status for tobacco smoker
+Tobacco smoking status NHIS	CUI=C3496611	PREF=Tobacco smoking status NHIS
+Tobacco smoking status NHIS	CUI=C3496611	PREF=Tobacco smoking status NHIS
+Tobacco smoking status unknown	CUI=C0425306	PREF=Tobacco smoking status unknown
+Tobacco smoking status.tobacco smoker	CUI=C4263526	PREF=Tobacco smoking status.tobacco smoker
+Tobacco smoking status.tobacco smoker	CUI=C4263526	PREF=Tobacco smoking status.tobacco smoker
+Total time smoked	CUI=C0453998	PREF=Total time smoked
+Total time smoked (observable entity)	CUI=C0453998	PREF=Total time smoked (observable entity)
+Trying to give up smoking	CUI=C0425308	PREF=Trying to give up smoking
+Trying to give up smoking (finding)	CUI=C0425308	PREF=Trying to give up smoking (finding)
+Vital signs with smoking status and pain scale	CUI=C3533078	PREF=Vital signs with smoking status and pain scale
+Vital signs with smoking status and pain scale [VSP]	CUI=C3533587	PREF=Vital signs with smoking status and pain scale [VSP]
+vital signs with smoking status and pain scale panel	CUI=C3645745	PREF=vital signs with smoking status and pain scale panel
+vital signs with smoking status and pain scale panel (physical finding)	CUI=C3645745	PREF=vital signs with smoking status and pain scale panel (physical finding)
+Vital signs with smoking status and pain scale:-:Point in time:^Patient:-:VSP	CUI=C3533587	PREF=Vital signs with smoking status and pain scale:-:Point in time:^Patient:-:VSP
+Vital signs with smoking status and pain scale:-:Pt:^Patient:-:VSP	CUI=C3533587	PREF=Vital signs with smoking status and pain scale:-:Pt:^Patient:-:VSP

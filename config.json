@@ -1,0 +1,12 @@
+{
+  "Name": "MS",
+  "Author": "Arron",
+  "Type": "gate",
+  "Version": 1.0,
+  "Env_version": 8.5,
+  "Annotations": [{ "Name": "MS", "Value": ["MSDiagnosis", "AlteredSensation","Ataxia","BlurredVision",
+    "BowelProblems","CognitiveImpairment","Depression","Drug","Dysathria","Fatigued","Lhermitte","MotorControl",
+    "MRI","MusclePain","NeuropathicPain","Nystagmus","OpticNeuritis","Pins_and_needles","Relapse","SexualProblems",
+    "Smoking","Spasticity","SpeakingProblems","Swallowing","Tremor","TrigeminalNeuralgia","UrinaryIncontinence",
+    "UTU","Walking","Weakness"] }]
+}

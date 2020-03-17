@@ -1,0 +1,952 @@
+(basc-ii) self report of personality clinical scales depression	CUI=C4067354	PREF=(basc-ii) self report of personality clinical scales depression
+(basc-ii) self report of personality clinical scales depression (procedure)	CUI=C4067354	PREF=(basc-ii) self report of personality clinical scales depression (procedure)
+(basc-ii) self report of personality clinical scales depression percentile	CUI=C4067353	PREF=(basc-ii) self report of personality clinical scales depression percentile
+(basc-ii) self report of personality clinical scales depression percentile (procedure)	CUI=C4067353	PREF=(basc-ii) self report of personality clinical scales depression percentile (procedure)
+(basc-ii) self report of personality clinical scales depression t-score	CUI=C4067352	PREF=(basc-ii) self report of personality clinical scales depression t-score
+(basc-ii) self report of personality clinical scales depression t-score (procedure)	CUI=C4067352	PREF=(basc-ii) self report of personality clinical scales depression t-score (procedure)
+(Mania) or (hypomania) or (agitated depression)	CUI=C1535165	PREF=(Mania) or (hypomania) or (agitated depression)
+(Mania) or (hypomania) or (agitated depression) (disorder)	CUI=C1535165	PREF=(Mania) or (hypomania) or (agitated depression) (disorder)
+(Neurotic depression reactive type) or (postnatal depression)	CUI=C1535540	PREF=(Neurotic depression reactive type) or (postnatal depression)
+(Neurotic depression reactive type) or (postnatal depression) (disorder)	CUI=C1535540	PREF=(Neurotic depression reactive type) or (postnatal depression) (disorder)
+[V]Screening for depression	CUI=C0260942	PREF=[V]Screening for depression
+[V]Screening for depression (context-dependent category)	CUI=C0260942	PREF=[V]Screening for depression (context-dependent category)
+[V]Screening for depression (situation)	CUI=C0260942	PREF=[V]Screening for depression (situation)
+[X] (Depression: [episode, unspecified] or [NOS (& reactive)] or [depressive disorder NOS]	CUI=C2700639	PREF=[X] (Depression: [episode, unspecified] or [NOS (& reactive)] or [depressive disorder NOS]
+[X] (Depression: [episode, unspecified] or [NOS (& reactive)] or [depressive disorder NOS] (disorder)	CUI=C2700639	PREF=[X] (Depression: [episode, unspecified] or [NOS (& reactive)] or [depressive disorder NOS] (disorder)
+[X] Depression NOS	CUI=C0011570	PREF=[X] Depression NOS
+[X] Depression recurrent: [unspecified] or [monopolar NOS]	CUI=C1540579	PREF=[X] Depression recurrent: [unspecified] or [monopolar NOS]
+[X] Depression recurrent: [unspecified] or [monopolar NOS] (disorder)	CUI=C1540579	PREF=[X] Depression recurrent: [unspecified] or [monopolar NOS] (disorder)
+[X] Monopolar depression NOS	CUI=C1579866	PREF=[X] Monopolar depression NOS
+[X] Reactive depression NOS	CUI=C0011579	PREF=[X] Reactive depression NOS
+[X] Reactive depression NOS	CUI=C0011579	PREF=[X] Reactive depression NOS
+[X] Recurrent episodes of psychogenic depression	CUI=C1579865	PREF=[X] Recurrent episodes of psychogenic depression
+[X] Recurrent episodes of reactive depression	CUI=C0349218	PREF=[X] Recurrent episodes of reactive depression
+[X] Severe depressive episode with psychotic symptoms: (& single episode of [major depression] or [psychogenic depressive psychosis] or [psychotic depression] or [reactive depressive psychosis])	CUI=C1541093	PREF=[X] Severe depressive episode with psychotic symptoms: (& single episode of [major depression] or [psychogenic depressive psychosis] or [psychotic depression] or [reactive depressive psychosis])
+[X] Severe depressive episode with psychotic symptoms: (& single episode of [major depression] or [psychogenic depressive psychosis] or [psychotic depression] or [reactive depressive psychosis]) (disorder)	CUI=C1541093	PREF=[X] Severe depressive episode with psychotic symptoms: (& single episode of [major depression] or [psychogenic depressive psychosis] or [psychotic depression] or [reactive depressive psychosis]) (disorder)
+[X] Severe depressive episode without psychotic symptoms: (& [single episode agitated depression] or [single episode major depression] or [single episode vital depression])	CUI=C1542445	PREF=[X] Severe depressive episode without psychotic symptoms: (& [single episode agitated depression] or [single episode major depression] or [single episode vital depression])
+[X] Severe depressive episode without psychotic symptoms: (& [single episode agitated depression] or [single episode major depression] or [single episode vital depression]) (disorder)	CUI=C1542445	PREF=[X] Severe depressive episode without psychotic symptoms: (& [single episode agitated depression] or [single episode major depression] or [single episode vital depression]) (disorder)
+[X] Single episode agitated depression without psychotic symptoms	CUI=C0556016	PREF=[X] Single episode agitated depression without psychotic symptoms
+[X] Single episode agitated depression without psychotic symptoms (disorder)	CUI=C0556016	PREF=[X] Single episode agitated depression without psychotic symptoms (disorder)
+[X] Single episode major depression without psychotic symptoms	CUI=C0556017	PREF=[X] Single episode major depression without psychotic symptoms
+[X] Single episode major depression without psychotic symptoms (disorder)	CUI=C0556017	PREF=[X] Single episode major depression without psychotic symptoms (disorder)
+[X] Single episode of masked depression NOS	CUI=C1579864	PREF=[X] Single episode of masked depression NOS
+[X] Single episode of psychotic depression	CUI=C1579920	PREF=[X] Single episode of psychotic depression
+[X] Vital depression, recurrent without psychotic symptoms	CUI=C1578541	PREF=[X] Vital depression, recurrent without psychotic symptoms
+[X]Atypical depression	CUI=C0154437	PREF=[X]Atypical depression
+[X]Bipolar affective disorder, current episode mild or moderate depression	CUI=C0349212	PREF=[X]Bipolar affective disorder, current episode mild or moderate depression
+[X]Bipolar affective disorder, current episode mild or moderate depression (disorder)	CUI=C0349212	PREF=[X]Bipolar affective disorder, current episode mild or moderate depression (disorder)
+[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms	CUI=C0349213	PREF=[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms
+[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms (disorder)	CUI=C0349213	PREF=[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms (disorder)
+[X]Depression NOS	CUI=C0011570	PREF=[X]Depression NOS
+[X]Depression without psychotic symptoms: [recurrent: [major] or [manic-depressive psychosis, depressed type] or [vital] or [current severe episode]] or [endogenous]	CUI=C1578538	PREF=[X]Depression without psychotic symptoms: [recurrent: [major] or [manic-depressive psychosis, depressed type] or [vital] or [current severe episode]] or [endogenous]
+[X]Depression without psychotic symptoms: [recurrent: [major] or [manic-depressive psychosis, depressed type] or [vital] or [current severe episode]] or [endogenous] (disorder)	CUI=C1578538	PREF=[X]Depression without psychotic symptoms: [recurrent: [major] or [manic-depressive psychosis, depressed type] or [vital] or [current severe episode]] or [endogenous] (disorder)
+[X]Endogenous depression with psychotic symptoms	CUI=C1395188	PREF=[X]Endogenous depression with psychotic symptoms
+[X]Endogenous depression without psychotic symptoms	CUI=C1578542	PREF=[X]Endogenous depression without psychotic symptoms
+[X]Major depression, recurrent without psychotic symptoms	CUI=C0154412	PREF=[X]Major depression, recurrent without psychotic symptoms
+[X]Mild anxiety depression	CUI=C1579088	PREF=[X]Mild anxiety depression
+[X]Mixed anxiety and depressive disorder (& mild anxiety depression)	CUI=C1534456	PREF=[X]Mixed anxiety and depressive disorder (& mild anxiety depression)
+[X]Mixed anxiety and depressive disorder (& mild anxiety depression) (disorder)	CUI=C1534456	PREF=[X]Mixed anxiety and depressive disorder (& mild anxiety depression) (disorder)
+[X]Prolonged single episode of reactive depression	CUI=C0011579	PREF=[X]Prolonged single episode of reactive depression
+[X]Prolonged single episode of reactive depression	CUI=C0011579	PREF=[X]Prolonged single episode of reactive depression
+[X]Recurrent depressive disorder (& [episodes of depressive reaction] or [episodes of psychogenic depression] or [episodes of reactive depression] or [seasonal depressive disorder])	CUI=C1540578	PREF=[X]Recurrent depressive disorder (& [episodes of depressive reaction] or [episodes of psychogenic depression] or [episodes of reactive depression] or [seasonal depressive disorder])
+[X]Recurrent depressive disorder (& [episodes of depressive reaction] or [episodes of psychogenic depression] or [episodes of reactive depression] or [seasonal depressive disorder]) (disorder)	CUI=C1540578	PREF=[X]Recurrent depressive disorder (& [episodes of depressive reaction] or [episodes of psychogenic depression] or [episodes of reactive depression] or [seasonal depressive disorder]) (disorder)
+[X]Recurrent episodes of psychogenic depression	CUI=C1579865	PREF=[X]Recurrent episodes of psychogenic depression
+[X]Recurrent episodes of reactive depression	CUI=C0349218	PREF=[X]Recurrent episodes of reactive depression
+[X]Recurrent severe episodes of major depression with psychotic symptoms	CUI=C0154413	PREF=[X]Recurrent severe episodes of major depression with psychotic symptoms
+[X]Recurrent severe episodes of psychotic depression	CUI=C0154413	PREF=[X]Recurrent severe episodes of psychotic depression
+[X]Single episode agitated depression without psychotic symptoms	CUI=C0556016	PREF=[X]Single episode agitated depression without psychotic symptoms
+[X]Single episode major depression w'out psychotic symptoms	CUI=C0556017	PREF=[X]Single episode major depression w'out psychotic symptoms
+[X]Single episode major depression without psychotic symptoms	CUI=C0556017	PREF=[X]Single episode major depression without psychotic symptoms
+[X]Single episode of major depression with psychotic symptoms	CUI=C1579922	PREF=[X]Single episode of major depression with psychotic symptoms
+[X]Single episode of masked depression NOS	CUI=C1579864	PREF=[X]Single episode of masked depression NOS
+[X]Single episode of psychotic depression	CUI=C1579920	PREF=[X]Single episode of psychotic depression
+[X]Single episode vital depression without psychotic symptoms	CUI=C0556017	PREF=[X]Single episode vital depression without psychotic symptoms
+[X]Vital depression, recurrent without psychotic symptoms	CUI=C1578541	PREF=[X]Vital depression, recurrent without psychotic symptoms
+About how many weeks altogether did you feel this way - the total period of depression or loss of interest was [CIDI-SF]	CUI=C3175844	PREF=About how many weeks altogether did you feel this way - the total period of depression or loss of interest was [CIDI-SF]
+About how many Ws altogether did you feel this way - the total period of depression or loss of interest was	CUI=C3175845	PREF=About how many Ws altogether did you feel this way - the total period of depression or loss of interest was
+About how many Ws altogether did you feel this way - the total period of depression or loss of interest was:Time:Point in time:^Patient:Quantitative:CIDI-SF	CUI=C3175844	PREF=About how many Ws altogether did you feel this way - the total period of depression or loss of interest was:Time:Point in time:^Patient:Quantitative:CIDI-SF
+About how many Ws altogether did you feel this way - the total period of depression or loss of interest was:Time:Pt:^Patient:Qn:CIDI-SF	CUI=C3175844	PREF=About how many Ws altogether did you feel this way - the total period of depression or loss of interest was:Time:Pt:^Patient:Qn:CIDI-SF
+Acute depression	CUI=C1386135	PREF=Acute depression
+Acute depression (diagnosis)	CUI=C1386135	PREF=Acute depression (diagnosis)
+Acute depression (disorder)	CUI=C1386135	PREF=Acute depression (disorder)
+Adult depression screening assessment	CUI=C3539789	PREF=Adult depression screening assessment
+Adult depression screening assessment	CUI=C3539790	PREF=Adult depression screening assessment
+Adult depression screening assessment:Imp:Pt:^Patient:Ord	CUI=C3539789	PREF=Adult depression screening assessment:Imp:Pt:^Patient:Ord
+Adult depression screening assessment:Impression/interpretation of study:Point in time:^Patient:Ordinal	CUI=C3539789	PREF=Adult depression screening assessment:Impression/interpretation of study:Point in time:^Patient:Ordinal
+agents for AOD-concurrent depression	CUI=C0682790	PREF=agents for AOD-concurrent depression
+Agitated depression	CUI=C0235136	PREF=Agitated depression
+Agitated depression (diagnosis)	CUI=C0235136	PREF=Agitated depression (diagnosis)
+Agitated depression (disorder)	CUI=C0235136	PREF=Agitated depression (disorder)
+Anxiety depression	CUI=C0338908	PREF=Anxiety depression
+Anxiety depression (mild or not persistent)	CUI=C2874949	PREF=Anxiety depression (mild or not persistent)
+Assessment of sadness	CUI=C4041543	PREF=Assessment of sadness
+Assessment of sadness (procedure)	CUI=C4041543	PREF=Assessment of sadness (procedure)
+Assessment using BASDEC (Brief Assessment Schedule Depression Cards)	CUI=C4273576	PREF=Assessment using BASDEC (Brief Assessment Schedule Depression Cards)
+Assessment using BDI 11 (Beck Depression Inventory Second Edition)	CUI=C4273959	PREF=Assessment using BDI 11 (Beck Depression Inventory Second Edition)
+Assessment using BDI II - Beck Depression Inventory Second Edition	CUI=C4273959	PREF=Assessment using BDI II - Beck Depression Inventory Second Edition
+Assessment using Beck depression inventory	CUI=C2960240	PREF=Assessment using Beck depression inventory
+Assessment using Beck depression inventory (procedure)	CUI=C2960240	PREF=Assessment using Beck depression inventory (procedure)
+Assessment using Beck Depression Inventory II	CUI=C4273959	PREF=Assessment using Beck Depression Inventory II
+Assessment using Beck Depression Inventory II (procedure)	CUI=C4273959	PREF=Assessment using Beck Depression Inventory II (procedure)
+Assessment using Brief Assessment Schedule Depression Cards	CUI=C4273576	PREF=Assessment using Brief Assessment Schedule Depression Cards
+Assessment using Brief Assessment Schedule Depression Cards (procedure)	CUI=C4273576	PREF=Assessment using Brief Assessment Schedule Depression Cards (procedure)
+Assessment using hospital anxiety and depression scale	CUI=C2959919	PREF=Assessment using hospital anxiety and depression scale
+Assessment using hospital anxiety and depression scale (procedure)	CUI=C2959919	PREF=Assessment using hospital anxiety and depression scale (procedure)
+Assessment using MADRS (Montgomery-Ã…sberg Depression Rating Scale)	CUI=C4545796	PREF=Assessment using MADRS (Montgomery-Ã…sberg Depression Rating Scale)
+Assessment using Montgomery-Ã…sberg Depression Rating Scale	CUI=C4545796	PREF=Assessment using Montgomery-Ã…sberg Depression Rating Scale
+Assessment using Montgomery-Ã…sberg Depression Rating Scale (procedure)	CUI=C4545796	PREF=Assessment using Montgomery-Ã…sberg Depression Rating Scale (procedure)
+Assessment using PHQ-9 depression questionnaire	CUI=C1718917	PREF=Assessment using PHQ-9 depression questionnaire
+Assessment using PHQ-9 depression questionnaire	CUI=C4275234	PREF=Assessment using PHQ-9 depression questionnaire
+Assessment using Zung self rating depression scale	CUI=C4305167	PREF=Assessment using Zung self rating depression scale
+Assessment using Zung self rating depression scale (procedure)	CUI=C4305167	PREF=Assessment using Zung self rating depression scale (procedure)
+Atypical depression	CUI=C0154437	PREF=Atypical depression
+basc-ii subtests depression	CUI=C4067078	PREF=basc-ii subtests depression
+basc-ii subtests depression (procedure)	CUI=C4067078	PREF=basc-ii subtests depression (procedure)
+basc-ii subtests depression confidence index	CUI=C4067077	PREF=basc-ii subtests depression confidence index
+basc-ii subtests depression confidence index (procedure)	CUI=C4067077	PREF=basc-ii subtests depression confidence index (procedure)
+basc-ii subtests depression percentile	CUI=C4067076	PREF=basc-ii subtests depression percentile
+basc-ii subtests depression percentile (procedure)	CUI=C4067076	PREF=basc-ii subtests depression percentile (procedure)
+basc-ii subtests depression t-score	CUI=C4067075	PREF=basc-ii subtests depression t-score
+basc-ii subtests depression t-score (procedure)	CUI=C4067075	PREF=basc-ii subtests depression t-score (procedure)
+BASC-III depression clinical scale	CUI=C4536592	PREF=BASC-III depression clinical scale
+BASC-III depression clinical scale (procedure)	CUI=C4536592	PREF=BASC-III depression clinical scale (procedure)
+BASC-III depression clinical scale confidence index	CUI=C4536595	PREF=BASC-III depression clinical scale confidence index
+BASC-III depression clinical scale confidence index (procedure)	CUI=C4536595	PREF=BASC-III depression clinical scale confidence index (procedure)
+BASC-III depression clinical scale percentile	CUI=C4536594	PREF=BASC-III depression clinical scale percentile
+BASC-III depression clinical scale percentile (procedure)	CUI=C4536594	PREF=BASC-III depression clinical scale percentile (procedure)
+BASC-III depression clinical scale T-score	CUI=C4536593	PREF=BASC-III depression clinical scale T-score
+BASC-III depression clinical scale T-score (procedure)	CUI=C4536593	PREF=BASC-III depression clinical scale T-score (procedure)
+basc-iii self report of depression	CUI=C4536697	PREF=basc-iii self report of depression
+basc-iii self report of depression (procedure)	CUI=C4536697	PREF=basc-iii self report of depression (procedure)
+basc-iii self report of depression percentile	CUI=C4536699	PREF=basc-iii self report of depression percentile
+basc-iii self report of depression percentile (procedure)	CUI=C4536699	PREF=basc-iii self report of depression percentile (procedure)
+basc-iii self report of depression t-score	CUI=C4536698	PREF=basc-iii self report of depression t-score
+basc-iii self report of depression t-score (procedure)	CUI=C4536698	PREF=basc-iii self report of depression t-score (procedure)
+BASDEC (Brief Assessment Schedule Depression Cards) score	CUI=C4273584	PREF=BASDEC (Brief Assessment Schedule Depression Cards) score
+BDI - Beck depression invent	CUI=C0451022	PREF=BDI - Beck depression invent
+BDI - Beck depression inventory	CUI=C0451022	PREF=BDI - Beck depression inventory
+BDI-II (Beck Depression Inventory Second Edition) score	CUI=C4273555	PREF=BDI-II (Beck Depression Inventory Second Edition) score
+BDRS - Brief depression rating scale	CUI=C0451040	PREF=BDRS - Brief depression rating scale
+BDRS (Brief Depression Rating Scale) score	CUI=C4273865	PREF=BDRS (Brief Depression Rating Scale) score
+Beck depression inventory	CUI=C0451022	PREF=Beck depression inventory
+Beck depression inventory (assessment scale)	CUI=C0451022	PREF=Beck depression inventory (assessment scale)
+Beck Depression Inventory II score	CUI=C4273555	PREF=Beck Depression Inventory II score
+Beck Depression Inventory II score (observable entity)	CUI=C4273555	PREF=Beck Depression Inventory II score (observable entity)
+Beck depression inventory score	CUI=C2960571	PREF=Beck depression inventory score
+Beck depression inventory score (observable entity)	CUI=C2960571	PREF=Beck depression inventory score (observable entity)
+Beck depression scale	CUI=C2237946	PREF=Beck depression scale
+Beck depression scale (procedure)	CUI=C2237946	PREF=Beck depression scale (procedure)
+Bipolar affective disorder, current episode depression	CUI=C0005587	PREF=Bipolar affective disorder, current episode depression
+Bipolar affective disorder, current episode depression (disorder)	CUI=C0005587	PREF=Bipolar affective disorder, current episode depression (disorder)
+Bipolar affective disorder, current episode mild or moderate depression	CUI=C0349212	PREF=Bipolar affective disorder, current episode mild or moderate depression
+Bipolar affective disorder, current episode severe depression with psychotic symptoms	CUI=C0494396	PREF=Bipolar affective disorder, current episode severe depression with psychotic symptoms
+Bipolar affective disorder, current episode severe depression without psychotic symptoms	CUI=C0349213	PREF=Bipolar affective disorder, current episode severe depression without psychotic symptoms
+Birth depression with associated metabolic acidemia of cord blood	CUI=C4302201	PREF=Birth depression with associated metabolic acidemia of cord blood
+Bitemporal depression (rare)	CUI=C3280191	PREF=Bitemporal depression (rare)
+Brief Assessment Schedule Depression Cards score	CUI=C4273584	PREF=Brief Assessment Schedule Depression Cards score
+Brief Assessment Schedule Depression Cards score (observable entity)	CUI=C4273584	PREF=Brief Assessment Schedule Depression Cards score (observable entity)
+Brief depression rating scale	CUI=C0451040	PREF=Brief depression rating scale
+Brief depression rating scale (assessment scale)	CUI=C0451040	PREF=Brief depression rating scale (assessment scale)
+Brief Depression Rating Scale score	CUI=C4273865	PREF=Brief Depression Rating Scale score
+Brief Depression Rating Scale score (observable entity)	CUI=C4273865	PREF=Brief Depression Rating Scale score (observable entity)
+Broad depression at inferolateral aspect of eyes	CUI=C4228927	PREF=Broad depression at inferolateral aspect of eyes
+C/O - feeling depressed	CUI=C0439020	PREF=C/O - feeling depressed
+C/O - feeling depressed (context-dependent category)	CUI=C0439020	PREF=C/O - feeling depressed (context-dependent category)
+Chronic depression	CUI=C0581391	PREF=Chronic depression
+chronic depression (diagnosis)	CUI=C0581391	PREF=chronic depression (diagnosis)
+Chronic depression (disorder)	CUI=C0581391	PREF=Chronic depression (disorder)
+chronic depression (symptom)	CUI=C0581391	PREF=chronic depression (symptom)
+chronic major depression	CUI=C2063289	PREF=chronic major depression
+chronic major depression (diagnosis)	CUI=C2063289	PREF=chronic major depression (diagnosis)
+chronic major depression, recurrent	CUI=C0520671	PREF=chronic major depression, recurrent
+chronic major depression, single epsiode	CUI=C0520666	PREF=chronic major depression, single epsiode
+chronic recurrent major depression	CUI=C0520671	PREF=chronic recurrent major depression
+chronic recurrent major depression (diagnosis)	CUI=C0520671	PREF=chronic recurrent major depression (diagnosis)
+clinical depression	CUI=C2362914	PREF=clinical depression
+Complaining of feeling depressed	CUI=C0439020	PREF=Complaining of feeling depressed
+Complaining of feeling depressed (finding)	CUI=C0439020	PREF=Complaining of feeling depressed (finding)
+Counseling for depression	CUI=C3494638	PREF=Counseling for depression
+Counseling for depression (procedure)	CUI=C3494638	PREF=Counseling for depression (procedure)
+Counselling for depression	CUI=C3494638	PREF=Counselling for depression
+Depressed mood (e.g., feeling sad, tearful)	CUI=C3845528	PREF=Depressed mood (e.g., feeling sad, tearful)
+Depression	CUI=C0011570	PREF=Depression
+depression	CUI=C0011581	PREF=depression
+Depression	CUI=C0460137	PREF=Depression
+depression	CUI=C1579931	PREF=depression
+depression (diagnosis)	CUI=C0011581	PREF=depression (diagnosis)
+depression (disease)	CUI=C0011570	PREF=depression (disease)
+Depression (dominant)	CUI=C4540110	PREF=Depression (dominant)
+depression (emotion)	CUI=C0011570	PREF=depression (emotion)
+Depression (finding)	CUI=C0011570	PREF=Depression (finding)
+Depression (HCP)	CUI=C1969970	PREF=Depression (HCP)
+Depression (in 1 patient)	CUI=C3277399	PREF=Depression (in 1 patient)
+Depression (in some patients)	CUI=C3280361	PREF=Depression (in some patients)
+Depression (other than bipolar)	CUI=C4534441	PREF=Depression (other than bipolar)
+depression (symptom)	CUI=C1579931	PREF=depression (symptom)
+depression 1-3 days prior to menstruation	CUI=C2165505	PREF=depression 1-3 days prior to menstruation
+depression 1-3 days prior to menstruation (symptom)	CUI=C2165505	PREF=depression 1-3 days prior to menstruation (symptom)
+depression accompanied	CUI=C2165506	PREF=depression accompanied
+depression accompanied by	CUI=C2165506	PREF=depression accompanied by
+depression accompanied by (symptom)	CUI=C2165506	PREF=depression accompanied by (symptom)
+depression accompanied by eating less	CUI=C2165508	PREF=depression accompanied by eating less
+depression accompanied by eating less (symptom)	CUI=C2165508	PREF=depression accompanied by eating less (symptom)
+depression accompanied by eating more	CUI=C2165509	PREF=depression accompanied by eating more
+depression accompanied by eating more (symptom)	CUI=C2165509	PREF=depression accompanied by eating more (symptom)
+depression accompanied by persistent worry	CUI=C2165507	PREF=depression accompanied by persistent worry
+depression accompanied by persistent worry (symptom)	CUI=C2165507	PREF=depression accompanied by persistent worry (symptom)
+depression accompanied by sleeping less	CUI=C2165510	PREF=depression accompanied by sleeping less
+depression accompanied by sleeping less (symptom)	CUI=C2165510	PREF=depression accompanied by sleeping less (symptom)
+depression accompanied by sleeping more	CUI=C2165511	PREF=depression accompanied by sleeping more
+depression accompanied by sleeping more (symptom)	CUI=C2165511	PREF=depression accompanied by sleeping more (symptom)
+depression acute	CUI=C1386135	PREF=depression acute
+Depression adult proto	CUI=C3169791	PREF=Depression adult proto
+Depression age last occurrence CIDI-SF	CUI=C3175850	PREF=Depression age last occurrence CIDI-SF
+Depression age onset CIDI-SF	CUI=C3175848	PREF=Depression age onset CIDI-SF
+DEPRESSION AGGRAVATED	CUI=C0235876	PREF=DEPRESSION AGGRAVATED
+DEPRESSION AGGRAVATED	CUI=C0235876	PREF=DEPRESSION AGGRAVATED
+DEPRESSION AGITATED	CUI=C0235136	PREF=DEPRESSION AGITATED
+depression alternating with periods of elation	CUI=C2165512	PREF=depression alternating with periods of elation
+depression alternating with periods of elation (symptom)	CUI=C2165512	PREF=depression alternating with periods of elation (symptom)
+Depression and Suicide	CUI=C1524032	PREF=Depression and Suicide
+Depression annual review	CUI=C1531668	PREF=Depression annual review
+Depression annual review (finding)	CUI=C1531668	PREF=Depression annual review (finding)
+Depression anxiety scale	CUI=C0451107	PREF=Depression anxiety scale
+Depression anxiety scale (assessment scale)	CUI=C0451107	PREF=Depression anxiety scale (assessment scale)
+Depression anxiety stress scales anxiety score	CUI=C1563067	PREF=Depression anxiety stress scales anxiety score
+Depression anxiety stress scales anxiety score (observable entity)	CUI=C1563067	PREF=Depression anxiety stress scales anxiety score (observable entity)
+Depression anxiety stress scales depression score	CUI=C1562641	PREF=Depression anxiety stress scales depression score
+Depression anxiety stress scales depression score (observable entity)	CUI=C1562641	PREF=Depression anxiety stress scales depression score (observable entity)
+Depression anxiety stress scales stress score	CUI=C1562542	PREF=Depression anxiety stress scales stress score
+Depression anxiety stress scales stress score (observable entity)	CUI=C1562542	PREF=Depression anxiety stress scales stress score (observable entity)
+Depression as a result of stress	CUI=C1578901	PREF=Depression as a result of stress
+depression chronic	CUI=C0581391	PREF=depression chronic
+depression disruptive mood dysregulation disorder	CUI=C4065471	PREF=depression disruptive mood dysregulation disorder
+Depression education	CUI=C3494707	PREF=Depression education
+Depression education (procedure)	CUI=C3494707	PREF=Depression education (procedure)
+DEPRESSION ENDOGENOUS	CUI=C0011573	PREF=DEPRESSION ENDOGENOUS
+depression endogenous - first episode	CUI=C0338895	PREF=depression endogenous - first episode
+depression endogenous - recurrent	CUI=C0553816	PREF=depression endogenous - recurrent
+Depression feel worthless CIDI-SF	CUI=C3175841	PREF=Depression feel worthless CIDI-SF
+Depression how often CIDI-SF	CUI=C3175827	PREF=Depression how often CIDI-SF
+depression in a seasonal pattern	CUI=C0085159	PREF=depression in a seasonal pattern
+depression in remission	CUI=C3697979	PREF=depression in remission
+Depression interfere activities CIDI-SF	CUI=C3175856	PREF=Depression interfere activities CIDI-SF
+Depression interim review	CUI=C1531669	PREF=Depression interim review
+Depression interim review (finding)	CUI=C1531669	PREF=Depression interim review (finding)
+Depression intervention	CUI=C2735696	PREF=Depression intervention
+depression is relieved	CUI=C2165516	PREF=depression is relieved
+Depression level	CUI=C1319226	PREF=Depression level
+Depression lost interest CIDI-SF	CUI=C3175823	PREF=Depression lost interest CIDI-SF
+Depression management program	CUI=C1303151	PREF=Depression management program
+Depression management program (regime/therapy)	CUI=C1303151	PREF=Depression management program (regime/therapy)
+Depression management programme	CUI=C1303151	PREF=Depression management programme
+Depression management programme (regime/therapy)	CUI=C1303151	PREF=Depression management programme (regime/therapy)
+depression masked	CUI=C0338897	PREF=depression masked
+Depression medication CIDI-SF	CUI=C3175854	PREF=Depression medication CIDI-SF
+Depression medication review	CUI=C1531670	PREF=Depression medication review
+Depression medication review (procedure)	CUI=C1531670	PREF=Depression medication review (procedure)
+depression menopausal	CUI=C0520665	PREF=depression menopausal
+depression menopausal (diagnosis)	CUI=C0520665	PREF=depression menopausal (diagnosis)
+DEPRESSION MENTAL	CUI=C0011570	PREF=DEPRESSION MENTAL
+depression mild	CUI=C0588006	PREF=depression mild
+depression minor	CUI=C0520675	PREF=depression minor
+depression moderate	CUI=C0588007	PREF=depression moderate
+depression more in evening	CUI=C2165513	PREF=depression more in evening
+depression more in evening (symptom)	CUI=C2165513	PREF=depression more in evening (symptom)
+depression more in morning	CUI=C0424136	PREF=depression more in morning
+depression more in morning (symptom)	CUI=C0424136	PREF=depression more in morning (symptom)
+depression more in summer	CUI=C2165514	PREF=depression more in summer
+depression more in summer (symptom)	CUI=C2165514	PREF=depression more in summer (symptom)
+depression more in winter	CUI=C0871610	PREF=depression more in winter
+depression more in winter (symptom)	CUI=C0871610	PREF=depression more in winter (symptom)
+Depression motion	CUI=C0460137	PREF=Depression motion
+Depression NOS	CUI=C0011570	PREF=Depression NOS
+Depression NOS (disorder)	CUI=C0011570	PREF=Depression NOS (disorder)
+Depression number >2Ws CIDI-SF	CUI=C3175846	PREF=Depression number >2Ws CIDI-SF
+Depression number Ws CIDI-SF	CUI=C3175844	PREF=Depression number Ws CIDI-SF
+depression occurring	CUI=C2051715	PREF=depression occurring
+Depression other than bipolar in last 7D	CUI=C2736987	PREF=Depression other than bipolar in last 7D
+Depression other than bipolar in last 7D:Find:7D:^Patient:Ord:MDSv3	CUI=C2739389	PREF=Depression other than bipolar in last 7D:Find:7D:^Patient:Ord:MDSv3
+Depression other than bipolar in last 7D:Finding:7 days:^Patient:Ordinal:MDSv3	CUI=C2739389	PREF=Depression other than bipolar in last 7D:Finding:7 days:^Patient:Ordinal:MDSv3
+depression post-schizophrenic	CUI=C0338808	PREF=depression post-schizophrenic
+depression postoperative	CUI=C0362037	PREF=depression postoperative
+depression postviral	CUI=C0581390	PREF=depression postviral
+depression preceded by high activity level	CUI=C2165515	PREF=depression preceded by high activity level
+depression preceded by high activity level (symptom)	CUI=C2165515	PREF=depression preceded by high activity level (symptom)
+DEPRESSION PSYCHIC	CUI=C0011570	PREF=DEPRESSION PSYCHIC
+DEPRESSION PSYCHOTIC	CUI=C0743072	PREF=DEPRESSION PSYCHOTIC
+DEPRESSION PSYCHOTIC	CUI=C0743072	PREF=DEPRESSION PSYCHOTIC
+DEPRESSION PUERPERAL	CUI=C0221074	PREF=DEPRESSION PUERPERAL
+DEPRESSION PUERPERAL	CUI=C0221074	PREF=DEPRESSION PUERPERAL
+depression recently	CUI=C2169543	PREF=depression recently
+depression recurrent	CUI=C0221480	PREF=depression recurrent
+depression recurrent brief	CUI=C0349712	PREF=depression recurrent brief
+depression relieved by counseling	CUI=C2165517	PREF=depression relieved by counseling
+depression relieved by counseling (symptom)	CUI=C2165517	PREF=depression relieved by counseling (symptom)
+depression relieved by good news	CUI=C2165518	PREF=depression relieved by good news
+depression relieved by good news (symptom)	CUI=C2165518	PREF=depression relieved by good news (symptom)
+depression relieved by medication	CUI=C2165519	PREF=depression relieved by medication
+depression relieved by medication (symptom)	CUI=C2165519	PREF=depression relieved by medication (symptom)
+Depression requiring intervention	CUI=C1446366	PREF=Depression requiring intervention
+Depression requiring intervention (finding)	CUI=C1446366	PREF=Depression requiring intervention (finding)
+depression scale	CUI=C0679604	PREF=depression scale
+Depression Scale (BASC-2)	CUI=C4049644	PREF=Depression Scale (BASC-2)
+depression scale (procedure)	CUI=C0679604	PREF=depression scale (procedure)
+Depression scale [UPDRS]	CUI=C4036707	PREF=Depression scale [UPDRS]
+Depression scale UPDRS	CUI=C4036707	PREF=Depression scale UPDRS
+Depression scale:Find:Pt:^Patient:Ord:UPDRS	CUI=C4036707	PREF=Depression scale:Find:Pt:^Patient:Ord:UPDRS
+Depression scale:Finding:Point in time:^Patient:Ordinal:UPDRS	CUI=C4036707	PREF=Depression scale:Finding:Point in time:^Patient:Ordinal:UPDRS
+Depression score	CUI=C3483981	PREF=Depression score
+Depression score [M3]	CUI=C3483980	PREF=Depression score [M3]
+Depression score:Score:Point in time:^Patient:Quantitative:M3	CUI=C3483980	PREF=Depression score:Score:Point in time:^Patient:Quantitative:M3
+Depression score:Score:Pt:^Patient:Qn:M3	CUI=C3483980	PREF=Depression score:Score:Pt:^Patient:Qn:M3
+Depression screen	CUI=C0740218	PREF=Depression screen
+Depression screening	CUI=C0740218	PREF=Depression screening
+Depression screening (procedure)	CUI=C0740218	PREF=Depression screening (procedure)
+Depression screening declined	CUI=C4303801	PREF=Depression screening declined
+Depression screening declined (situation)	CUI=C4303801	PREF=Depression screening declined (situation)
+Depression Screening Negative	CUI=C3494635	PREF=Depression Screening Negative
+Depression Screening Negative (finding)	CUI=C3494635	PREF=Depression Screening Negative (finding)
+Depression screening not done	CUI=C4520504	PREF=Depression screening not done
+Depression screening not done (situation)	CUI=C4520504	PREF=Depression screening not done (situation)
+Depression Screening Positive	CUI=C3494636	PREF=Depression Screening Positive
+Depression screening positive (situation)	CUI=C3494636	PREF=Depression screening positive (situation)
+Depression screening refused	CUI=C4303801	PREF=Depression screening refused
+Depression screening using Patient Health Questionnaire Nine Item score	CUI=C4275234	PREF=Depression screening using Patient Health Questionnaire Nine Item score
+Depression screening using Patient Health Questionnaire Nine Item score (procedure)	CUI=C4275234	PREF=Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+Depression screening using Patient Health Questionnaire Two-Item score	CUI=C4520515	PREF=Depression screening using Patient Health Questionnaire Two-Item score
+Depression screening using Patient Health Questionnaire Two-Item score (procedure)	CUI=C4520515	PREF=Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+Depression screening using PHQ-9 (Patient Health Questionnaire 9) score	CUI=C4275234	PREF=Depression screening using PHQ-9 (Patient Health Questionnaire 9) score
+Depression screening using PHQ-9 score	CUI=C4275234	PREF=Depression screening using PHQ-9 score
+depression seasonal pattern	CUI=C0085159	PREF=depression seasonal pattern
+depression seasonal pattern (diagnosis)	CUI=C0085159	PREF=depression seasonal pattern (diagnosis)
+depression seasonal pattern w/ few nonseasonal occurrences	CUI=C2165520	PREF=depression seasonal pattern w/ few nonseasonal occurrences
+depression seasonal pattern with few nonseasonal occurrences	CUI=C2165520	PREF=depression seasonal pattern with few nonseasonal occurrences
+depression seasonal pattern with few nonseasonal occurrences (symptom)	CUI=C2165520	PREF=depression seasonal pattern with few nonseasonal occurrences (symptom)
+Depression self rating scale	CUI=C0451108	PREF=Depression self rating scale
+Depression self rating scale (assessment scale)	CUI=C0451108	PREF=Depression self rating scale (assessment scale)
+Depression self-control	CUI=C1319135	PREF=Depression self-control
+depression severe	CUI=C0588008	PREF=depression severe
+depression stuporous	CUI=C0270488	PREF=depression stuporous
+Depression Subordinate Domain	CUI=C4084909	PREF=Depression Subordinate Domain
+Depression tell professional CIDI-SF	CUI=C3175852	PREF=Depression tell professional CIDI-SF
+Depression thoughts of death CIDI-SF	CUI=C3175842	PREF=Depression thoughts of death CIDI-SF
+Depression tired CIDI-SF	CUI=C3175829	PREF=Depression tired CIDI-SF
+Depression trouble concentrating CIDI-SF	CUI=C3175839	PREF=Depression trouble concentrating CIDI-SF
+Depression trouble sleeping freq QIDS	CUI=C3176703	PREF=Depression trouble sleeping freq QIDS
+Depression trouble sleeping QIDS	CUI=C3175837	PREF=Depression trouble sleeping QIDS
+Depression weight gain loss CIDI-SF	CUI=C3175831	PREF=Depression weight gain loss CIDI-SF
+depression with anxiety	CUI=C0338908	PREF=depression with anxiety
+depression with anxiety (diagnosis)	CUI=C0338908	PREF=depression with anxiety (diagnosis)
+Depression with hypomania (bipolar 2)	CUI=C1852199	PREF=Depression with hypomania (bipolar 2)
+Depression with mania (bipolar 1)	CUI=C1852198	PREF=Depression with mania (bipolar 1)
+Depression worse in morning	CUI=C0424136	PREF=Depression worse in morning
+Depression worse in morning (finding)	CUI=C0424136	PREF=Depression worse in morning (finding)
+Depression worse later in day	CUI=C0424137	PREF=Depression worse later in day
+Depression worse later in day (finding)	CUI=C0424137	PREF=Depression worse later in day (finding)
+Depression worsened	CUI=C0541869	PREF=Depression worsened
+Depression wt gain loss QIDS	CUI=C3259174	PREF=Depression wt gain loss QIDS
+Depression, clinician diagnosis	CUI=C3843747	PREF=Depression, clinician diagnosis
+Depression, Neurotic	CUI=C0282126	PREF=Depression, Neurotic
+Depression, NOS	CUI=C0011570	PREF=Depression, NOS
+Depression, psychotic	CUI=C0743072	PREF=Depression, psychotic
+Depression: [reactive (neurotic)] or [postnatal]	CUI=C1535539	PREF=Depression: [reactive (neurotic)] or [postnatal]
+Depression: [reactive (neurotic)] or [postnatal] (disorder)	CUI=C1535539	PREF=Depression: [reactive (neurotic)] or [postnatal] (disorder)
+Depression: [single major episode] or [agitated] or [endogenous (including first episode)]	CUI=C2004268	PREF=Depression: [single major episode] or [agitated] or [endogenous (including first episode)]
+Depression: [single major episode] or [agitated] or [endogenous (including first episode)] (disorder)	CUI=C2004268	PREF=Depression: [single major episode] or [agitated] or [endogenous (including first episode)] (disorder)
+Depression:Find:24H:^Patient:Ord:Reported.HIV-SSC	CUI=C0943994	PREF=Depression:Find:24H:^Patient:Ord:Reported.HIV-SSC
+Depression:Find:Pt:^Patient:Ord:MDS	CUI=C1716769	PREF=Depression:Find:Pt:^Patient:Ord:MDS
+Depression:Finding:24 hours:^Patient:Ordinal:Reported.HIV-SSC	CUI=C0943994	PREF=Depression:Finding:24 hours:^Patient:Ordinal:Reported.HIV-SSC
+Depression:Finding:Point in time:^Patient:Ordinal:MDS	CUI=C1716769	PREF=Depression:Finding:Point in time:^Patient:Ordinal:MDS
+Depressive psychoses	CUI=C0743072	PREF=Depressive psychoses
+depressive psychosis	CUI=C0743072	PREF=depressive psychosis
+depressive reaction	CUI=C0011579	PREF=depressive reaction
+Depressive symptoms	CUI=C0086132	PREF=Depressive symptoms
+discussed concerns about depression	CUI=C2095624	PREF=discussed concerns about depression
+discussed concerns about depression (treatment)	CUI=C2095624	PREF=discussed concerns about depression (treatment)
+Diurnal variation depression DI-PAD	CUI=C3176524	PREF=Diurnal variation depression DI-PAD
+Diurnal variation of depression	CUI=C3176525	PREF=Diurnal variation of depression
+Diurnal variation of depression [DI-PAD]	CUI=C3176524	PREF=Diurnal variation of depression [DI-PAD]
+Diurnal variation of depression:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4	CUI=C3176524	PREF=Diurnal variation of depression:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4
+Diurnal variation of depression:Finding:Point in time:^Patient:Ordinal:DI-PAD CGP V 1.4	CUI=C3176524	PREF=Diurnal variation of depression:Finding:Point in time:^Patient:Ordinal:DI-PAD CGP V 1.4
+Documentation of depression medication action plan	CUI=C3495058	PREF=Documentation of depression medication action plan
+Documentation of depression medication action plan (procedure)	CUI=C3495058	PREF=Documentation of depression medication action plan (procedure)
+Drug-induced depression	CUI=C0338715	PREF=Drug-induced depression
+DSRS - Depression self rating scale	CUI=C0451108	PREF=DSRS - Depression self rating scale
+Dysphoria - depression	CUI=C3176492	PREF=Dysphoria - depression
+Dysphoria - depression [DI-PAD]	CUI=C3176491	PREF=Dysphoria - depression [DI-PAD]
+Dysphoria - depression DI-PAD	CUI=C3176491	PREF=Dysphoria - depression DI-PAD
+Dysphoria - depression:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4	CUI=C3176491	PREF=Dysphoria - depression:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4
+Dysphoria - depression:Finding:Point in time:^Patient:Ordinal:DI-PAD CGP V 1.4	CUI=C3176491	PREF=Dysphoria - depression:Finding:Point in time:^Patient:Ordinal:DI-PAD CGP V 1.4
+eating binges followed by guilt and depression	CUI=C2199612	PREF=eating binges followed by guilt and depression
+eating binges followed by guilt and depression (symptom)	CUI=C2199612	PREF=eating binges followed by guilt and depression (symptom)
+emotional and psychiatric depression	CUI=C0679108	PREF=emotional and psychiatric depression
+emotional depression	CUI=C0086132	PREF=emotional depression
+emotional depression	CUI=C0086132	PREF=emotional depression
+Encounter due to screening for depression	CUI=C0260942	PREF=Encounter due to screening for depression
+endogenous depression	CUI=C0011573	PREF=endogenous depression
+Endogenous depression - first	CUI=C0338895	PREF=Endogenous depression - first
+endogenous depression - first episode	CUI=C0338895	PREF=endogenous depression - first episode
+endogenous depression - first episode (diagnosis)	CUI=C0338895	PREF=endogenous depression - first episode (diagnosis)
+Endogenous depression - recurrent	CUI=C0553816	PREF=Endogenous depression - recurrent
+Endogenous depression - recurrent (diagnosis)	CUI=C0553816	PREF=Endogenous depression - recurrent (diagnosis)
+Endogenous depression - recurrent (disorder)	CUI=C0553816	PREF=Endogenous depression - recurrent (disorder)
+Endogenous depression (diagnosis)	CUI=C0011573	PREF=Endogenous depression (diagnosis)
+Endogenous depression (disorder)	CUI=C0011573	PREF=Endogenous depression (disorder)
+Endogenous depression [Ambiguous]	CUI=C0011573	PREF=Endogenous depression [Ambiguous]
+Endogenous depression first episode	CUI=C0338895	PREF=Endogenous depression first episode
+Endogenous depression first episode (disorder)	CUI=C0338895	PREF=Endogenous depression first episode (disorder)
+Endogenous depression with psychotic symptoms	CUI=C1395188	PREF=Endogenous depression with psychotic symptoms
+Endogenous depression-recurr.	CUI=C0553816	PREF=Endogenous depression-recurr.
+euphoria alternating with periods of depression	CUI=C2219874	PREF=euphoria alternating with periods of depression
+euphoria alternating with periods of depression (symptom)	CUI=C2219874	PREF=euphoria alternating with periods of depression (symptom)
+evening depression	CUI=C2165513	PREF=evening depression
+Expresses sadness &or anger &or empty feeling over lost roles &or status	CUI=C1976716	PREF=Expresses sadness &or anger &or empty feeling over lost roles &or status
+Expresses sadness &or anger &or empty feeling over lost roles &or status:Find:Pt:^Patient:Ord:MDS	CUI=C1716703	PREF=Expresses sadness &or anger &or empty feeling over lost roles &or status:Find:Pt:^Patient:Ord:MDS
+Expresses sadness &or anger &or empty feeling over lost roles &or status:Finding:Point in time:^Patient:Ordinal:MDS	CUI=C1716703	PREF=Expresses sadness &or anger &or empty feeling over lost roles &or status:Finding:Point in time:^Patient:Ordinal:MDS
+Expresses sadness/anger/empty feeling over lost roles/status [Minimum Data Set]	CUI=C1716703	PREF=Expresses sadness/anger/empty feeling over lost roles/status [Minimum Data Set]
+factors relieving depression	CUI=C2165516	PREF=factors relieving depression
+factors relieving depression (symptom)	CUI=C2165516	PREF=factors relieving depression (symptom)
+Family history of depression	CUI=C0455383	PREF=Family history of depression
+Family history: Depression	CUI=C0455383	PREF=Family history: Depression
+Family history: Depression (context-dependent category)	CUI=C0455383	PREF=Family history: Depression (context-dependent category)
+Family history: Depression (situation)	CUI=C0455383	PREF=Family history: Depression (situation)
+Family history: Puerperal depression	CUI=C0455435	PREF=Family history: Puerperal depression
+Family history: Puerperal depression (context-dependent category)	CUI=C0455435	PREF=Family history: Puerperal depression (context-dependent category)
+Family history: Puerperal depression (situation)	CUI=C0455435	PREF=Family history: Puerperal depression (situation)
+Feeling down, depressed or hopeless in last 2 weeks.frequency [Reported PHQ-9 CMS]	CUI=C2707455	PREF=Feeling down, depressed or hopeless in last 2 weeks.frequency [Reported PHQ-9 CMS]
+Feeling down, depressed or hopeless in last 2 weeks.presence [Reported PHQ-9 CMS]	CUI=C2707453	PREF=Feeling down, depressed or hopeless in last 2 weeks.presence [Reported PHQ-9 CMS]
+Feeling down, depressed or hopeless in last 2W.frequency	CUI=C2924356	PREF=Feeling down, depressed or hopeless in last 2W.frequency
+Feeling down, depressed or hopeless in last 2W.frequency:Find:2W:^Patient:Ord:Reported.PHQ-9.CMS	CUI=C2707455	PREF=Feeling down, depressed or hopeless in last 2W.frequency:Find:2W:^Patient:Ord:Reported.PHQ-9.CMS
+Feeling down, depressed or hopeless in last 2W.frequency:Finding:2 weeks:^Patient:Ordinal:Reported.PHQ-9.CMS	CUI=C2707455	PREF=Feeling down, depressed or hopeless in last 2W.frequency:Finding:2 weeks:^Patient:Ordinal:Reported.PHQ-9.CMS
+Feeling down, depressed or hopeless in last 2W.presence	CUI=C2924357	PREF=Feeling down, depressed or hopeless in last 2W.presence
+Feeling down, depressed or hopeless in last 2W.presence:Find:2W:^Patient:Ord:Reported.PHQ-9.CMS	CUI=C2707453	PREF=Feeling down, depressed or hopeless in last 2W.presence:Find:2W:^Patient:Ord:Reported.PHQ-9.CMS
+Feeling down, depressed or hopeless in last 2W.presence:Finding:2 weeks:^Patient:Ordinal:Reported.PHQ-9.CMS	CUI=C2707453	PREF=Feeling down, depressed or hopeless in last 2W.presence:Finding:2 weeks:^Patient:Ordinal:Reported.PHQ-9.CMS
+Feeling down, depressed, or hopeless in last 2 weeks [Reported.PHQ]	CUI=C1715513	PREF=Feeling down, depressed, or hopeless in last 2 weeks [Reported.PHQ]
+Feeling down, depressed, or hopeless in last 2W	CUI=C2924103	PREF=Feeling down, depressed, or hopeless in last 2W
+Feeling down, depressed, or hopeless in last 2W:Find:2W:^Patient:Ord:Reported.PHQ	CUI=C1715513	PREF=Feeling down, depressed, or hopeless in last 2W:Find:2W:^Patient:Ord:Reported.PHQ
+Feeling down, depressed, or hopeless in last 2W:Finding:2 weeks:^Patient:Ordinal:Reported.PHQ	CUI=C1715513	PREF=Feeling down, depressed, or hopeless in last 2W:Finding:2 weeks:^Patient:Ordinal:Reported.PHQ
+Feeling of loss of feeling	CUI=C0455770	PREF=Feeling of loss of feeling
+Feeling of loss of feeling (finding)	CUI=C0455770	PREF=Feeling of loss of feeling (finding)
+Feeling of sadness	CUI=C3536794	PREF=Feeling of sadness
+Feeling sad	CUI=C1688635	PREF=Feeling sad
+Feeling sad	CUI=C2706102	PREF=Feeling sad
+Feeling sad	CUI=C3536794	PREF=Feeling sad
+Feeling sad [CARE]	CUI=C2706124	PREF=Feeling sad [CARE]
+Feeling sad in past 7 days [QIDS]	CUI=C3175863	PREF=Feeling sad in past 7 days [QIDS]
+Feeling sad in past 7D	CUI=C3175864	PREF=Feeling sad in past 7D
+Feeling sad in past 7D:Find:7D:^Patient:Ord:QIDS	CUI=C3175863	PREF=Feeling sad in past 7D:Find:7D:^Patient:Ord:QIDS
+Feeling sad in past 7D:Finding:7 days:^Patient:Ordinal:QIDS	CUI=C3175863	PREF=Feeling sad in past 7D:Finding:7 days:^Patient:Ordinal:QIDS
+Feeling sad QIDS	CUI=C3175863	PREF=Feeling sad QIDS
+Feeling Sad:-:Point in time:^Patient:-	CUI=C2706102	PREF=Feeling Sad:-:Point in time:^Patient:-
+Feeling sad:-:Pt:^Patient:-	CUI=C2706102	PREF=Feeling sad:-:Pt:^Patient:-
+Feeling sad:Find:Pt:^Patient:Ord:CARE	CUI=C2706124	PREF=Feeling sad:Find:Pt:^Patient:Ord:CARE
+Feeling sad:Finding:Point in time:^Patient:Ordinal:CARE	CUI=C2706124	PREF=Feeling sad:Finding:Point in time:^Patient:Ordinal:CARE
+FH: Depression	CUI=C0455383	PREF=FH: Depression
+Finding of single stimulus depression	CUI=C0428700	PREF=Finding of single stimulus depression
+Finding of single stimulus depression (finding)	CUI=C0428700	PREF=Finding of single stimulus depression (finding)
+H/O: depression	CUI=C0455503	PREF=H/O: depression
+H/O: depression (situation)	CUI=C0455503	PREF=H/O: depression (situation)
+HAD - Hospital anxiety and depression scale	CUI=C0451221	PREF=HAD - Hospital anxiety and depression scale
+HAD scale: depression score	CUI=C1303271	PREF=HAD scale: depression score
+HAD scale: depression score (observable entity)	CUI=C1303271	PREF=HAD scale: depression score (observable entity)
+HADS - Hospital anxiety and depression scale	CUI=C0451221	PREF=HADS - Hospital anxiety and depression scale
+HAM-D (Hamilton Depression Rating Scale) score	CUI=C4545802	PREF=HAM-D (Hamilton Depression Rating Scale) score
+HAM-D (Hamilton Rating Scale for Depression) score	CUI=C4545802	PREF=HAM-D (Hamilton Rating Scale for Depression) score
+HAMD - Hamilton rating scale for depression	CUI=C0451203	PREF=HAMD - Hamilton rating scale for depression
+Hamilton depression rating scale (HDRS)	CUI=C2021166	PREF=Hamilton depression rating scale (HDRS)
+Hamilton depression rating scale (HDRS) (procedure)	CUI=C2021166	PREF=Hamilton depression rating scale (HDRS) (procedure)
+Hamilton rating scale for depression	CUI=C0451203	PREF=Hamilton rating scale for depression
+Hamilton rating scale for depression (assessment scale)	CUI=C0451203	PREF=Hamilton rating scale for depression (assessment scale)
+Hamilton Rating Scale for Depression score	CUI=C4545802	PREF=Hamilton Rating Scale for Depression score
+Hamilton Rating Scale for Depression score (observable entity)	CUI=C4545802	PREF=Hamilton Rating Scale for Depression score (observable entity)
+Has had depression	CUI=C0455503	PREF=Has had depression
+headache preceded by depression	CUI=C2029730	PREF=headache preceded by depression
+headache preceded by depression (symptom)	CUI=C2029730	PREF=headache preceded by depression (symptom)
+HEDIS 2018 Depression Screen	CUI=C4521427	PREF=HEDIS 2018 Depression Screen
+HEDIS 2018 Value Set - Depression Screen	CUI=C4521426	PREF=HEDIS 2018 Value Set - Depression Screen
+HEDIS 2018 Value Set - Depression Screen	CUI=C4521427	PREF=HEDIS 2018 Value Set - Depression Screen
+HEDIS 2018 Value Set - Depression Screen:-:Point in time:^Patient:-	CUI=C4521427	PREF=HEDIS 2018 Value Set - Depression Screen:-:Point in time:^Patient:-
+HEDIS 2018 Value Set - Depression Screen:-:Pt:^Patient:-	CUI=C4521427	PREF=HEDIS 2018 Value Set - Depression Screen:-:Pt:^Patient:-
+History of - depression	CUI=C0455503	PREF=History of - depression
+History of - depression (context-dependent category)	CUI=C0455503	PREF=History of - depression (context-dependent category)
+History of - depression (situation)	CUI=C0455503	PREF=History of - depression (situation)
+History of depression	CUI=C0455503	PREF=History of depression
+History of depression (situation)	CUI=C0455503	PREF=History of depression (situation)
+Hospital Anxiety and Depression (HAD) scale: anxiety score	CUI=C1303270	PREF=Hospital Anxiety and Depression (HAD) scale: anxiety score
+Hospital Anxiety and Depression (HAD) scale: anxiety score (observable entity)	CUI=C1303270	PREF=Hospital Anxiety and Depression (HAD) scale: anxiety score (observable entity)
+Hospital Anxiety and Depression (HAD) scale: depression score	CUI=C1303271	PREF=Hospital Anxiety and Depression (HAD) scale: depression score
+Hospital Anxiety and Depression (HAD) scale: depression score (observable entity)	CUI=C1303271	PREF=Hospital Anxiety and Depression (HAD) scale: depression score (observable entity)
+Hospital anxiety and depression scale	CUI=C0451221	PREF=Hospital anxiety and depression scale
+Hospital anxiety and depression scale (assessment scale)	CUI=C0451221	PREF=Hospital anxiety and depression scale (assessment scale)
+Hospital Anxiety and Depression Scale Questionnaire	CUI=C3539657	PREF=Hospital Anxiety and Depression Scale Questionnaire
+Hospital Anxiety and Depression scale: anxiety score	CUI=C1303270	PREF=Hospital Anxiety and Depression scale: anxiety score
+Hospital Anxiety and Depression scale: anxiety score (observable entity)	CUI=C1303270	PREF=Hospital Anxiety and Depression scale: anxiety score (observable entity)
+Hospital Anxiety and Depression scale: depression score	CUI=C1303271	PREF=Hospital Anxiety and Depression scale: depression score
+Hospital Anxiety and Depression scale: depression score (observable entity)	CUI=C1303271	PREF=Hospital Anxiety and Depression scale: depression score (observable entity)
+How Much Distress Feeling Sad	CUI=C4085647	PREF=How Much Distress Feeling Sad
+HRSD - Hamilton rating scale for depression	CUI=C0451203	PREF=HRSD - Hamilton rating scale for depression
+HRSD (Hamilton Rating Scale for Depression) score	CUI=C4545802	PREF=HRSD (Hamilton Rating Scale for Depression) score
+I could not stop feeling sad in past 7 days [PROMIS]	CUI=C3698779	PREF=I could not stop feeling sad in past 7 days [PROMIS]
+I could not stop feeling sad in past 7D	CUI=C2963867	PREF=I could not stop feeling sad in past 7D
+I could not stop feeling sad in past 7D:Find:7D:^Patient:Ord:PROMIS	CUI=C3698779	PREF=I could not stop feeling sad in past 7D:Find:7D:^Patient:Ord:PROMIS
+I could not stop feeling sad in past 7D:Finding:7 days:^Patient:Ordinal:PROMIS	CUI=C3698779	PREF=I could not stop feeling sad in past 7D:Finding:7 days:^Patient:Ordinal:PROMIS
+Indicators of depression, anxiety, sad mood	CUI=C1719140	PREF=Indicators of depression, anxiety, sad mood
+Indicators of depression, anxiety, sad mood Set	CUI=C1717050	PREF=Indicators of depression, anxiety, sad mood Set
+Indicators of depression, anxiety, sad mood:-:Point in time:^Patient:Set	CUI=C1717050	PREF=Indicators of depression, anxiety, sad mood:-:Point in time:^Patient:Set
+Indicators of depression, anxiety, sad mood:-:Pt:^Patient:Set	CUI=C1717050	PREF=Indicators of depression, anxiety, sad mood:-:Pt:^Patient:Set
+Instructions - self-help group for families of depression patients (treatment)	CUI=C2224563	PREF=Instructions - self-help group for families of depression patients (treatment)
+Involutional depression	CUI=C0011574	PREF=Involutional depression
+involutional depression (diagnosis)	CUI=C0011574	PREF=involutional depression (diagnosis)
+Involutional depression (disorder)	CUI=C0011574	PREF=Involutional depression (disorder)
+involutional depression in full remission	CUI=C2078985	PREF=involutional depression in full remission
+involutional depression in full remission (diagnosis)	CUI=C2078985	PREF=involutional depression in full remission (diagnosis)
+Knowledge level about depression management	CUI=C2585007	PREF=Knowledge level about depression management
+Knowledge level about depression management (observable entity)	CUI=C2585007	PREF=Knowledge level about depression management (observable entity)
+Leeds scale for the self-assessment of anxiety & depression	CUI=C0451254	PREF=Leeds scale for the self-assessment of anxiety & depression
+Leeds scale for the self-assessment of anxiety and depression	CUI=C0451254	PREF=Leeds scale for the self-assessment of anxiety and depression
+Leeds scale for the self-assessment of anxiety and depression (assessment scale)	CUI=C0451254	PREF=Leeds scale for the self-assessment of anxiety and depression (assessment scale)
+Leeds scales for the self-assessment of anxiety and depression	CUI=C0451254	PREF=Leeds scales for the self-assessment of anxiety and depression
+Leeds scales for the self-assessment of anxiety and depression (assessment scale)	CUI=C0451254	PREF=Leeds scales for the self-assessment of anxiety and depression (assessment scale)
+Level of depression	CUI=C1319226	PREF=Level of depression
+Level of depression (observable entity)	CUI=C1319226	PREF=Level of depression (observable entity)
+Listen to you when you were feeling down or upset	CUI=C3841875	PREF=Listen to you when you were feeling down or upset
+major depression	CUI=C1269683	PREF=major depression
+major depression - in complete remission	CUI=C0270463	PREF=major depression - in complete remission
+major depression - in partial remission	CUI=C0270462	PREF=major depression - in partial remission
+major depression - in remission	CUI=C0270461	PREF=major depression - in remission
+Major depression (rare)	CUI=C3275630	PREF=Major depression (rare)
+Major depression in complete remission	CUI=C0270463	PREF=Major depression in complete remission
+Major depression in complete remission (disorder)	CUI=C0270463	PREF=Major depression in complete remission (disorder)
+Major depression in full remission	CUI=C0270463	PREF=Major depression in full remission
+Major depression in full remission (disorder)	CUI=C0270463	PREF=Major depression in full remission (disorder)
+Major depression in partial remission	CUI=C0270462	PREF=Major depression in partial remission
+Major depression in partial remission (disorder)	CUI=C0270462	PREF=Major depression in partial remission (disorder)
+Major depression in remission	CUI=C0270461	PREF=Major depression in remission
+Major depression in remission (disorder)	CUI=C0270461	PREF=Major depression in remission (disorder)
+Major depression in remission, NOS	CUI=C0270461	PREF=Major depression in remission, NOS
+major depression melancholic type	CUI=C1282644	PREF=major depression melancholic type
+major depression mild	CUI=C0270455	PREF=major depression mild
+major depression minimal	CUI=C4304080	PREF=major depression minimal
+major depression moderate	CUI=C0270456	PREF=major depression moderate
+major depression moderately severe	CUI=C4304584	PREF=major depression moderately severe
+Major depression NOS	CUI=C1269683	PREF=Major depression NOS
+major depression recurrent episodes	CUI=C0154409	PREF=major depression recurrent episodes
+major depression recurrent minimal	CUI=C4304084	PREF=major depression recurrent minimal
+major depression recurrent moderately severe	CUI=C4304083	PREF=major depression recurrent moderately severe
+major depression recurrent severe with psychosis	CUI=C0154413	PREF=major depression recurrent severe with psychosis
+major depression recurrent severe with psychotic features, mood-congruent	CUI=C0270475	PREF=major depression recurrent severe with psychotic features, mood-congruent
+major depression recurrent severe with psychotic features, mood-incongruent	CUI=C0270476	PREF=major depression recurrent severe with psychotic features, mood-incongruent
+major depression recurrent with catatonic features	CUI=C0520672	PREF=major depression recurrent with catatonic features
+major depression severe	CUI=C3472470	PREF=major depression severe
+major depression severe with psychotic features	CUI=C0270458	PREF=major depression severe with psychotic features
+major depression severe with psychotic features mood-congruent	CUI=C0270459	PREF=major depression severe with psychotic features mood-congruent
+major depression severe with psychotic features mood-incongruent	CUI=C0270460	PREF=major depression severe with psychotic features mood-incongruent
+major depression severe without psychotic features	CUI=C0270457	PREF=major depression severe without psychotic features
+major depression single episode severe w/ psychotic features, mood congruent	CUI=C0270467	PREF=major depression single episode severe w/ psychotic features, mood congruent
+major depression single episode severe w/ psychotic features, mood-incongruent	CUI=C0270468	PREF=major depression single episode severe w/ psychotic features, mood-incongruent
+Major depression single episode, in partial remission	CUI=C0236763	PREF=Major depression single episode, in partial remission
+Major depression single episode, in partial remission (disorder)	CUI=C0236763	PREF=Major depression single episode, in partial remission (disorder)
+Major depression with psychotic features	CUI=C4518519	PREF=Major depression with psychotic features
+Major depression with psychotic features (disorder)	CUI=C4518519	PREF=Major depression with psychotic features (disorder)
+Major depression, in remission	CUI=C0270461	PREF=Major depression, in remission
+Major depression, melancholic type	CUI=C1282644	PREF=Major depression, melancholic type
+Major depression, melancholic type (diagnosis)	CUI=C1282644	PREF=Major depression, melancholic type (diagnosis)
+Major depression, melancholic type (disorder)	CUI=C1282644	PREF=Major depression, melancholic type (disorder)
+Major depression, melancholic type (disorder) [Ambiguous]	CUI=C1282644	PREF=Major depression, melancholic type (disorder) [Ambiguous]
+Major depression, NOS	CUI=C1269683	PREF=Major depression, NOS
+major depression, recurrent - with postpartum onset	CUI=C0520674	PREF=major depression, recurrent - with postpartum onset
+major depression, recurrent - with postpartum onset (diagnosis)	CUI=C0520674	PREF=major depression, recurrent - with postpartum onset (diagnosis)
+major depression, recurrent, in remission	CUI=C0270477	PREF=major depression, recurrent, in remission
+major depression, recurrent, mild episode	CUI=C3665435	PREF=major depression, recurrent, mild episode
+major depression, recurrent, moderate episode	CUI=C0338890	PREF=major depression, recurrent, moderate episode
+major depression, recurrent, moderate episode (diagnosis)	CUI=C0338890	PREF=major depression, recurrent, moderate episode (diagnosis)
+major depression, single episode	CUI=C0024517	PREF=major depression, single episode
+major depression, single episode (diagnosis)	CUI=C0024517	PREF=major depression, single episode (diagnosis)
+Major depression, single episode (disorder)	CUI=C0024517	PREF=Major depression, single episode (disorder)
+major depression, single episode with catatonic features	CUI=C0520667	PREF=major depression, single episode with catatonic features
+major depression, single episode with catatonic features (diagnosis)	CUI=C0520667	PREF=major depression, single episode with catatonic features (diagnosis)
+major depression, single episode with melancholic features	CUI=C0520668	PREF=major depression, single episode with melancholic features
+major depression, single episode with melancholic features (diagnosis)	CUI=C0520668	PREF=major depression, single episode with melancholic features (diagnosis)
+major depression, single episode without melancholia or psychotic features	CUI=C2062769	PREF=major depression, single episode without melancholia or psychotic features
+Major depression, single episode, in complete remission	CUI=C0270470	PREF=Major depression, single episode, in complete remission
+Major depression, single episode, in complete remission (disorder)	CUI=C0270470	PREF=Major depression, single episode, in complete remission (disorder)
+Major depression, single episode, in full remission	CUI=C0270470	PREF=Major depression, single episode, in full remission
+Major depression, single episode, in partial remission	CUI=C0236763	PREF=Major depression, single episode, in partial remission
+Major depression, single episode, NOS	CUI=C0024517	PREF=Major depression, single episode, NOS
+major depression, single episode, without psychotic features, with melancholia	CUI=C2062770	PREF=major depression, single episode, without psychotic features, with melancholia
+Manic depression	CUI=C0005586	PREF=Manic depression
+Manic depression (bipolar disease)	CUI=C4534442	PREF=Manic depression (bipolar disease)
+Manic depression [Minimum Data Set]	CUI=C1716770	PREF=Manic depression [Minimum Data Set]
+Manic depression other than schizophrenia in last 7 days [MDSv3]	CUI=C2739390	PREF=Manic depression other than schizophrenia in last 7 days [MDSv3]
+Manic depression other than schizophrenia in last 7D	CUI=C2737129	PREF=Manic depression other than schizophrenia in last 7D
+Manic depression other than schizophrenia in last 7D:Find:7D:^Patient:Ord:MDSv3	CUI=C2739390	PREF=Manic depression other than schizophrenia in last 7D:Find:7D:^Patient:Ord:MDSv3
+Manic depression other than schizophrenia in last 7D:Finding:7 days:^Patient:Ordinal:MDSv3	CUI=C2739390	PREF=Manic depression other than schizophrenia in last 7D:Finding:7 days:^Patient:Ordinal:MDSv3
+Manic depression:Find:Pt:^Patient:Ord:MDS	CUI=C1716770	PREF=Manic depression:Find:Pt:^Patient:Ord:MDS
+Manic depression:Finding:Point in time:^Patient:Ordinal:MDS	CUI=C1716770	PREF=Manic depression:Finding:Point in time:^Patient:Ordinal:MDS
+Manic-depression assoc member	CUI=C0424950	PREF=Manic-depression assoc member
+Manic-depression association member	CUI=C0424950	PREF=Manic-depression association member
+Manic-depression association member (finding)	CUI=C0424950	PREF=Manic-depression association member (finding)
+Marks and Mathews fear questionnaire total associated anxiety and depression score	CUI=C2919392	PREF=Marks and Mathews fear questionnaire total associated anxiety and depression score
+Marks and Mathews fear questionnaire total associated anxiety and depression score (observable entity)	CUI=C2919392	PREF=Marks and Mathews fear questionnaire total associated anxiety and depression score (observable entity)
+Masked depression	CUI=C0338897	PREF=Masked depression
+Masked depression (diagnosis)	CUI=C0338897	PREF=Masked depression (diagnosis)
+Masked depression (disorder)	CUI=C0338897	PREF=Masked depression (disorder)
+Menopausal depression	CUI=C0520665	PREF=Menopausal depression
+Menopausal depression (disorder)	CUI=C0520665	PREF=Menopausal depression (disorder)
+Menopausal depression, NOS	CUI=C0520665	PREF=Menopausal depression, NOS
+Mental Depression	CUI=C0011570	PREF=Mental Depression
+Mild depression	CUI=C0588006	PREF=Mild depression
+Mild depression (diagnosis)	CUI=C0588006	PREF=Mild depression (diagnosis)
+Mild depression (disorder)	CUI=C0588006	PREF=Mild depression (disorder)
+Mild depression and delay in both scotopic and photopic function on electroretinography	CUI=C3810454	PREF=Mild depression and delay in both scotopic and photopic function on electroretinography
+Mild major depression	CUI=C0270455	PREF=Mild major depression
+Mild major depression (diagnosis)	CUI=C0270455	PREF=Mild major depression (diagnosis)
+Mild major depression (disorder)	CUI=C0270455	PREF=Mild major depression (disorder)
+Mild major depression, single episode	CUI=C0154403	PREF=Mild major depression, single episode
+Mild major depression, single episode (diagnosis)	CUI=C0154403	PREF=Mild major depression, single episode (diagnosis)
+Mild major depression, single episode (disorder)	CUI=C0154403	PREF=Mild major depression, single episode (disorder)
+Mild recurrent major depression	CUI=C0154410	PREF=Mild recurrent major depression
+mild recurrent major depression (diagnosis)	CUI=C0154410	PREF=mild recurrent major depression (diagnosis)
+Mild recurrent major depression (disorder)	CUI=C0154410	PREF=Mild recurrent major depression (disorder)
+Minimal depression	CUI=C4305327	PREF=Minimal depression
+Minimal depression (disorder)	CUI=C4305327	PREF=Minimal depression (disorder)
+Minimal major depression	CUI=C4304080	PREF=Minimal major depression
+Minimal major depression (diagnosis)	CUI=C4304080	PREF=Minimal major depression (diagnosis)
+Minimal major depression (disorder)	CUI=C4304080	PREF=Minimal major depression (disorder)
+Minimal major depression one episode	CUI=C4304081	PREF=Minimal major depression one episode
+Minimal major depression single episode	CUI=C4304081	PREF=Minimal major depression single episode
+Minimal major depression single episode (disorder)	CUI=C4304081	PREF=Minimal major depression single episode (disorder)
+minimal major depression, single episode	CUI=C4304081	PREF=minimal major depression, single episode
+minimal major depression, single episode (diagnosis)	CUI=C4304081	PREF=minimal major depression, single episode (diagnosis)
+Minimal recurrent major depression	CUI=C4304084	PREF=Minimal recurrent major depression
+Minimal recurrent major depression (diagnosis)	CUI=C4304084	PREF=Minimal recurrent major depression (diagnosis)
+Minimal recurrent major depression (disorder)	CUI=C4304084	PREF=Minimal recurrent major depression (disorder)
+Moderate depression	CUI=C0588007	PREF=Moderate depression
+Moderate depression (diagnosis)	CUI=C0588007	PREF=Moderate depression (diagnosis)
+Moderate depression (disorder)	CUI=C0588007	PREF=Moderate depression (disorder)
+moderate involutional depression	CUI=C2078986	PREF=moderate involutional depression
+moderate involutional depression (diagnosis)	CUI=C2078986	PREF=moderate involutional depression (diagnosis)
+Moderate major depression	CUI=C0270456	PREF=Moderate major depression
+Moderate major depression (diagnosis)	CUI=C0270456	PREF=Moderate major depression (diagnosis)
+Moderate major depression (disorder)	CUI=C0270456	PREF=Moderate major depression (disorder)
+Moderate major depression, single episode	CUI=C0154404	PREF=Moderate major depression, single episode
+Moderate major depression, single episode (diagnosis)	CUI=C0154404	PREF=Moderate major depression, single episode (diagnosis)
+Moderate major depression, single episode (disorder)	CUI=C0154404	PREF=Moderate major depression, single episode (disorder)
+moderate postpartum depression	CUI=C2104807	PREF=moderate postpartum depression
+moderate postpartum depression (diagnosis)	CUI=C2104807	PREF=moderate postpartum depression (diagnosis)
+Moderate recurrent major depression	CUI=C0154411	PREF=Moderate recurrent major depression
+moderate recurrent major depression (diagnosis)	CUI=C0154411	PREF=moderate recurrent major depression (diagnosis)
+Moderate recurrent major depression (disorder)	CUI=C0154411	PREF=Moderate recurrent major depression (disorder)
+Moderate sternal depression (in 1 patient)	CUI=C4539579	PREF=Moderate sternal depression (in 1 patient)
+Moderately severe depression	CUI=C4304583	PREF=Moderately severe depression
+Moderately severe depression (disorder)	CUI=C4304583	PREF=Moderately severe depression (disorder)
+Moderately severe major depression	CUI=C4304584	PREF=Moderately severe major depression
+Moderately severe major depression (diagnosis)	CUI=C4304584	PREF=Moderately severe major depression (diagnosis)
+Moderately severe major depression (disorder)	CUI=C4304584	PREF=Moderately severe major depression (disorder)
+Moderately severe major depression one episode	CUI=C4304082	PREF=Moderately severe major depression one episode
+Moderately severe major depression single episode	CUI=C4304082	PREF=Moderately severe major depression single episode
+Moderately severe major depression single episode (disorder)	CUI=C4304082	PREF=Moderately severe major depression single episode (disorder)
+moderately severe major depression, single episode	CUI=C4304082	PREF=moderately severe major depression, single episode
+moderately severe major depression, single episode (diagnosis)	CUI=C4304082	PREF=moderately severe major depression, single episode (diagnosis)
+Moderately severe recurrent major depression	CUI=C4304083	PREF=Moderately severe recurrent major depression
+Moderately severe recurrent major depression (diagnosis)	CUI=C4304083	PREF=Moderately severe recurrent major depression (diagnosis)
+Moderately severe recurrent major depression (disorder)	CUI=C4304083	PREF=Moderately severe recurrent major depression (disorder)
+monopolar depression	CUI=C0011570	PREF=monopolar depression
+Monopolar depression NOS	CUI=C0011570	PREF=Monopolar depression NOS
+Montgomery-Ã…sberg depression rating scale	CUI=C2960593	PREF=Montgomery-Ã…sberg depression rating scale
+Montgomery-Ã…sberg depression rating scale (assessment scale)	CUI=C2960593	PREF=Montgomery-Ã…sberg depression rating scale (assessment scale)
+morning depression	CUI=C0424136	PREF=morning depression
+My mood rapidly cycled in terms of anxiety, anger, and depression in last W	CUI=C3533031	PREF=My mood rapidly cycled in terms of anxiety, anger, and depression in last W
+My mood rapidly cycled in terms of anxiety, anger, and depression in last W:Find:1W:^Patient:Ord:BSL-23	CUI=C3699297	PREF=My mood rapidly cycled in terms of anxiety, anger, and depression in last W:Find:1W:^Patient:Ord:BSL-23
+My mood rapidly cycled in terms of anxiety, anger, and depression in last W:Finding:1 week:^Patient:Ordinal:BSL-23	CUI=C3699297	PREF=My mood rapidly cycled in terms of anxiety, anger, and depression in last W:Finding:1 week:^Patient:Ordinal:BSL-23
+My mood rapidly cycled in terms of anxiety, anger, and depression in last week [BSL-23]	CUI=C3699297	PREF=My mood rapidly cycled in terms of anxiety, anger, and depression in last week [BSL-23]
+Negative screening for depression on PHQ-9	CUI=C3531727	PREF=Negative screening for depression on PHQ-9
+Negative screening for depression on PHQ-9 (Patient Health Questionnaire 9)	CUI=C3531727	PREF=Negative screening for depression on PHQ-9 (Patient Health Questionnaire 9)
+Negitive screening for depression on Patient Health Questionnaire 9 (finding)	CUI=C3531727	PREF=Negitive screening for depression on Patient Health Questionnaire 9 (finding)
+Neurotic (reactive) depression	CUI=C0011579	PREF=Neurotic (reactive) depression
+Neurotic depression	CUI=C0282126	PREF=Neurotic depression
+Neurotic depression reactive type	CUI=C0011579	PREF=Neurotic depression reactive type
+Neurotic Depressive Reaction	CUI=C0011579	PREF=Neurotic Depressive Reaction
+No depression, or not worse early	CUI=C3842853	PREF=No depression, or not worse early
+No history of depression	CUI=C3839214	PREF=No history of depression
+No history of depression (situation)	CUI=C3839214	PREF=No history of depression (situation)
+Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good [HRQOL]	CUI=C3259498	PREF=Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good [HRQOL]
+Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many Ds during the past 30D was your mental health not good	CUI=C3257930	PREF=Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many Ds during the past 30D was your mental health not good
+Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many Ds during the past 30D was your mental health not good:NRat:30D:^Patient:Qn:HRQOL	CUI=C3259498	PREF=Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many Ds during the past 30D was your mental health not good:NRat:30D:^Patient:Qn:HRQOL
+Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many Ds during the past 30D was your mental health not good:Number = Count/Time:30 days:^Patient:Quantitative:HRQOL	CUI=C3259498	PREF=Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many Ds during the past 30D was your mental health not good:Number = Count/Time:30 days:^Patient:Quantitative:HRQOL
+nursing goals postpartum no signs of depression	CUI=C3836625	PREF=nursing goals postpartum no signs of depression
+On depression register	CUI=C1446277	PREF=On depression register
+On depression register (finding)	CUI=C1446277	PREF=On depression register (finding)
+pastoral care requested due to pain/depression	CUI=C2130233	PREF=pastoral care requested due to pain/depression
+patient counseling: depression	CUI=C3647061	PREF=patient counseling: depression
+patient counseling: depression (treatment)	CUI=C3647061	PREF=patient counseling: depression (treatment)
+Patient given advice about management of depression	CUI=C1532102	PREF=Patient given advice about management of depression
+Patient given advice about management of depression (context-dependent category)	CUI=C1532102	PREF=Patient given advice about management of depression (context-dependent category)
+Patient given advice about management of depression (regime/therapy)	CUI=C1532102	PREF=Patient given advice about management of depression (regime/therapy)
+Patient given advice about management of depression (situation)	CUI=C1532102	PREF=Patient given advice about management of depression (situation)
+pattern of depression	CUI=C2051715	PREF=pattern of depression
+pattern of depression (symptom)	CUI=C2051715	PREF=pattern of depression (symptom)
+Periods of sadness or guilt greater than normal, never sustained for days or weeks	CUI=C4035115	PREF=Periods of sadness or guilt greater than normal, never sustained for days or weeks
+Persistent anxiety depression	CUI=C1387804	PREF=Persistent anxiety depression
+Plan of care includes depression intervention	CUI=C4482370	PREF=Plan of care includes depression intervention
+Plan of care includes depression intervention [CMS Assessment]	CUI=C2735695	PREF=Plan of care includes depression intervention [CMS Assessment]
+Plan of care includes depression intervention:Find:Pt:^Patient:Ord:CMS Assessment	CUI=C2735695	PREF=Plan of care includes depression intervention:Find:Pt:^Patient:Ord:CMS Assessment
+Plan of care includes depression intervention:Finding:Point in time:^Patient:Ordinal:CMS Assessment	CUI=C2735695	PREF=Plan of care includes depression intervention:Finding:Point in time:^Patient:Ordinal:CMS Assessment
+Positive screening for depression on Patient Health Questionnaire 9	CUI=C3531726	PREF=Positive screening for depression on Patient Health Questionnaire 9
+Positive screening for depression on Patient Health Questionnaire 9 (finding)	CUI=C3531726	PREF=Positive screening for depression on Patient Health Questionnaire 9 (finding)
+Positive screening for depression on PHQ-9	CUI=C3531726	PREF=Positive screening for depression on PHQ-9
+Positive screening for depression on PHQ-9 (Patient Health Questionnaire 9)	CUI=C3531726	PREF=Positive screening for depression on PHQ-9 (Patient Health Questionnaire 9)
+Postmenopausal depression, NOS	CUI=C0520665	PREF=Postmenopausal depression, NOS
+Prescription medicine for depression or anxiety	CUI=C3843186	PREF=Prescription medicine for depression or anxiety
+Presenile dementia with depression	CUI=C0338629	PREF=Presenile dementia with depression
+Presenile dementia with depression (disorder)	CUI=C0338629	PREF=Presenile dementia with depression (disorder)
+Presenile dementia+depression	CUI=C0338629	PREF=Presenile dementia+depression
+prev med screening for adolescent depression impression and score	CUI=C4294900	PREF=prev med screening for adolescent depression impression and score
+prev med standard depression screening tool completed for adolescent	CUI=C3494634	PREF=prev med standard depression screening tool completed for adolescent
+prev med standard depression screening tool completed for adult	CUI=C3494633	PREF=prev med standard depression screening tool completed for adult
+preventive med standardized depression screening: positive for symptoms	CUI=C3494636	PREF=preventive med standardized depression screening: positive for symptoms
+preventive medicine screening for adolescent depression	CUI=C4295056	PREF=preventive medicine screening for adolescent depression
+preventive medicine screening for adolescent depression (treatment)	CUI=C4295056	PREF=preventive medicine screening for adolescent depression (treatment)
+preventive medicine screening for adult depression	CUI=C3693660	PREF=preventive medicine screening for adult depression
+preventive medicine screening for adult depression (treatment)	CUI=C3693660	PREF=preventive medicine screening for adult depression (treatment)
+preventive medicine screening for adult depression impression and score	CUI=C3693659	PREF=preventive medicine screening for adult depression impression and score
+Psychotic depression	CUI=C0270458	PREF=Psychotic depression
+psychotic depression	CUI=C0743072	PREF=psychotic depression
+Psychotic depression, NOS	CUI=C0270458	PREF=Psychotic depression, NOS
+Psychotic reactive depression	CUI=C0011580	PREF=Psychotic reactive depression
+Reactive (neurotic) depression	CUI=C0011579	PREF=Reactive (neurotic) depression
+REACTIVE DEPRESSION	CUI=C0011579	PREF=REACTIVE DEPRESSION
+reactive depression (diagnosis)	CUI=C0011579	PREF=reactive depression (diagnosis)
+Reactive depression (situational)	CUI=C0011579	PREF=Reactive depression (situational)
+Reactive depression (situational) (disorder)	CUI=C0011579	PREF=Reactive depression (situational) (disorder)
+Reactive depression (situational) (finding)	CUI=C0011579	PREF=Reactive depression (situational) (finding)
+recent depression	CUI=C2169543	PREF=recent depression
+recent depression (symptom)	CUI=C2169543	PREF=recent depression (symptom)
+Recurr. major depression NOS	CUI=C0154409	PREF=Recurr. major depression NOS
+Recurr.major depression-mild	CUI=C3665435	PREF=Recurr.major depression-mild
+Recurr.major depression-severe	CUI=C0338891	PREF=Recurr.major depression-severe
+Recurr.major depression-unspec	CUI=C0154409	PREF=Recurr.major depression-unspec
+Recurrent depression	CUI=C0221480	PREF=Recurrent depression
+recurrent depression (diagnosis)	CUI=C0221480	PREF=recurrent depression (diagnosis)
+Recurrent depression (disorder)	CUI=C0221480	PREF=Recurrent depression (disorder)
+recurrent depression (symptom)	CUI=C0221480	PREF=recurrent depression (symptom)
+Recurrent depression: [major episode] or [endogenous]	CUI=C1541764	PREF=Recurrent depression: [major episode] or [endogenous]
+Recurrent depression: [major episode] or [endogenous] (disorder)	CUI=C1541764	PREF=Recurrent depression: [major episode] or [endogenous] (disorder)
+recurrent episodes of endogenous depression	CUI=C4290113	PREF=recurrent episodes of endogenous depression
+recurrent episodes of major depression	CUI=C0154409	PREF=recurrent episodes of major depression
+recurrent episodes of psychogenic depression	CUI=C4290114	PREF=recurrent episodes of psychogenic depression
+recurrent episodes of reactive depression	CUI=C4290115	PREF=recurrent episodes of reactive depression
+recurrent episodes of vital depression	CUI=C4290117	PREF=recurrent episodes of vital depression
+recurrent major depression	CUI=C0154409	PREF=recurrent major depression
+recurrent major depression (diagnosis)	CUI=C0154409	PREF=recurrent major depression (diagnosis)
+Recurrent major depression (disorder)	CUI=C0154409	PREF=Recurrent major depression (disorder)
+Recurrent major depression in complete remission	CUI=C3665667	PREF=Recurrent major depression in complete remission
+Recurrent major depression in complete remission (disorder)	CUI=C3665667	PREF=Recurrent major depression in complete remission (disorder)
+recurrent major depression in full remission	CUI=C3665667	PREF=recurrent major depression in full remission
+recurrent major depression in full remission (diagnosis)	CUI=C3665667	PREF=recurrent major depression in full remission (diagnosis)
+Recurrent major depression in full remission (disorder)	CUI=C3665667	PREF=Recurrent major depression in full remission (disorder)
+Recurrent major depression in partial remission	CUI=C0236764	PREF=Recurrent major depression in partial remission
+recurrent major depression in partial remission (diagnosis)	CUI=C0236764	PREF=recurrent major depression in partial remission (diagnosis)
+Recurrent major depression in partial remission (disorder)	CUI=C0236764	PREF=Recurrent major depression in partial remission (disorder)
+Recurrent major depression in remission	CUI=C0270477	PREF=Recurrent major depression in remission
+recurrent major depression in remission (diagnosis)	CUI=C0270477	PREF=recurrent major depression in remission (diagnosis)
+Recurrent major depression in remission (disorder)	CUI=C0270477	PREF=Recurrent major depression in remission (disorder)
+recurrent major depression with atypical features	CUI=C0520673	PREF=recurrent major depression with atypical features
+recurrent major depression with atypical features (diagnosis)	CUI=C0520673	PREF=recurrent major depression with atypical features (diagnosis)
+recurrent major depression with catatonic features	CUI=C0520672	PREF=recurrent major depression with catatonic features
+recurrent major depression with catatonic features (diagnosis)	CUI=C0520672	PREF=recurrent major depression with catatonic features (diagnosis)
+recurrent major depression with melancholia	CUI=C0701819	PREF=recurrent major depression with melancholia
+recurrent major depression with melancholia (diagnosis)	CUI=C0701819	PREF=recurrent major depression with melancholia (diagnosis)
+recurrent major depression with psychotic features	CUI=C0154413	PREF=recurrent major depression with psychotic features
+recurrent major depression with psychotic features (diagnosis)	CUI=C0154413	PREF=recurrent major depression with psychotic features (diagnosis)
+recurrent major depression without melancholia	CUI=C2062772	PREF=recurrent major depression without melancholia
+recurrent major depression without melancholia (diagnosis)	CUI=C2062772	PREF=recurrent major depression without melancholia (diagnosis)
+Recurrent major depression, NOS	CUI=C0154409	PREF=Recurrent major depression, NOS
+Recurrent severe episodes of major depression with mood-congruent psychotic symptoms	CUI=C2874925	PREF=Recurrent severe episodes of major depression with mood-congruent psychotic symptoms
+Recurrent severe episodes of major depression with mood-incongruent psychotic symptoms	CUI=C2874926	PREF=Recurrent severe episodes of major depression with mood-incongruent psychotic symptoms
+Recurrent severe episodes of major depression with psychotic symptoms	CUI=C2874927	PREF=Recurrent severe episodes of major depression with psychotic symptoms
+Recurrent severe episodes of psychotic depression	CUI=C2874929	PREF=Recurrent severe episodes of psychotic depression
+Removed from depression register	CUI=C1446278	PREF=Removed from depression register
+Removed from depression register (finding)	CUI=C1446278	PREF=Removed from depression register (finding)
+Sadness	CUI=C3536794	PREF=Sadness
+screening for adult depression: impression and score	CUI=C3693659	PREF=screening for adult depression: impression and score
+screening for adult depression: impression and score (treatment)	CUI=C3693659	PREF=screening for adult depression: impression and score (treatment)
+Screening for depression	CUI=C0260942	PREF=Screening for depression
+screening for depression	CUI=C3251083	PREF=screening for depression
+screening for depression (treatment)	CUI=C3251083	PREF=screening for depression (treatment)
+seasonal depression	CUI=C0085159	PREF=seasonal depression
+seasonal depression (symptom)	CUI=C0085159	PREF=seasonal depression (symptom)
+seasonal depression with few nonseasonal occurrences	CUI=C2165520	PREF=seasonal depression with few nonseasonal occurrences
+seasonal pattern depression	CUI=C0085159	PREF=seasonal pattern depression
+Self-control behavior: depression	CUI=C1319135	PREF=Self-control behavior: depression
+Self-control behavior: depression (observable entity)	CUI=C1319135	PREF=Self-control behavior: depression (observable entity)
+self-help group for families of depression patients	CUI=C2224563	PREF=self-help group for families of depression patients
+self-help group for families of depression patients (treatment)	CUI=C2224563	PREF=self-help group for families of depression patients (treatment)
+Severe depression	CUI=C0588008	PREF=Severe depression
+Severe depression (diagnosis)	CUI=C0588008	PREF=Severe depression (diagnosis)
+Severe depression (disorder)	CUI=C0588008	PREF=Severe depression (disorder)
+Severe major depression	CUI=C3472470	PREF=Severe major depression
+severe major depression (diagnosis)	CUI=C3472470	PREF=severe major depression (diagnosis)
+Severe major depression (disorder)	CUI=C3472470	PREF=Severe major depression (disorder)
+Severe major depression with psychotic features	CUI=C0270458	PREF=Severe major depression with psychotic features
+Severe major depression with psychotic features (disorder)	CUI=C0270458	PREF=Severe major depression with psychotic features (disorder)
+Severe major depression with psychotic features, mood-congruent	CUI=C0270459	PREF=Severe major depression with psychotic features, mood-congruent
+Severe major depression with psychotic features, mood-congruent (disorder)	CUI=C0270459	PREF=Severe major depression with psychotic features, mood-congruent (disorder)
+Severe major depression with psychotic features, mood-incongruent	CUI=C0270460	PREF=Severe major depression with psychotic features, mood-incongruent
+Severe major depression with psychotic features, mood-incongruent (disorder)	CUI=C0270460	PREF=Severe major depression with psychotic features, mood-incongruent (disorder)
+Severe major depression with psychotic features, NOS	CUI=C0270458	PREF=Severe major depression with psychotic features, NOS
+Severe major depression without psychotic features	CUI=C0270457	PREF=Severe major depression without psychotic features
+Severe major depression without psychotic features (disorder)	CUI=C0270457	PREF=Severe major depression without psychotic features (disorder)
+Severe major depression, single episode	CUI=C3472681	PREF=Severe major depression, single episode
+Severe major depression, single episode (diagnosis)	CUI=C3472681	PREF=Severe major depression, single episode (diagnosis)
+Severe major depression, single episode (disorder)	CUI=C3472681	PREF=Severe major depression, single episode (disorder)
+Severe major depression, single episode, with psychotic features	CUI=C0154406	PREF=Severe major depression, single episode, with psychotic features
+Severe major depression, single episode, with psychotic features (disorder)	CUI=C0154406	PREF=Severe major depression, single episode, with psychotic features (disorder)
+Severe major depression, single episode, with psychotic features, mood-congruent	CUI=C0270467	PREF=Severe major depression, single episode, with psychotic features, mood-congruent
+Severe major depression, single episode, with psychotic features, mood-congruent (disorder)	CUI=C0270467	PREF=Severe major depression, single episode, with psychotic features, mood-congruent (disorder)
+Severe major depression, single episode, with psychotic features, mood-incongruent	CUI=C0270468	PREF=Severe major depression, single episode, with psychotic features, mood-incongruent
+Severe major depression, single episode, with psychotic features, mood-incongruent (diagnosis)	CUI=C0270468	PREF=Severe major depression, single episode, with psychotic features, mood-incongruent (diagnosis)
+Severe major depression, single episode, with psychotic features, mood-incongruent (disorder)	CUI=C0270468	PREF=Severe major depression, single episode, with psychotic features, mood-incongruent (disorder)
+Severe major depression, single episode, without psychotic features	CUI=C0154405	PREF=Severe major depression, single episode, without psychotic features
+Severe major depression, single episode, without psychotic features (disorder)	CUI=C0154405	PREF=Severe major depression, single episode, without psychotic features (disorder)
+Severe postnatal depression	CUI=C0342071	PREF=Severe postnatal depression
+Severe postnatal depression (disorder)	CUI=C0342071	PREF=Severe postnatal depression (disorder)
+severe postpartum depression	CUI=C0342071	PREF=severe postpartum depression
+severe postpartum depression (diagnosis)	CUI=C0342071	PREF=severe postpartum depression (diagnosis)
+severe postpartum depression with psychotic behavior	CUI=C2104808	PREF=severe postpartum depression with psychotic behavior
+severe postpartum depression with psychotic behavior (diagnosis)	CUI=C2104808	PREF=severe postpartum depression with psychotic behavior (diagnosis)
+severe recurrent major depression	CUI=C2118796	PREF=severe recurrent major depression
+severe recurrent major depression (diagnosis)	CUI=C2118796	PREF=severe recurrent major depression (diagnosis)
+Severe recurrent major depression (disorder)	CUI=C2118796	PREF=Severe recurrent major depression (disorder)
+severe recurrent major depression with psychosis	CUI=C0154413	PREF=severe recurrent major depression with psychosis
+severe recurrent major depression with psychosis (diagnosis)	CUI=C0154413	PREF=severe recurrent major depression with psychosis (diagnosis)
+Severe recurrent major depression with psychotic features	CUI=C0154413	PREF=Severe recurrent major depression with psychotic features
+severe recurrent major depression with psychotic features (diagnosis)	CUI=C0154413	PREF=severe recurrent major depression with psychotic features (diagnosis)
+Severe recurrent major depression with psychotic features (disorder)	CUI=C0154413	PREF=Severe recurrent major depression with psychotic features (disorder)
+Severe recurrent major depression with psychotic features, mood-congruent	CUI=C0270475	PREF=Severe recurrent major depression with psychotic features, mood-congruent
+Severe recurrent major depression with psychotic features, mood-congruent (diagnosis)	CUI=C0270475	PREF=Severe recurrent major depression with psychotic features, mood-congruent (diagnosis)
+Severe recurrent major depression with psychotic features, mood-congruent (disorder)	CUI=C0270475	PREF=Severe recurrent major depression with psychotic features, mood-congruent (disorder)
+Severe recurrent major depression with psychotic features, mood-incongruent	CUI=C0270476	PREF=Severe recurrent major depression with psychotic features, mood-incongruent
+Severe recurrent major depression with psychotic features, mood-incongruent (diagnosis)	CUI=C0270476	PREF=Severe recurrent major depression with psychotic features, mood-incongruent (diagnosis)
+Severe recurrent major depression with psychotic features, mood-incongruent (disorder)	CUI=C0270476	PREF=Severe recurrent major depression with psychotic features, mood-incongruent (disorder)
+Severe recurrent major depression without psychotic features	CUI=C0154412	PREF=Severe recurrent major depression without psychotic features
+severe recurrent major depression without psychotic features (diagnosis)	CUI=C0154412	PREF=severe recurrent major depression without psychotic features (diagnosis)
+Severe recurrent major depression without psychotic features (disorder)	CUI=C0154412	PREF=Severe recurrent major depression without psychotic features (disorder)
+Severe recurrent seasonal major depression	CUI=C3266785	PREF=Severe recurrent seasonal major depression
+Severe recurrent seasonal major depression (disorder)	CUI=C3266785	PREF=Severe recurrent seasonal major depression (disorder)
+severe single episode major depression with psychotic features	CUI=C0154406	PREF=severe single episode major depression with psychotic features
+severe single episode major depression with psychotic features (diagnosis)	CUI=C0154406	PREF=severe single episode major depression with psychotic features (diagnosis)
+severe single episode major depression with psychotic features, mood-congruent	CUI=C0270467	PREF=severe single episode major depression with psychotic features, mood-congruent
+severe single episode major depression with psychotic features, mood-congruent (diagnosis)	CUI=C0270467	PREF=severe single episode major depression with psychotic features, mood-congruent (diagnosis)
+severe single episode major depression without psychotic features	CUI=C0154405	PREF=severe single episode major depression without psychotic features
+severe single episode major depression without psychotic features (diagnosis)	CUI=C0154405	PREF=severe single episode major depression without psychotic features (diagnosis)
+Single episode agitated depression without psychotic symptoms	CUI=C0556016	PREF=Single episode agitated depression without psychotic symptoms
+single episode major depression in full remission	CUI=C0154408	PREF=single episode major depression in full remission
+single episode major depression in full remission (diagnosis)	CUI=C0154408	PREF=single episode major depression in full remission (diagnosis)
+single episode major depression in partial remission	CUI=C0236763	PREF=single episode major depression in partial remission
+single episode major depression in partial remission (diagnosis)	CUI=C0236763	PREF=single episode major depression in partial remission (diagnosis)
+single episode major depression in remission	CUI=C2062771	PREF=single episode major depression in remission
+single episode major depression in remission (diagnosis)	CUI=C2062771	PREF=single episode major depression in remission (diagnosis)
+Single episode major depression w'out psychotic symptoms	CUI=C0556017	PREF=Single episode major depression w'out psychotic symptoms
+single episode major depression with atypical features	CUI=C0520669	PREF=single episode major depression with atypical features
+single episode major depression with atypical features (diagnosis)	CUI=C0520669	PREF=single episode major depression with atypical features (diagnosis)
+single episode major depression with melancholia without psychotic features	CUI=C2062770	PREF=single episode major depression with melancholia without psychotic features
+single episode major depression with melancholia without psychotic features (diagnosis)	CUI=C2062770	PREF=single episode major depression with melancholia without psychotic features (diagnosis)
+single episode major depression with psychotic features	CUI=C0338885	PREF=single episode major depression with psychotic features
+single episode major depression with psychotic features (diagnosis)	CUI=C0338885	PREF=single episode major depression with psychotic features (diagnosis)
+single episode major depression without melancholia or psychotic features	CUI=C2062769	PREF=single episode major depression without melancholia or psychotic features
+single episode major depression without melancholia or psychotic features (diagnosis)	CUI=C2062769	PREF=single episode major depression without melancholia or psychotic features (diagnosis)
+Single episode major depression without psychotic symptoms	CUI=C0556017	PREF=Single episode major depression without psychotic symptoms
+Single episode of 'masked' depression NOS	CUI=C4268302	PREF=Single episode of 'masked' depression NOS
+single episode of agitated depression	CUI=C4290108	PREF=single episode of agitated depression
+single episode of major depression	CUI=C0024517	PREF=single episode of major depression
+Single episode of major depression in full remission	CUI=C0270470	PREF=Single episode of major depression in full remission
+Single episode of major depression in full remission (disorder)	CUI=C0270470	PREF=Single episode of major depression in full remission (disorder)
+Single episode of major depression with mood-congruent psychotic symptoms	CUI=C2874911	PREF=Single episode of major depression with mood-congruent psychotic symptoms
+Single episode of major depression with mood-incongruent psychotic symptoms	CUI=C2874912	PREF=Single episode of major depression with mood-incongruent psychotic symptoms
+Single episode of major depression with psychotic symptoms	CUI=C2874913	PREF=Single episode of major depression with psychotic symptoms
+single episode of psychogenic depression	CUI=C4290110	PREF=single episode of psychogenic depression
+Single episode of psychotic depression	CUI=C2874915	PREF=Single episode of psychotic depression
+single episode of reactive depression	CUI=C4290111	PREF=single episode of reactive depression
+single episode of vital depression	CUI=C1395203	PREF=single episode of vital depression
+Single major depression NOS	CUI=C0024517	PREF=Single major depression NOS
+Single major depression-mild	CUI=C0154403	PREF=Single major depression-mild
+Single major depression-severe	CUI=C0338884	PREF=Single major depression-severe
+Single major depression-unspec	CUI=C0024517	PREF=Single major depression-unspec
+Single stimulus depression	CUI=C0428700	PREF=Single stimulus depression
+Single stimulus depression - finding	CUI=C0428700	PREF=Single stimulus depression - finding
+Standardized adolescent depression screening tool completed	CUI=C3494634	PREF=Standardized adolescent depression screening tool completed
+Standardized adolescent depression screening tool completed (situation)	CUI=C3494634	PREF=Standardized adolescent depression screening tool completed (situation)
+Standardized adult depression screening tool completed	CUI=C3494633	PREF=Standardized adult depression screening tool completed
+Standardized adult depression screening tool completed (situation)	CUI=C3494633	PREF=Standardized adult depression screening tool completed (situation)
+standardized depression screening completed for adolescent	CUI=C3494634	PREF=standardized depression screening completed for adolescent
+standardized depression screening completed for adult	CUI=C3494633	PREF=standardized depression screening completed for adult
+standardized depression screening results documented	CUI=C2367534	PREF=standardized depression screening results documented
+standardized depression screening revealed clinically significant symptoms	CUI=C2367535	PREF=standardized depression screening revealed clinically significant symptoms
+standardized depression screening revealed clinically significant symptoms (treatment)	CUI=C2367535	PREF=standardized depression screening revealed clinically significant symptoms (treatment)
+standardized depression screening revealed mild to moderate symptoms	CUI=C2367536	PREF=standardized depression screening revealed mild to moderate symptoms
+standardized depression screening revealed mild to moderate symptoms (treatment)	CUI=C2367536	PREF=standardized depression screening revealed mild to moderate symptoms (treatment)
+standardized depression screening revealed no significant symptoms	CUI=C2367537	PREF=standardized depression screening revealed no significant symptoms
+standardized depression screening revealed no significant symptoms (treatment)	CUI=C2367537	PREF=standardized depression screening revealed no significant symptoms (treatment)
+standardized depression screening revealed no symptoms	CUI=C2367538	PREF=standardized depression screening revealed no symptoms
+standardized depression screening tool completed for adult	CUI=C3494633	PREF=standardized depression screening tool completed for adult
+standardized depression screening tool completed for adult (treatment)	CUI=C3494633	PREF=standardized depression screening tool completed for adult (treatment)
+Standardized depression screening was conducted	CUI=C4482353	PREF=Standardized depression screening was conducted
+Standardized depression screening was conducted [CMS Assessment]	CUI=C2735650	PREF=Standardized depression screening was conducted [CMS Assessment]
+Standardized depression screening was conducted:Find:Pt:^Patient:Nom:CMS Assessment	CUI=C2735650	PREF=Standardized depression screening was conducted:Find:Pt:^Patient:Nom:CMS Assessment
+Standardized depression screening was conducted:Finding:Point in time:^Patient:Nominal:CMS Assessment	CUI=C2735650	PREF=Standardized depression screening was conducted:Finding:Point in time:^Patient:Nominal:CMS Assessment
+standardized depression screening: negative for symptoms	CUI=C2367538	PREF=standardized depression screening: negative for symptoms
+standardized depression screening: negative for symptoms (treatment)	CUI=C2367538	PREF=standardized depression screening: negative for symptoms (treatment)
+standardized depression screening: positive for symptoms	CUI=C3494636	PREF=standardized depression screening: positive for symptoms
+standardized depression screening: positive for symptoms (treatment)	CUI=C3494636	PREF=standardized depression screening: positive for symptoms (treatment)
+Stuporous depression	CUI=C0270488	PREF=Stuporous depression
+Stuporous depression (diagnosis)	CUI=C0270488	PREF=Stuporous depression (diagnosis)
+Stuporous depression (disorder)	CUI=C0270488	PREF=Stuporous depression (disorder)
+summer depression	CUI=C2165514	PREF=summer depression
+Suspected depression	CUI=C3532620	PREF=Suspected depression
+Sustained depression 1 week or more	CUI=C4035447	PREF=Sustained depression 1 week or more
+Sustained depression with vegetative symptoms and suicidal thoughts or intent	CUI=C4035445	PREF=Sustained depression with vegetative symptoms and suicidal thoughts or intent
+Sustained depression with vegetative symptoms insomnia, anorexia, weight loss, loss of interest	CUI=C4035446	PREF=Sustained depression with vegetative symptoms insomnia, anorexia, weight loss, loss of interest
+Symptoms of depression	CUI=C0086132	PREF=Symptoms of depression
+Symptoms of depression (finding)	CUI=C0086132	PREF=Symptoms of depression (finding)
+taking medication for depression	CUI=C2054147	PREF=taking medication for depression
+taking medication for depression (history)	CUI=C2054147	PREF=taking medication for depression (history)
+treatment-refractory depression	CUI=C2063866	PREF=treatment-refractory depression
+treatment-refractory depression (diagnosis)	CUI=C2063866	PREF=treatment-refractory depression (diagnosis)
+TU depression	CUI=C0429108	PREF=TU depression
+TU depression (finding)	CUI=C0429108	PREF=TU depression (finding)
+Umbilical depression	CUI=C2749368	PREF=Umbilical depression
+Unipolar Depression	CUI=C0041696	PREF=Unipolar Depression
+UNIPOLAR DEPRESSION 1	CUI=C1837929	PREF=UNIPOLAR DEPRESSION 1
+UNIPOLAR DEPRESSION 2	CUI=C1837529	PREF=UNIPOLAR DEPRESSION 2
+UNIPOLAR DEPRESSION, SUSCEPTIBILITY TO	CUI=C4017088	PREF=UNIPOLAR DEPRESSION, SUSCEPTIBILITY TO
+using standardized depression assessment tool	CUI=C2367534	PREF=using standardized depression assessment tool
+using standardized depression assessment tool (treatment)	CUI=C2367534	PREF=using standardized depression assessment tool (treatment)
+Usual Severity Feeling of Sadness	CUI=C4084780	PREF=Usual Severity Feeling of Sadness
+visit for pastoral care for pain or depression	CUI=C2130233	PREF=visit for pastoral care for pain or depression
+visit for pastoral care for pain or depression (symptom)	CUI=C2130233	PREF=visit for pastoral care for pain or depression (symptom)
+visit for screening exam for depression	CUI=C2060843	PREF=visit for screening exam for depression
+visit for screening exam for depression (symptom)	CUI=C2060843	PREF=visit for screening exam for depression (symptom)
+visit for: pastoral care pain / depression	CUI=C2130233	PREF=visit for: pastoral care pain / depression
+visit for: screening exam depression	CUI=C2060843	PREF=visit for: screening exam depression
+visit for: screening for depression	CUI=C2060843	PREF=visit for: screening for depression
+Wakefield self-assessment depression inventory	CUI=C0451570	PREF=Wakefield self-assessment depression inventory
+Wakefield self-assessment depression inventory (assessment scale)	CUI=C0451570	PREF=Wakefield self-assessment depression inventory (assessment scale)
+WHO depression scale	CUI=C0451582	PREF=WHO depression scale
+WHO depression scale (assessment scale)	CUI=C0451582	PREF=WHO depression scale (assessment scale)
+Whooley depression screen	CUI=C3472507	PREF=Whooley depression screen
+Whooley depression screen (assessment scale)	CUI=C3472507	PREF=Whooley depression screen (assessment scale)
+winter depression	CUI=C0871610	PREF=winter depression
+World Health Organisation (WHO) depression scale	CUI=C0451582	PREF=World Health Organisation (WHO) depression scale
+World Health Organization (WHO) depression scale	CUI=C0451582	PREF=World Health Organization (WHO) depression scale
+World Health Organization (WHO) depression scale (assessment scale)	CUI=C0451582	PREF=World Health Organization (WHO) depression scale (assessment scale)
+World Health Organization depression scale	CUI=C0451582	PREF=World Health Organization depression scale
+World Health Organization depression scale (assessment scale)	CUI=C0451582	PREF=World Health Organization depression scale (assessment scale)
+Yes, patient was screened with a different standardized, validated assessment and the patient does not meet criteria for further evaluation for depression.	CUI=C3844493	PREF=Yes, patient was screened with a different standardized, validated assessment and the patient does not meet criteria for further evaluation for depression.
+Yes, patient was screened with a different standardized, validated assessment and the patient meets criteria for further evaluation for depression.	CUI=C3844494	PREF=Yes, patient was screened with a different standardized, validated assessment and the patient meets criteria for further evaluation for depression.
+Zung self rating depression scale score	CUI=C4273947	PREF=Zung self rating depression scale score
+Zung self rating depression scale score (observable entity)	CUI=C4273947	PREF=Zung self rating depression scale score (observable entity)
+Zung self-rating depression scale	CUI=C0451593	PREF=Zung self-rating depression scale
+Zung self-rating depression scale (assessment scale)	CUI=C0451593	PREF=Zung self-rating depression scale (assessment scale)
+	CUI=	PREF=

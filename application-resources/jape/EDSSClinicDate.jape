@@ -1,0 +1,24 @@
+Imports: {import static gate.Utils.*; }
+
+Phase: EDSSClinicDate
+Input: ClinicDate EDSS
+Options: control=all
+
+/*
+ * Get Clinic Date for EDSS
+ */
+
+ Rule: ClinicDate
+ Priority: 100
+(
+
+  ({ClinicDate}):c
+	({EDSS}):edss
+):match
+-->
+:edss {
+  getOnlyAnn(edssAnnots).getFeatures().put("Date", 
+    getOnlyAnn(bindings.get("c")).getFeatures().get("string"));
+}
+
+

@@ -1,0 +1,44 @@
+Imports: {import static gate.Utils.*; }
+
+Phase: Plurals
+Input: Token
+Options: control=appelt
+
+Rule:GetMobile
+
+(
+ {Token}
+):tag
+-->
+:tag{
+
+// get the offsets
+
+ Long phoneStart = tagAnnots.firstNode().getOffset();
+ Long phoneEnd = tagAnnots.lastNode().getOffset();
+ 
+// check the number is longer than or equal to 2 characters (just in case)
+
+ if(phoneEnd - phoneStart >= 2) {
+   try {
+     String firstTwoChars = doc.getContent()
+         .getContent(tagAnnots.firstNode().getOffset(),
+                     tagAnnots.firstNode().getOffset() + 2).toString();
+
+// check it matches 07
+
+     if("07".equals(firstTwoChars)) {
+       // create the new annotation
+
+    gate.FeatureMap features = Factory.newFeatureMap();
+    features.put("kind", "mobile");
+
+     }
+   }
+   catch(InvalidOffsetException e) {
+     // not possible
+     throw new LuckyException("Invalid offset from annotation");
+   }
+ }
+
+}

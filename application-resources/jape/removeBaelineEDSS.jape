@@ -1,0 +1,17 @@
+Phase: RemoveBaselineEDSS
+Input: EDS Sentence Token
+Options: control=all
+
+
+// remove seziure frequency to mentions of seizure control
+
+Rule: removeBaselineEDSS
+(   
+    {Token.string =="baseline"}
+    ({Token})?
+    ({EDS}):umls
+):matches
+-->
+:umls { 
+  inputAS.removeAll(umlsAnnots);
+}

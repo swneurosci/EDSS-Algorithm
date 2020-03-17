@@ -1,0 +1,27 @@
+Phase: MakeNumber
+Input: Diagnosis Prescription
+Options: control = all
+
+Rule: MakeNum
+({Diagnosis}):look
+-->
+:look {
+for(Annotation a : lookAnnots) { 
+if(a.getFeatures().get("Certainty") != null) { 
+a.getFeatures().put("Certainty", Long.valueOf( 
+a.getFeatures().get("Certainty").toString())); 
+} 
+} 
+}
+
+Rule: MakeNum
+({Prescription}):look
+-->
+:look {
+for(Annotation a : lookAnnots) { 
+if(a.getFeatures().get("dose-val") != null) { 
+a.getFeatures().put("dose-val", Long.valueOf( 
+a.getFeatures().get("dose-val").toString())); 
+} 
+} 
+}

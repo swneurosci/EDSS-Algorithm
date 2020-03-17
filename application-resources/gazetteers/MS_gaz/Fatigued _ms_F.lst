@@ -1,0 +1,39 @@
+C0015672	Fatigued
+C0015672	Tiredness
+C0015672	[D]Tiredness
+C0015672	[D]Tiredness (context-dependent category)
+C0015672	[D]Tiredness (situation)
+C0015672	Tiredness (finding)
+C0231523	Central muscle fatigue
+C0231523	Central muscle fatigue (finding)
+C0231524	Peripheral muscle fatigue
+C0231524	Peripheral muscle fatigue (finding)
+C0231525	High frequency muscle fatigue
+C0231525	High frequency muscle fatigue (finding)
+C0231526	Low frequency muscle fatigue
+C0231526	Low frequency muscle fatigue (finding)
+C0242979	Muscle tiredness
+C0439054	([Tiredness] or [fatigue] or [lethargy] or [malaise] symptom) or (C/O "muzzy head") (finding)
+C0439054	([Tiredness] or [fatigue] or [lethargy] or [malaise] symptom) or (C/O "muzzy head")
+C0439055	C/O - "tired all the time"
+C0439055	TATT - Tired all the time
+C0439055	Tired all the time
+C0439055	Complaining of "tired all the time"
+C0558486	Tiredness symptom NOS
+C0558486	Tiredness symptom
+C0558486	Tiredness symptom NOS (finding)
+C0558486	Tiredness symptom (finding)
+C0581911	Heavy legs
+C0581911	Heavy legs (finding)
+C0581912	Feeling of heaviness
+C0581912	Heavy feeling
+C0581912	Heaviness sensation
+C0581912	Heaviness sensation (finding)
+C0581912	Heavy feeling (finding)
+C0581912	Heaviness sensation (qualifier value)
+C0849970	feeling fatigued
+C1571782	[Tiredness], [fatigue], [lethargy] or [malaise] symptom (finding)
+C1571782	[Tiredness], [fatigue], [lethargy] or [malaise] symptom
+C1859691	Easily fatigued
+C3174080	Sleep apnea tired fatigued waking PhenX
+

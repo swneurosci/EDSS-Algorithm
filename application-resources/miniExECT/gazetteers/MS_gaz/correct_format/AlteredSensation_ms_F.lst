@@ -1,0 +1,249 @@
+[D]Anaesthesia of skin	CUI=C0476226	PREF=[D]Anaesthesia of skin
+[D]Anaesthesia of skin (situation)	CUI=C0476226	PREF=[D]Anaesthesia of skin (situation)
+[D]Anesthesia of skin	CUI=C0476226	PREF=[D]Anesthesia of skin
+[D]Anesthesia of skin (context-dependent category)	CUI=C0476226	PREF=[D]Anesthesia of skin (context-dependent category)
+[D]Anesthesia of skin (situation)	CUI=C0476226	PREF=[D]Anesthesia of skin (situation)
+[D]Burning of skin	CUI=C0241057	PREF=[D]Burning of skin
+[D]Burning of skin (context-dependent category)	CUI=C0241057	PREF=[D]Burning of skin (context-dependent category)
+[D]Burning of skin (situation)	CUI=C0241057	PREF=[D]Burning of skin (situation)
+[D]Hyperaesthesia	CUI=C0020453	PREF=[D]Hyperaesthesia
+[D]Hyperaesthesia (situation)	CUI=C0020453	PREF=[D]Hyperaesthesia (situation)
+[D]Hyperesthesia	CUI=C0020453	PREF=[D]Hyperesthesia
+[D]Hyperesthesia (context-dependent category)	CUI=C0020453	PREF=[D]Hyperesthesia (context-dependent category)
+[D]Hyperesthesia (situation)	CUI=C0020453	PREF=[D]Hyperesthesia (situation)
+[D]Hypesthesia	CUI=C0020580	PREF=[D]Hypesthesia
+[D]Hypoaesthesia	CUI=C0020580	PREF=[D]Hypoaesthesia
+[D]Hypoaesthesia (situation)	CUI=C0020580	PREF=[D]Hypoaesthesia (situation)
+[D]Hypoesthesia	CUI=C0020580	PREF=[D]Hypoesthesia
+[D]Hypoesthesia (context-dependent category)	CUI=C0020580	PREF=[D]Hypoesthesia (context-dependent category)
+[D]Hypoesthesia (situation)	CUI=C0020580	PREF=[D]Hypoesthesia (situation)
+[D]Paraesthesia	CUI=C0030554	PREF=[D]Paraesthesia
+[D]Paraesthesia (situation)	CUI=C0030554	PREF=[D]Paraesthesia (situation)
+[D]Paresthesia	CUI=C0030554	PREF=[D]Paresthesia
+[D]Paresthesia (context-dependent category)	CUI=C0030554	PREF=[D]Paresthesia (context-dependent category)
+[D]Paresthesia (situation)	CUI=C0030554	PREF=[D]Paresthesia (situation)
+[D]Skin sensation disturb.NOS	CUI=C0012766	PREF=[D]Skin sensation disturb.NOS
+[D]Skin sensation disturbance	CUI=C0012766	PREF=[D]Skin sensation disturbance
+[D]Skin sensation disturbance (context-dependent category)	CUI=C0012766	PREF=[D]Skin sensation disturbance (context-dependent category)
+[D]Skin sensation disturbance (situation)	CUI=C0012766	PREF=[D]Skin sensation disturbance (situation)
+[D]Skin sensation disturbance NOS	CUI=C0012766	PREF=[D]Skin sensation disturbance NOS
+[D]Tingling of skin	CUI=C0235050	PREF=[D]Tingling of skin
+[D]Tingling of skin (context-dependent category)	CUI=C0235050	PREF=[D]Tingling of skin (context-dependent category)
+[D]Tingling of skin (situation)	CUI=C0235050	PREF=[D]Tingling of skin (situation)
+[X]Pruritus, unspecified	CUI=C0033774	PREF=[X]Pruritus, unspecified
+[X]Pruritus, unspecified (disorder)	CUI=C0033774	PREF=[X]Pruritus, unspecified (disorder)
+Abnormal skin sensitivity	CUI=C0012766	PREF=Abnormal skin sensitivity
+Altered sensation	CUI=C0423575	PREF=Altered sensation
+Altered sensation of skin	CUI=C0423575	PREF=Altered sensation of skin
+Altered sensation of skin (finding)	CUI=C0423575	PREF=Altered sensation of skin (finding)
+Anaesthesia of skin	CUI=C0476226	PREF=Anaesthesia of skin
+Anesthesia of skin	CUI=C0476226	PREF=Anesthesia of skin
+Anesthesia of skin (finding)	CUI=C0476226	PREF=Anesthesia of skin (finding)
+Burning of skin	CUI=C0241057	PREF=Burning of skin
+burning sensation	CUI=C0241057	PREF=burning sensation
+burning sensation (dysesthesia)	CUI=C0241057	PREF=burning sensation (dysesthesia)
+Burning sensation of skin	CUI=C0241057	PREF=Burning sensation of skin
+Burning sensation of skin (finding)	CUI=C0241057	PREF=Burning sensation of skin (finding)
+burning sensation of skin (symptom)	CUI=C0241057	PREF=burning sensation of skin (symptom)
+BURNING SKIN	CUI=C0241057	PREF=BURNING SKIN
+Changed sensation	CUI=C0423575	PREF=Changed sensation
+Circumoral paraesthesia	CUI=C0151838	PREF=Circumoral paraesthesia
+Circumoral paresthesia	CUI=C0151838	PREF=Circumoral paresthesia
+Circumoral paresthesia (finding)	CUI=C0151838	PREF=Circumoral paresthesia (finding)
+Decreased skin sensitivity	CUI=C0520902	PREF=Decreased skin sensitivity
+Decreased skin sensitivity (finding)	CUI=C0520902	PREF=Decreased skin sensitivity (finding)
+Different sensation	CUI=C0423575	PREF=Different sensation
+Disturbance of skin sensation	CUI=C0423575	PREF=Disturbance of skin sensation
+disturbances in skin sensation	CUI=C0012766	PREF=disturbances in skin sensation
+Disturbances of skin sensation	CUI=C0012766	PREF=Disturbances of skin sensation
+disturbances of skin sensation (symptom)	CUI=C0012766	PREF=disturbances of skin sensation (symptom)
+Disturbed sensation	CUI=C0423575	PREF=Disturbed sensation
+DYSAESTHESIA	CUI=C0392699	PREF=DYSAESTHESIA
+Dysaesthesia (abnormal sensation)	CUI=C0392699	PREF=Dysaesthesia (abnormal sensation)
+DYSESTHESIA	CUI=C0392699	PREF=DYSESTHESIA
+dysesthesia	CUI=C0241057	PREF=dysesthesia
+Dysesthesia (abnormal sensation)	CUI=C0392699	PREF=Dysesthesia (abnormal sensation)
+Dysesthesia (finding)	CUI=C0392699	PREF=Dysesthesia (finding)
+Dysesthesia (finding) [Ambiguous]	CUI=C0392699	PREF=Dysesthesia (finding) [Ambiguous]
+Dysesthesias	CUI=C0392699	PREF=Dysesthesias
+Finding of sensation of touch	CUI=C0576659	PREF=Finding of sensation of touch
+Finding of sensation of touch (finding)	CUI=C0576659	PREF=Finding of sensation of touch (finding)
+Finding of temperature sense	CUI=C0576651	PREF=Finding of temperature sense
+Finding of temperature sense (finding)	CUI=C0576651	PREF=Finding of temperature sense (finding)
+Finding of vibration sense	CUI=C0576682	PREF=Finding of vibration sense
+Finding of vibration sense (finding)	CUI=C0576682	PREF=Finding of vibration sense (finding)
+Graphaesthesia absent	CUI=C0576698	PREF=Graphaesthesia absent
+Graphesthesia absent	CUI=C0576698	PREF=Graphesthesia absent
+Graphesthesia absent (finding)	CUI=C0576698	PREF=Graphesthesia absent (finding)
+Has prickling sensation	CUI=C0439814	PREF=Has prickling sensation
+Has prickling sensation (finding)	CUI=C0439814	PREF=Has prickling sensation (finding)
+Has tingling sensation	CUI=C2242996	PREF=Has tingling sensation
+Has tingling sensation	CUI=C0235050	PREF=Has tingling sensation
+Has tingling sensation (finding)	CUI=C2242996	PREF=Has tingling sensation (finding)
+Heightened sensation	CUI=C0020453	PREF=Heightened sensation
+Heightened sensation of skin	CUI=C0020453	PREF=Heightened sensation of skin
+Heightened sensation of skin (finding)	CUI=C0020453	PREF=Heightened sensation of skin (finding)
+Hutchinson mask	CUI=C0686769	PREF=Hutchinson mask
+Hutchinson's mask	CUI=C0686769	PREF=Hutchinson's mask
+Hutchinson's mask (finding)	CUI=C0686769	PREF=Hutchinson's mask (finding)
+HYPERAESTHESIA	CUI=C0020453	PREF=HYPERAESTHESIA
+Hyperaesthesia (increased sensitivity)	CUI=C0020453	PREF=Hyperaesthesia (increased sensitivity)
+Hyperesthesia	CUI=C0020453	PREF=Hyperesthesia
+Hyperesthesia (finding)	CUI=C0020453	PREF=Hyperesthesia (finding)
+Hyperesthesia (increased sensitivity)	CUI=C0020453	PREF=Hyperesthesia (increased sensitivity)
+hyperesthesia as symptom	CUI=C0020453	PREF=hyperesthesia as symptom
+Hypersensitivity - sensation	CUI=C0020453	PREF=Hypersensitivity - sensation
+Hypesthesia	CUI=C0020580	PREF=Hypesthesia
+Hypesthesia (finding)	CUI=C0020580	PREF=Hypesthesia (finding)
+HYPOAESTHESIA	CUI=C0020580	PREF=HYPOAESTHESIA
+Hypoaesthesia (reduced sensation)	CUI=C0020580	PREF=Hypoaesthesia (reduced sensation)
+Hypoesthesia	CUI=C0020580	PREF=Hypoesthesia
+Hypoesthesia (reduced sensation)	CUI=C0020580	PREF=Hypoesthesia (reduced sensation)
+Impaired sensation	CUI=C0020580	PREF=Impaired sensation
+Increased sensitivity - sensation	CUI=C0020453	PREF=Increased sensitivity - sensation
+increased sensitivity to touch or pain	CUI=C0020453	PREF=increased sensitivity to touch or pain
+increased sensitivity to touch or pain (symptom)	CUI=C0020453	PREF=increased sensitivity to touch or pain (symptom)
+increased sensitivity to touch or pain as symptom	CUI=C0020453	PREF=increased sensitivity to touch or pain as symptom
+Increased sensitivity-sensatn	CUI=C0020453	PREF=Increased sensitivity-sensatn
+Irritating sensation	CUI=C0033774	PREF=Irritating sensation
+Irritation - sensation	CUI=C0033774	PREF=Irritation - sensation
+Itch	CUI=C0033774	PREF=Itch
+Itch NOS	CUI=C0033774	PREF=Itch NOS
+Itch of skin	CUI=C0033774	PREF=Itch of skin
+Itch of skin (observable entity)	CUI=C0033774	PREF=Itch of skin (observable entity)
+Itch of skin, NOS	CUI=C0033774	PREF=Itch of skin, NOS
+Itching	CUI=C0033774	PREF=Itching
+Itching (finding)	CUI=C0033774	PREF=Itching (finding)
+itching (pruritus)	CUI=C0033774	PREF=itching (pruritus)
+Itching of skin	CUI=C0033774	PREF=Itching of skin
+Itching of skin (finding)	CUI=C0033774	PREF=Itching of skin (finding)
+itching skin	CUI=C0033774	PREF=itching skin
+Itchy	CUI=C0033774	PREF=Itchy
+Limited sensation	CUI=C0020580	PREF=Limited sensation
+Loss of protective sensation of skin	CUI=C1302066	PREF=Loss of protective sensation of skin
+Loss of protective sensation of skin (finding)	CUI=C1302066	PREF=Loss of protective sensation of skin (finding)
+Loss of sensation of skin	CUI=C0522057	PREF=Loss of sensation of skin
+Loss of sensation of skin (finding)	CUI=C0522057	PREF=Loss of sensation of skin (finding)
+Normal skin sensitivity	CUI=C0520899	PREF=Normal skin sensitivity
+Normal skin sensitivity (finding)	CUI=C0520899	PREF=Normal skin sensitivity (finding)
+Numbness of skin	CUI=C0522057	PREF=Numbness of skin
+Numbness of skin (finding)	CUI=C0522057	PREF=Numbness of skin (finding)
+Obs of sensation of touch	CUI=C0576659	PREF=Obs of sensation of touch
+Obs of temperature sense	CUI=C0576651	PREF=Obs of temperature sense
+Observation of sensation of touch	CUI=C0576659	PREF=Observation of sensation of touch
+Observation of temperature sense	CUI=C0576651	PREF=Observation of temperature sense
+Observation of vibration sense	CUI=C0576682	PREF=Observation of vibration sense
+Pain of skin	CUI=C0241136	PREF=Pain of skin
+Pain of skin (finding)	CUI=C0241136	PREF=Pain of skin (finding)
+PARAESTHESIA	CUI=C0030554	PREF=PARAESTHESIA
+Paraesthesia (numbness/tingling)	CUI=C0030554	PREF=Paraesthesia (numbness/tingling)
+PARAESTHESIA CIRCUMORAL	CUI=C0151838	PREF=PARAESTHESIA CIRCUMORAL
+Paraesthesia of arm	CUI=C0587058	PREF=Paraesthesia of arm
+Paraesthesia of finger	CUI=C0239591	PREF=Paraesthesia of finger
+Paraesthesia of foot	CUI=C0239652	PREF=Paraesthesia of foot
+Paraesthesia of hand	CUI=C0239836	PREF=Paraesthesia of hand
+Paraesthesia of skin	CUI=C0235046	PREF=Paraesthesia of skin
+Paraesthesia of upper extremity	CUI=C0587058	PREF=Paraesthesia of upper extremity
+Paraesthesia of upper limb	CUI=C0587058	PREF=Paraesthesia of upper limb
+PARAESTHESIA SKIN	CUI=C0235046	PREF=PARAESTHESIA SKIN
+Paraesthesias	CUI=C0030554	PREF=Paraesthesias
+Paraesthesias	CUI=C0030554	PREF=Paraesthesias
+Paresthesia	CUI=C0030554	PREF=Paresthesia
+paresthesia	CUI=C2242996	PREF=paresthesia
+Paresthesia	CUI=C0030554	PREF=Paresthesia
+Paresthesia (finding)	CUI=C0030554	PREF=Paresthesia (finding)
+Paresthesia (numbness/tingling)	CUI=C0030554	PREF=Paresthesia (numbness/tingling)
+Paresthesia (numbness/tingling) of arm	CUI=C0587058	PREF=Paresthesia (numbness/tingling) of arm
+PARESTHESIA CIRCUMORAL	CUI=C0151838	PREF=PARESTHESIA CIRCUMORAL
+Paresthesia of arm	CUI=C0587058	PREF=Paresthesia of arm
+Paresthesia of finger	CUI=C0239591	PREF=Paresthesia of finger
+Paresthesia of finger (finding)	CUI=C0239591	PREF=Paresthesia of finger (finding)
+Paresthesia of foot	CUI=C0239652	PREF=Paresthesia of foot
+Paresthesia of foot (finding)	CUI=C0239652	PREF=Paresthesia of foot (finding)
+Paresthesia of hand	CUI=C0239836	PREF=Paresthesia of hand
+Paresthesia of hand (finding)	CUI=C0239836	PREF=Paresthesia of hand (finding)
+Paresthesia of skin	CUI=C0235046	PREF=Paresthesia of skin
+Paresthesia of skin (finding)	CUI=C0235046	PREF=Paresthesia of skin (finding)
+Paresthesia of upper extremity	CUI=C0587058	PREF=Paresthesia of upper extremity
+Paresthesia of upper limb	CUI=C0587058	PREF=Paresthesia of upper limb
+Paresthesia of upper limb (finding)	CUI=C0587058	PREF=Paresthesia of upper limb (finding)
+PARESTHESIA SKIN	CUI=C0235046	PREF=PARESTHESIA SKIN
+Paresthesia upper limb	CUI=C0587058	PREF=Paresthesia upper limb
+PARESTHESIAS	CUI=C0030554	PREF=PARESTHESIAS
+Pins and needles	CUI=C0423572	PREF=Pins and needles
+Pins and needles (finding)	CUI=C0423572	PREF=Pins and needles (finding)
+Pins and needles (physical object)	CUI=C0423572	PREF=Pins and needles (physical object)
+Pins and needles sensation	CUI=C0423572	PREF=Pins and needles sensation
+Pricking sensation	CUI=C0439814	PREF=Pricking sensation
+Pricking: [sensation] or [has sensation]	CUI=C0439814	PREF=Pricking: [sensation] or [has sensation]
+Pricking: [sensation] or [has sensation] (finding)	CUI=C0439814	PREF=Pricking: [sensation] or [has sensation] (finding)
+Prickling	CUI=C0439814	PREF=Prickling
+Prickling (qualifier value)	CUI=C0439814	PREF=Prickling (qualifier value)
+Prickling sensation	CUI=C0439814	PREF=Prickling sensation
+Prickling sensation (finding)	CUI=C0439814	PREF=Prickling sensation (finding)
+Prickling sensation of skin	CUI=C0439814	PREF=Prickling sensation of skin
+Prickling sensation of skin (finding)	CUI=C0439814	PREF=Prickling sensation of skin (finding)
+Prickling sensation quality	CUI=C0439814	PREF=Prickling sensation quality
+Prickling sensation quality (qualifier value)	CUI=C0439814	PREF=Prickling sensation quality (qualifier value)
+Pruritic dermatitis	CUI=C0033774	PREF=Pruritic dermatitis
+Pruritic dermatitis, NOS	CUI=C0033774	PREF=Pruritic dermatitis, NOS
+Pruritic disorder	CUI=C0033774	PREF=Pruritic disorder
+Pruritic disorders	CUI=C0033774	PREF=Pruritic disorders
+Pruritic disorders (disorder)	CUI=C0033774	PREF=Pruritic disorders (disorder)
+PRURITIS	CUI=C0033774	PREF=PRURITIS
+Pruritus	CUI=C0033774	PREF=Pruritus
+Pruritus - disorder	CUI=C0033774	PREF=Pruritus - disorder
+pruritus (diagnosis)	CUI=C0033774	PREF=pruritus (diagnosis)
+Pruritus (disorder)	CUI=C0033774	PREF=Pruritus (disorder)
+Pruritus (finding)	CUI=C0033774	PREF=Pruritus (finding)
+pruritus (symptom)	CUI=C0033774	PREF=pruritus (symptom)
+Pruritus [Ambiguous]	CUI=C0033774	PREF=Pruritus [Ambiguous]
+Pruritus [dup] (finding)	CUI=C0033774	PREF=Pruritus [dup] (finding)
+Pruritus NOS	CUI=C0033774	PREF=Pruritus NOS
+Pruritus NOS (disorder)	CUI=C0033774	PREF=Pruritus NOS (disorder)
+Pruritus of skin	CUI=C0033774	PREF=Pruritus of skin
+Pruritus of skin (finding)	CUI=C0033774	PREF=Pruritus of skin (finding)
+Pruritus of skin (finding) [Ambiguous]	CUI=C0033774	PREF=Pruritus of skin (finding) [Ambiguous]
+Pruritus of skin, NOS	CUI=C0033774	PREF=Pruritus of skin, NOS
+Pruritus, NOS	CUI=C0033774	PREF=Pruritus, NOS
+Pruritus, unspecified	CUI=C0033774	PREF=Pruritus, unspecified
+Radiosensitivity of skin	CUI=C0520903	PREF=Radiosensitivity of skin
+Reduced sensation	CUI=C0020580	PREF=Reduced sensation
+Reduced sensation of skin	CUI=C0020580	PREF=Reduced sensation of skin
+Reduced sensation of skin (finding)	CUI=C0020580	PREF=Reduced sensation of skin (finding)
+Sensation of burning of skin	CUI=C0241057	PREF=Sensation of burning of skin
+Sensation of burning of skin (finding)	CUI=C0241057	PREF=Sensation of burning of skin (finding)
+Sensitive to touch	CUI=C0423580	PREF=Sensitive to touch
+Sensitive to touch (finding)	CUI=C0423580	PREF=Sensitive to touch (finding)
+Sensory impairment	CUI=C0020580	PREF=Sensory impairment
+Skin non-tender	CUI=C0574746	PREF=Skin non-tender
+Skin non-tender (context-dependent category)	CUI=C0574746	PREF=Skin non-tender (context-dependent category)
+Skin non-tender (finding)	CUI=C0574746	PREF=Skin non-tender (finding)
+Skin non-tender (situation)	CUI=C0574746	PREF=Skin non-tender (situation)
+Skin sensation disturb.NOS	CUI=C0012766	PREF=Skin sensation disturb.NOS
+Skin sensation disturbance	CUI=C0012766	PREF=Skin sensation disturbance
+Skin sensation disturbance (finding)	CUI=C0012766	PREF=Skin sensation disturbance (finding)
+Skin sensation disturbance NOS	CUI=C0012766	PREF=Skin sensation disturbance NOS
+Skin tender	CUI=C0241164	PREF=Skin tender
+Skin tender (finding)	CUI=C0241164	PREF=Skin tender (finding)
+Skin tenderness	CUI=C0241164	PREF=Skin tenderness
+Skin tenderness (finding)	CUI=C0241164	PREF=Skin tenderness (finding)
+Sore	CUI=C1442877	PREF=Sore
+Sore skin	CUI=C1442877	PREF=Sore skin
+Sore skin (finding)	CUI=C1442877	PREF=Sore skin (finding)
+Tactile hypaesthesia	CUI=C0020580	PREF=Tactile hypaesthesia
+Tactile hypesthesia	CUI=C0020580	PREF=Tactile hypesthesia
+Tactile hypesthesia (finding)	CUI=C0020580	PREF=Tactile hypesthesia (finding)
+Tingling	CUI=C2242996	PREF=Tingling
+tingling (paresthesia)	CUI=C2242996	PREF=tingling (paresthesia)
+tingling (symptom)	CUI=C2242996	PREF=tingling (symptom)
+Tingling of skin	CUI=C0235050	PREF=Tingling of skin
+Tingling of skin (finding)	CUI=C0235050	PREF=Tingling of skin (finding)
+Tingling sensation	CUI=C2242996	PREF=Tingling sensation
+TINGLING SKIN	CUI=C0235050	PREF=TINGLING SKIN
+Tingling: [sensation] or [has sensation]	CUI=C2242996	PREF=Tingling: [sensation] or [has sensation]
+Tingling: [sensation] or [has sensation] (finding)	CUI=C2242996	PREF=Tingling: [sensation] or [has sensation] (finding)
+Unilateral sensory loss of face and trunk, opposite sides	CUI=C0521673	PREF=Unilateral sensory loss of face and trunk, opposite sides
+Unilateral sensory loss of face and trunk, opposite sides (finding)	CUI=C0521673	PREF=Unilateral sensory loss of face and trunk, opposite sides (finding)
+Unilateral sensory loss of face and trunk, opposite sides (situation)	CUI=C0521673	PREF=Unilateral sensory loss of face and trunk, opposite sides (situation)
+	CUI=	PREF=

@@ -1,0 +1,12 @@
+Phase: NHS_num2
+Input: NHS
+Options: control=all
+
+
+Rule: NHS
+
+(
+{NHS}
+):match
+-->
+:match.NHS_No = {rule = NHS1_num, nhs_value = :match.NHS@string}

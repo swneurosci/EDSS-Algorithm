@@ -1,0 +1,735 @@
+STR	CUI=CUI	PREF=STR
+DAMP - Deficits in attention motor control and perception	CUI=C0454625	PREF=DAMP - Deficits in attention motor control and perception
+Deficits in attention motor control and perception	CUI=C0454625	PREF=Deficits in attention motor control and perception
+Disorders of attention and motor control	CUI=C0454623	PREF=Disorders of attention and motor control
+Oculomotor control	CUI=C0589522	PREF=Oculomotor control
+Oculomotor control, function	CUI=C0589522	PREF=Oculomotor control, function
+Deficits in attention motor control and perception (disorder)	CUI=C0454625	PREF=Deficits in attention motor control and perception (disorder)
+Disorders of attention and motor control (disorder)	CUI=C0454623	PREF=Disorders of attention and motor control (disorder)
+Oculomotor control, function (observable entity)	CUI=C0589522	PREF=Oculomotor control, function (observable entity)
+Neurological status: central motor control	CUI=C0517961	PREF=Neurological status: central motor control
+Central motor control neurological status	CUI=C0517961	PREF=Central motor control neurological status
+[D]Abnormal involuntary movement NOS (situation)	CUI=C0392702	PREF=[D]Abnormal involuntary movement NOS (situation)
+[D]Abnormal involuntary movements (situation)	CUI=C0392702	PREF=[D]Abnormal involuntary movements (situation)
+[D]Head movements abnormal (situation)	CUI=C0476217	PREF=[D]Head movements abnormal (situation)
+Ability to make coordinated movements	CUI=C1319208	PREF=Ability to make coordinated movements
+Ability to make coordinated movements (observable entity)	CUI=C1319208	PREF=Ability to make coordinated movements (observable entity)
+Ability to make movements for speech (observable entity)	CUI=C0564061	PREF=Ability to make movements for speech (observable entity)
+Ability to perform fine motor function	CUI=C0562023	PREF=Ability to perform fine motor function
+Ability to perform fine motor function (observable entity)	CUI=C0562023	PREF=Ability to perform fine motor function (observable entity)
+Ability to perform gross motor function	CUI=C0560424	PREF=Ability to perform gross motor function
+Ability to perform gross motor function (observable entity)	CUI=C0560424	PREF=Ability to perform gross motor function (observable entity)
+Ability to perform oral motor function	CUI=C0563129	PREF=Ability to perform oral motor function
+Ability to perform oral motor function (observable entity)	CUI=C0563129	PREF=Ability to perform oral motor function (observable entity)
+Able to imitate tongue movements (finding)	CUI=C0578729	PREF=Able to imitate tongue movements (finding)
+Able to make movements for speech (finding)	CUI=C0564062	PREF=Able to make movements for speech (finding)
+Able to perform oral motor functions	CUI=C0563323	PREF=Able to perform oral motor functions
+Able to perform oral motor functions (finding)	CUI=C0563323	PREF=Able to perform oral motor functions (finding)
+Abnormal hand movements	CUI=C4479492	PREF=Abnormal hand movements
+abnormal head movement	CUI=C0476217	PREF=abnormal head movement
+Abnormal head movements	CUI=C0476217	PREF=Abnormal head movements
+abnormal head movements (diagnosis)	CUI=C0476217	PREF=abnormal head movements (diagnosis)
+Abnormal involuntary movements	CUI=C0392702	PREF=Abnormal involuntary movements
+Abnormal jaw movement	CUI=C0521588	PREF=Abnormal jaw movement
+Abnormal jerky eye movements	CUI=C1842583	PREF=Abnormal jerky eye movements
+Abnormal joint movement	CUI=C0231586	PREF=Abnormal joint movement
+Abnormal movement	CUI=C0558189	PREF=Abnormal movement
+Abnormal movements	CUI=C0558189	PREF=Abnormal movements
+Absent motor skills	CUI=C4313685	PREF=Absent motor skills
+Active elbow movements	CUI=C0454464	PREF=Active elbow movements
+Active foot movements	CUI=C0454475	PREF=Active foot movements
+Active hand movements	CUI=C0454466	PREF=Active hand movements
+Active knee movements	CUI=C0454473	PREF=Active knee movements
+Active lower limb movements	CUI=C0454471	PREF=Active lower limb movements
+Active movement (function)	CUI=C0231481	PREF=Active movement (function)
+Active movement (observable entity)	CUI=C0231481	PREF=Active movement (observable entity)
+Active movement, function (observable entity)	CUI=C0231481	PREF=Active movement, function (observable entity)
+Active neck movements	CUI=C0454467	PREF=Active neck movements
+Active pelvic movements	CUI=C0454470	PREF=Active pelvic movements
+Active range of joint movement absent	CUI=C0575005	PREF=Active range of joint movement absent
+Active range of joint movement absent (finding)	CUI=C0575005	PREF=Active range of joint movement absent (finding)
+Active range of joint movement increased (finding)	CUI=C0574963	PREF=Active range of joint movement increased (finding)
+Active range of joint movement normal (finding)	CUI=C0575008	PREF=Active range of joint movement normal (finding)
+Active range of joint movement reduced (finding)	CUI=C0575002	PREF=Active range of joint movement reduced (finding)
+Active shoulder girdle movements	CUI=C0454462	PREF=Active shoulder girdle movements
+Active shoulder movements	CUI=C0454463	PREF=Active shoulder movements
+Active upper limb movements	CUI=C0454461	PREF=Active upper limb movements
+Active wrist movements	CUI=C0454465	PREF=Active wrist movements
+Active wrist movements (observable entity)	CUI=C0454465	PREF=Active wrist movements (observable entity)
+Active wrist movements (qualifier value)	CUI=C0454465	PREF=Active wrist movements (qualifier value)
+Active wrist movements, function (observable entity)	CUI=C0454465	PREF=Active wrist movements, function (observable entity)
+ankle catches during movement	CUI=C2127602	PREF=ankle catches during movement
+ankle catches during movement (symptom)	CUI=C2127602	PREF=ankle catches during movement (symptom)
+Ankle joint - painful on movement	CUI=C0576209	PREF=Ankle joint - painful on movement
+Ankle joint - painful on movement (finding)	CUI=C0576209	PREF=Ankle joint - painful on movement (finding)
+Ankle joint - range of movement - finding	CUI=C1288131	PREF=Ankle joint - range of movement - finding
+Ankle joint - range of movement (observable entity)	CUI=C0576183	PREF=Ankle joint - range of movement (observable entity)
+ankle joint pain feels better after normal movement	CUI=C2108795	PREF=ankle joint pain feels better after normal movement
+ankle joint pain with passive movement	CUI=C2126211	PREF=ankle joint pain with passive movement
+ankle joint stiffness improves after normal movement	CUI=C2109031	PREF=ankle joint stiffness improves after normal movement
+ankle pain elicited by motion at initiation of movement	CUI=C2088498	PREF=ankle pain elicited by motion at initiation of movement
+ankle pain feels better after normal movement	CUI=C2108795	PREF=ankle pain feels better after normal movement
+ankle pain with active movement	CUI=C2126210	PREF=ankle pain with active movement
+ankle pain worsens with foot movement	CUI=C2108819	PREF=ankle pain worsens with foot movement
+ankle pain worsens with foot movement (symptom)	CUI=C2108819	PREF=ankle pain worsens with foot movement (symptom)
+ankle stiffness feels better after normal movement	CUI=C2109031	PREF=ankle stiffness feels better after normal movement
+bilateral ankle pain elicited by active motion at initiation of movement	CUI=C2177869	PREF=bilateral ankle pain elicited by active motion at initiation of movement
+bilateral ankle pain elicited by motion at initiation of movement	CUI=C2196502	PREF=bilateral ankle pain elicited by motion at initiation of movement
+bilateral impaired heel-to-shin movement was seen	CUI=C2199255	PREF=bilateral impaired heel-to-shin movement was seen
+both ankles catch during movement	CUI=C2127605	PREF=both ankles catch during movement
+both ankles catch during movement (symptom)	CUI=C2127605	PREF=both ankles catch during movement (symptom)
+both elbows catch during movement	CUI=C2127541	PREF=both elbows catch during movement
+both hips catch during movement (symptom)	CUI=C2127634	PREF=both hips catch during movement (symptom)
+both knees catch during movement	CUI=C2127580	PREF=both knees catch during movement
+both shoulders catch during movement	CUI=C2127662	PREF=both shoulders catch during movement
+both shoulders catch during movement (symptom)	CUI=C2127662	PREF=both shoulders catch during movement (symptom)
+both wrists catch during movement	CUI=C2127919	PREF=both wrists catch during movement
+both wrists catch during movement (symptom)	CUI=C2127919	PREF=both wrists catch during movement (symptom)
+Cervical spine - painful on movement (finding)	CUI=C0575253	PREF=Cervical spine - painful on movement (finding)
+Cervical spine - range of movement - finding	CUI=C1287900	PREF=Cervical spine - range of movement - finding
+Cervical spine - range of movement (observable entity)	CUI=C2044043	PREF=Cervical spine - range of movement (observable entity)
+Cervical spine painful on movement	CUI=C0575253	PREF=Cervical spine painful on movement
+Cervical spine painful on movement (finding)	CUI=C0575253	PREF=Cervical spine painful on movement (finding)
+Control of movement	CUI=C0427083	PREF=Control of movement
+Control of movement - finding	CUI=C1286480	PREF=Control of movement - finding
+Control of movement (observable entity)	CUI=C0427083	PREF=Control of movement (observable entity)
+Decrease range subtal movement	CUI=C0582221	PREF=Decrease range subtal movement
+Decreased active movements	CUI=C1853374	PREF=Decreased active movements
+Decreased range ankle movement	CUI=C0582213	PREF=Decreased range ankle movement
+Decreased range elbow movement	CUI=C0582184	PREF=Decreased range elbow movement
+Decreased range fing movement	CUI=C0582195	PREF=Decreased range fing movement
+Decreased range foot movement	CUI=C0582217	PREF=Decreased range foot movement
+Decreased range foot movement	CUI=C0582217	PREF=Decreased range foot movement
+Decreased range hip movement	CUI=C0582203	PREF=Decreased range hip movement
+Decreased range knee movement	CUI=C0582208	PREF=Decreased range knee movement
+Decreased range of ankle movement	CUI=C0582213	PREF=Decreased range of ankle movement
+Decreased range of ankle movement (finding)	CUI=C0582213	PREF=Decreased range of ankle movement (finding)
+Decreased range of cervical spine movement (finding)	CUI=C0582229	PREF=Decreased range of cervical spine movement (finding)
+Decreased range of elbow movement	CUI=C0582184	PREF=Decreased range of elbow movement
+Decreased range of elbow movement (finding)	CUI=C0582184	PREF=Decreased range of elbow movement (finding)
+Decreased range of finger movement	CUI=C0582195	PREF=Decreased range of finger movement
+Decreased range of finger movement (finding)	CUI=C0582195	PREF=Decreased range of finger movement (finding)
+Decreased range of foot movement	CUI=C0582217	PREF=Decreased range of foot movement
+Decreased range of foot movement	CUI=C0582217	PREF=Decreased range of foot movement
+Decreased range of foot movement (finding)	CUI=C0582217	PREF=Decreased range of foot movement (finding)
+Decreased range of foot movement (finding)	CUI=C0582217	PREF=Decreased range of foot movement (finding)
+Decreased range of hip movement	CUI=C0582203	PREF=Decreased range of hip movement
+Decreased range of hip movement (finding)	CUI=C0582203	PREF=Decreased range of hip movement (finding)
+Decreased range of knee movement	CUI=C0582208	PREF=Decreased range of knee movement
+Decreased range of knee movement (finding)	CUI=C0582208	PREF=Decreased range of knee movement (finding)
+Decreased range of lumbar spine movement	CUI=C0582237	PREF=Decreased range of lumbar spine movement
+Decreased range of lumbar spine movement (finding)	CUI=C0582237	PREF=Decreased range of lumbar spine movement (finding)
+Decreased range of movement of elbows	CUI=C0582184	PREF=Decreased range of movement of elbows
+Decreased range of movement of knees	CUI=C0582208	PREF=Decreased range of movement of knees
+Decreased range of movement of proximal interphalangeal joints	CUI=C3550895	PREF=Decreased range of movement of proximal interphalangeal joints
+Decreased range of shoulder movement	CUI=C0582180	PREF=Decreased range of shoulder movement
+Decreased range of shoulder movement (finding)	CUI=C0582180	PREF=Decreased range of shoulder movement (finding)
+Decreased range of subtalar movement	CUI=C0582221	PREF=Decreased range of subtalar movement
+Decreased range of subtalar movement (finding)	CUI=C0582221	PREF=Decreased range of subtalar movement (finding)
+Decreased range of thoracic spine movement	CUI=C0582233	PREF=Decreased range of thoracic spine movement
+Decreased range of thoracic spine movement (finding)	CUI=C0582233	PREF=Decreased range of thoracic spine movement (finding)
+Decreased range of thumb movement	CUI=C0582199	PREF=Decreased range of thumb movement
+Decreased range of thumb movement (finding)	CUI=C0582199	PREF=Decreased range of thumb movement (finding)
+Decreased range of toe movement	CUI=C0582225	PREF=Decreased range of toe movement
+Decreased range of toe movement (finding)	CUI=C0582225	PREF=Decreased range of toe movement (finding)
+Decreased range of wrist movement	CUI=C0582188	PREF=Decreased range of wrist movement
+Decreased range of wrist movement (finding)	CUI=C0582188	PREF=Decreased range of wrist movement (finding)
+Decreased range thumb movement	CUI=C0582199	PREF=Decreased range thumb movement
+Decreased range toe movement	CUI=C0582225	PREF=Decreased range toe movement
+Decreased range wrist movement	CUI=C0582188	PREF=Decreased range wrist movement
+Defects in fine motor skills	CUI=C3810002	PREF=Defects in fine motor skills
+Difficulties in fine movement of the hands	CUI=C3554395	PREF=Difficulties in fine movement of the hands
+Difficulties with fine motor skills and coordination	CUI=C4015243	PREF=Difficulties with fine motor skills and coordination
+Difficulty imitating tongue movements (finding)	CUI=C0578733	PREF=Difficulty imitating tongue movements (finding)
+Difficulty in initiating movement	CUI=C0562455	PREF=Difficulty in initiating movement
+Difficulty in initiating movement (finding)	CUI=C0562455	PREF=Difficulty in initiating movement (finding)
+Difficulty in tongue movements	CUI=C1853406	PREF=Difficulty in tongue movements
+Difficulty initiating movement	CUI=C0562455	PREF=Difficulty initiating movement
+Difficulty making movements for speech (finding)	CUI=C0564066	PREF=Difficulty making movements for speech (finding)
+Difficulty performing oral motor functions	CUI=C0563327	PREF=Difficulty performing oral motor functions
+Difficulty performing oral motor functions (finding)	CUI=C0563327	PREF=Difficulty performing oral motor functions (finding)
+Dyskinetic movements	CUI=C2678069	PREF=Dyskinetic movements
+Dystonic movements	CUI=C0013421	PREF=Dystonic movements
+Efferent motor aphasia	CUI=C0454579	PREF=Efferent motor aphasia
+Efferent motor dysphasia	CUI=C0454579	PREF=Efferent motor dysphasia
+elbow catches during movement	CUI=C2127538	PREF=elbow catches during movement
+elbow catches during movement (symptom)	CUI=C2127538	PREF=elbow catches during movement (symptom)
+Elbow joint - painful on movement (finding)	CUI=C0575699	PREF=Elbow joint - painful on movement (finding)
+Elbow joint - range of movement - finding	CUI=C1288023	PREF=Elbow joint - range of movement - finding
+Elbow joint - range of movement (observable entity)	CUI=C0575649	PREF=Elbow joint - range of movement (observable entity)
+elbow pain was elicited at the initiation of movement	CUI=C2088479	PREF=elbow pain was elicited at the initiation of movement
+Extrapyramidal movements	CUI=C1273968	PREF=Extrapyramidal movements
+Extrapyramidal movements (finding)	CUI=C1273968	PREF=Extrapyramidal movements (finding)
+Extrapyramidal movements (later onset)	CUI=C4314467	PREF=Extrapyramidal movements (later onset)
+Eye movement	CUI=C0015413	PREF=Eye movement
+Eye movement - finding	CUI=C1287611	PREF=Eye movement - finding
+Eye movement disorder	CUI=C0028850	PREF=Eye movement disorder
+Fine motor disability	CUI=C0556292	PREF=Fine motor disability
+Fine motor functions	CUI=C0562229	PREF=Fine motor functions
+Fine motor functions (observable entity)	CUI=C0562229	PREF=Fine motor functions (observable entity)
+Fine motor impairment	CUI=C0556281	PREF=Fine motor impairment
+Fine motor impairment, mild	CUI=C4315644	PREF=Fine motor impairment, mild
+fine motor skills	CUI=C0678857	PREF=fine motor skills
+Finger joint - range of movement - finding	CUI=C1288190	PREF=Finger joint - range of movement - finding
+Finger joint - range of movement (observable entity)	CUI=C0575830	PREF=Finger joint - range of movement (observable entity)
+Finger joint painful on movement (finding)	CUI=C0575880	PREF=Finger joint painful on movement (finding)
+fingers 'catch' during movement	CUI=C2127754	PREF=fingers 'catch' during movement
+fingers of both hands 'catch' during movement	CUI=C2127767	PREF=fingers of both hands 'catch' during movement
+fingers of left hand 'catch' during movement	CUI=C2127761	PREF=fingers of left hand 'catch' during movement
+fingers of left hand 'catch' during movement (symptom)	CUI=C2127761	PREF=fingers of left hand 'catch' during movement (symptom)
+fingers of right hand 'catch' during movement	CUI=C2127755	PREF=fingers of right hand 'catch' during movement
+fingers of right hand 'catch' during movement (symptom)	CUI=C2127755	PREF=fingers of right hand 'catch' during movement (symptom)
+Flapping movements of arms (finding)	CUI=C0424248	PREF=Flapping movements of arms (finding)
+Flapping movements of hands (finding)	CUI=C0424247	PREF=Flapping movements of hands (finding)
+Foot joint - painful on movement	CUI=C0576274	PREF=Foot joint - painful on movement
+Foot joint - painful on movement (finding)	CUI=C0576274	PREF=Foot joint - painful on movement (finding)
+Foot joint - range of movement	CUI=C0576246	PREF=Foot joint - range of movement
+Foot joint - range of movement - finding	CUI=C1288144	PREF=Foot joint - range of movement - finding
+Foot joint - range of movement (observable entity)	CUI=C0576246	PREF=Foot joint - range of movement (observable entity)
+foot pain was elicited at the initiation of movement	CUI=C2088501	PREF=foot pain was elicited at the initiation of movement
+Full movement	CUI=C0457168	PREF=Full movement
+Good control of movement	CUI=C0455917	PREF=Good control of movement
+Good control of movement (finding)	CUI=C0455917	PREF=Good control of movement (finding)
+Gross motor disability	CUI=C0556290	PREF=Gross motor disability
+Gross motor function deficits	CUI=C4479271	PREF=Gross motor function deficits
+Gross motor functions	CUI=C0677549	PREF=Gross motor functions
+Gross motor impairment	CUI=C0556280	PREF=Gross motor impairment
+gross motor skills	CUI=C0678858	PREF=gross motor skills
+Gross movement of body and limbs - finding	CUI=C1286403	PREF=Gross movement of body and limbs - finding
+Gross movement of body and limbs (observable entity)	CUI=C0427001	PREF=Gross movement of body and limbs (observable entity)
+Gross movement of limb	CUI=C1285622	PREF=Gross movement of limb
+Gross movement of limb (observable entity)	CUI=C1285622	PREF=Gross movement of limb (observable entity)
+Hand movements - left	CUI=C3176201	PREF=Hand movements - left
+Hand movements - right	CUI=C3176178	PREF=Hand movements - right
+hand pain was elicited by motion at the initiation of movement	CUI=C2028532	PREF=hand pain was elicited by motion at the initiation of movement
+Head movements abnormal (finding)	CUI=C0476217	PREF=Head movements abnormal (finding)
+hip catches during movement	CUI=C2030985	PREF=hip catches during movement
+hip catches during movement (symptom)	CUI=C2030985	PREF=hip catches during movement (symptom)
+Hip joint - range of movement - finding	CUI=C1288078	PREF=Hip joint - range of movement - finding
+Hip joint - range of movement (observable entity)	CUI=C0576002	PREF=Hip joint - range of movement (observable entity)
+hip joint pain feels better after normal movement	CUI=C2108676	PREF=hip joint pain feels better after normal movement
+hip joint pain feels better after normal movement (symptom)	CUI=C2108676	PREF=hip joint pain feels better after normal movement (symptom)
+Hip joint painful on movement (finding)	CUI=C0576071	PREF=Hip joint painful on movement (finding)
+hip joint stiffness feels better after normal movement	CUI=C2109036	PREF=hip joint stiffness feels better after normal movement
+hip pain was elicited at the initiation of movement	CUI=C2031134	PREF=hip pain was elicited at the initiation of movement
+hip pain was elicited by active abduction at the initiation of movement	CUI=C2031101	PREF=hip pain was elicited by active abduction at the initiation of movement
+hip pain was elicited by active adduction at the initiation of movement	CUI=C2031104	PREF=hip pain was elicited by active adduction at the initiation of movement
+hip pain was elicited by active external rotation at the initiation of movement with the hip extended	CUI=C2016418	PREF=hip pain was elicited by active external rotation at the initiation of movement with the hip extended
+hip pain was elicited by active flexion at the initiation of movement	CUI=C2031110	PREF=hip pain was elicited by active flexion at the initiation of movement
+hip pain was elicited by active internal rotation at the initiation of movement with the hip extended	CUI=C2016432	PREF=hip pain was elicited by active internal rotation at the initiation of movement with the hip extended
+hip pain was elicited by passive abduction at the initiation of movement	CUI=C2031160	PREF=hip pain was elicited by passive abduction at the initiation of movement
+hip pain was elicited by passive external rotation at the initiation of movement with the hip extended	CUI=C2032620	PREF=hip pain was elicited by passive external rotation at the initiation of movement with the hip extended
+hip pain was elicited by passive external rotation at the initiation of movement with the hip flexed	CUI=C2032623	PREF=hip pain was elicited by passive external rotation at the initiation of movement with the hip flexed
+Imitates tongue movements	CUI=C0578731	PREF=Imitates tongue movements
+Imitation of oral motor function	CUI=C0589187	PREF=Imitation of oral motor function
+Imitation oral motor function	CUI=C0589187	PREF=Imitation oral motor function
+Impaired fine motor skills	CUI=C3275368	PREF=Impaired fine motor skills
+impaired finger-to-nose movement	CUI=C2199253	PREF=impaired finger-to-nose movement
+impaired finger-to-nose movement (physical finding)	CUI=C2199253	PREF=impaired finger-to-nose movement (physical finding)
+impaired finger-to-nose movement on left only	CUI=C2199247	PREF=impaired finger-to-nose movement on left only
+impaired finger-to-nose movement on left only (physical finding)	CUI=C2199247	PREF=impaired finger-to-nose movement on left only (physical finding)
+impaired finger-to-nose movement on right only	CUI=C2199248	PREF=impaired finger-to-nose movement on right only
+impaired finger-to-nose movement on right only (physical finding)	CUI=C2199248	PREF=impaired finger-to-nose movement on right only (physical finding)
+impaired finger-to-nose movement was seen	CUI=C2199253	PREF=impaired finger-to-nose movement was seen
+impaired finger-to-nose movement was seen only on the left	CUI=C2199247	PREF=impaired finger-to-nose movement was seen only on the left
+impaired finger-to-nose movement was seen only on the right	CUI=C2199248	PREF=impaired finger-to-nose movement was seen only on the right
+impaired heel-shin movement using right heel	CUI=C2199249	PREF=impaired heel-shin movement using right heel
+impaired heel-shin movement using right heel (physical finding)	CUI=C2199249	PREF=impaired heel-shin movement using right heel (physical finding)
+impaired heel-to-shin movement	CUI=C2199254	PREF=impaired heel-to-shin movement
+impaired heel-to-shin movement (physical finding)	CUI=C2199254	PREF=impaired heel-to-shin movement (physical finding)
+impaired heel-to-shin movement bilaterally	CUI=C2199255	PREF=impaired heel-to-shin movement bilaterally
+impaired heel-to-shin movement bilaterally (physical finding)	CUI=C2199255	PREF=impaired heel-to-shin movement bilaterally (physical finding)
+impaired heel-to-shin movement using left heel	CUI=C2199250	PREF=impaired heel-to-shin movement using left heel
+impaired heel-to-shin movement using left heel (physical finding)	CUI=C2199250	PREF=impaired heel-to-shin movement using left heel (physical finding)
+impaired heel-to-shin movement was seen	CUI=C2199254	PREF=impaired heel-to-shin movement was seen
+impaired heel-to-shin movement was seen using the left heel	CUI=C2199250	PREF=impaired heel-to-shin movement was seen using the left heel
+Impaired ocular movements	CUI=C3808837	PREF=Impaired ocular movements
+Involuntary movement	CUI=C0427086	PREF=Involuntary movement
+Involuntary movement (finding)	CUI=C0427086	PREF=Involuntary movement (finding)
+knee catches during movement	CUI=C2109427	PREF=knee catches during movement
+knee catches during movement (symptom)	CUI=C2109427	PREF=knee catches during movement (symptom)
+Knee joint - painful on movement	CUI=C0576139	PREF=Knee joint - painful on movement
+Knee joint - painful on movement (finding)	CUI=C0576139	PREF=Knee joint - painful on movement (finding)
+Knee joint - range of movement	CUI=C0576094	PREF=Knee joint - range of movement
+Knee joint - range of movement - finding	CUI=C1288104	PREF=Knee joint - range of movement - finding
+Knee joint - range of movement (observable entity)	CUI=C0576094	PREF=Knee joint - range of movement (observable entity)
+knee joint pain with active movement	CUI=C2110491	PREF=knee joint pain with active movement
+knee joint pain with passive movement	CUI=C2110492	PREF=knee joint pain with passive movement
+knee joint pain with passive movement (symptom)	CUI=C2110492	PREF=knee joint pain with passive movement (symptom)
+Knee joint painful on movement	CUI=C0576139	PREF=Knee joint painful on movement
+Knee joint painful on movement (finding)	CUI=C0576139	PREF=Knee joint painful on movement (finding)
+Knee joint-painful movement	CUI=C0576139	PREF=Knee joint-painful movement
+knee pain with active movement	CUI=C2110491	PREF=knee pain with active movement
+knee pain with active movement (symptom)	CUI=C2110491	PREF=knee pain with active movement (symptom)
+Lack of control of movement	CUI=C0427084	PREF=Lack of control of movement
+Lack of purposeful movement	CUI=C4540359	PREF=Lack of purposeful movement
+Lack of spontaneous movement	CUI=C0424232	PREF=Lack of spontaneous movement
+Lack of spontaneous movements	CUI=C0424232	PREF=Lack of spontaneous movements
+Lack of volitional movement	CUI=C3281031	PREF=Lack of volitional movement
+left ankle catches during movement	CUI=C2127604	PREF=left ankle catches during movement
+left ankle catches during movement (symptom)	CUI=C2127604	PREF=left ankle catches during movement (symptom)
+left elbow catches during movement	CUI=C2127540	PREF=left elbow catches during movement
+left elbow catches during movement (symptom)	CUI=C2127540	PREF=left elbow catches during movement (symptom)
+left fourth toe 'catches' during movement	CUI=C2128004	PREF=left fourth toe 'catches' during movement
+left great toe 'catches' during movement	CUI=C2128001	PREF=left great toe 'catches' during movement
+left great toe 'catches' during movement (symptom)	CUI=C2128001	PREF=left great toe 'catches' during movement (symptom)
+left hip catches during movement	CUI=C2127633	PREF=left hip catches during movement
+left index finger 'catches' during movement	CUI=C2127763	PREF=left index finger 'catches' during movement
+left index finger 'catches' during movement (symptom)	CUI=C2127763	PREF=left index finger 'catches' during movement (symptom)
+left inner edge shoulder blade pain improves with movement	CUI=C2127691	PREF=left inner edge shoulder blade pain improves with movement
+left inner edge shoulder blade pain unchanged with movement	CUI=C2127690	PREF=left inner edge shoulder blade pain unchanged with movement
+left inner edge shoulder blade pain worse with movement	CUI=C2127689	PREF=left inner edge shoulder blade pain worse with movement
+left knee catches during movement	CUI=C2127579	PREF=left knee catches during movement
+left knee catches during movement (symptom)	CUI=C2127579	PREF=left knee catches during movement (symptom)
+left little finger 'catches' during movement	CUI=C2127766	PREF=left little finger 'catches' during movement
+left little finger 'catches' during movement (symptom)	CUI=C2127766	PREF=left little finger 'catches' during movement (symptom)
+left little toe 'catches' during movement	CUI=C2128005	PREF=left little toe 'catches' during movement
+left little toe 'catches' during movement (symptom)	CUI=C2128005	PREF=left little toe 'catches' during movement (symptom)
+left middle finger 'catches' during movement	CUI=C2127764	PREF=left middle finger 'catches' during movement
+left middle finger 'catches' during movement (symptom)	CUI=C2127764	PREF=left middle finger 'catches' during movement (symptom)
+left middle toe 'catches' during movement	CUI=C2128003	PREF=left middle toe 'catches' during movement
+left middle toe 'catches' during movement (symptom)	CUI=C2128003	PREF=left middle toe 'catches' during movement (symptom)
+left ring finger 'catches' during movement	CUI=C2127765	PREF=left ring finger 'catches' during movement
+left second toe 'catches' during movement	CUI=C2128002	PREF=left second toe 'catches' during movement
+left shoulder catches during movement	CUI=C2127661	PREF=left shoulder catches during movement
+left shoulder catches during movement (symptom)	CUI=C2127661	PREF=left shoulder catches during movement (symptom)
+left thumb 'catches' during movement	CUI=C2127762	PREF=left thumb 'catches' during movement
+left thumb 'catches' during movement (symptom)	CUI=C2127762	PREF=left thumb 'catches' during movement (symptom)
+left upper back pain along inner edge of scapula improves with movement	CUI=C2127691	PREF=left upper back pain along inner edge of scapula improves with movement
+left upper back pain along inner edge of scapula unchanged with movement	CUI=C2127690	PREF=left upper back pain along inner edge of scapula unchanged with movement
+left wrist catches during movement	CUI=C2127918	PREF=left wrist catches during movement
+left wrist catches during movement (symptom)	CUI=C2127918	PREF=left wrist catches during movement (symptom)
+Lightning eye movement (finding)	CUI=C0234652	PREF=Lightning eye movement (finding)
+Limb movement absent	CUI=C0555086	PREF=Limb movement absent
+Limb movement not present	CUI=C0555086	PREF=Limb movement not present
+Limitation of carpal and interphalangeal joint movement, progressive	CUI=C4539289	PREF=Limitation of carpal and interphalangeal joint movement, progressive
+Limitation of joint movement (finding)	CUI=C0231589	PREF=Limitation of joint movement (finding)
+Limited hip movement	CUI=C1851542	PREF=Limited hip movement
+Limited movement at elbows	CUI=C4540512	PREF=Limited movement at elbows
+Limited movement at wrists	CUI=C4540513	PREF=Limited movement at wrists
+Limited movements of the knee joints	CUI=C4229608	PREF=Limited movements of the knee joints
+Limited wrist movement	CUI=C1840088	PREF=Limited wrist movement
+Loss of control of movement	CUI=C0427084	PREF=Loss of control of movement
+Loss of control of movement (finding)	CUI=C0427084	PREF=Loss of control of movement (finding)
+Loss of fine motor skills	CUI=C1868513	PREF=Loss of fine motor skills
+Loss of motor functions	CUI=C1864672	PREF=Loss of motor functions
+Loss of motor skills	CUI=C4014590	PREF=Loss of motor skills
+Loss of movement in the elbows (in some patients)	CUI=C4538503	PREF=Loss of movement in the elbows (in some patients)
+Loss of movement in the knees (uncommon)	CUI=C4538505	PREF=Loss of movement in the knees (uncommon)
+Loss of purposeful hand movements	CUI=C2678185	PREF=Loss of purposeful hand movements
+Loss of spontaneous movement	CUI=C2673268	PREF=Loss of spontaneous movement
+Loss of spontaneous movements	CUI=C2673268	PREF=Loss of spontaneous movements
+lower back pain in midline improves with movement	CUI=C2129458	PREF=lower back pain in midline improves with movement
+lower back pain in midline improves with movement (symptom)	CUI=C2129458	PREF=lower back pain in midline improves with movement (symptom)
+lower back pain in midline unchanged with movement	CUI=C2129457	PREF=lower back pain in midline unchanged with movement
+lower back pain in midline unchanged with movement (symptom)	CUI=C2129457	PREF=lower back pain in midline unchanged with movement (symptom)
+lower back pain midline worse with movement	CUI=C2129456	PREF=lower back pain midline worse with movement
+Lumbar spine - painful on movement	CUI=C0575448	PREF=Lumbar spine - painful on movement
+Lumbar spine - painful on movement (finding)	CUI=C0575448	PREF=Lumbar spine - painful on movement (finding)
+Lumbar spine - range of movement	CUI=C0575375	PREF=Lumbar spine - range of movement
+Lumbar spine - range of movement - finding	CUI=C1287946	PREF=Lumbar spine - range of movement - finding
+Lumbar spine - range of movement (observable entity)	CUI=C0575375	PREF=Lumbar spine - range of movement (observable entity)
+Lumbar spine painful on movement	CUI=C0575448	PREF=Lumbar spine painful on movement
+Lumbar spine painful on movement (finding)	CUI=C0575448	PREF=Lumbar spine painful on movement (finding)
+lumbar spine painful on movement (symptom)	CUI=C0575448	PREF=lumbar spine painful on movement (symptom)
+Lumbar spine-range movement	CUI=C0575375	PREF=Lumbar spine-range movement
+midback pain in midline improves with movement	CUI=C2129452	PREF=midback pain in midline improves with movement
+midback pain in midline improves with movement (symptom)	CUI=C2129452	PREF=midback pain in midline improves with movement (symptom)
+midback pain in midline unchanged with movement	CUI=C2129451	PREF=midback pain in midline unchanged with movement
+midback pain in midline unchanged with movement (symptom)	CUI=C2129451	PREF=midback pain in midline unchanged with movement (symptom)
+midback pain in midline worse with movement	CUI=C2129450	PREF=midback pain in midline worse with movement
+midback pain in midline worse with movement (symptom)	CUI=C2129450	PREF=midback pain in midline worse with movement (symptom)
+midback pain unchanged with straining during bowel movement	CUI=C2130081	PREF=midback pain unchanged with straining during bowel movement
+midback pain unchanged with straining during bowel movements	CUI=C2130081	PREF=midback pain unchanged with straining during bowel movements
+midback pain worse with straining during bowel movements	CUI=C2129247	PREF=midback pain worse with straining during bowel movements
+midline low back pain worse with movement	CUI=C2129456	PREF=midline low back pain worse with movement
+midline lower back pain improves with movement	CUI=C2129458	PREF=midline lower back pain improves with movement
+midline lower back pain unchanged with movement	CUI=C2129457	PREF=midline lower back pain unchanged with movement
+midline lower back pain worse with movement	CUI=C2129456	PREF=midline lower back pain worse with movement
+midline midback pain improves with movement	CUI=C2129452	PREF=midline midback pain improves with movement
+midline midback pain unchanged with movement	CUI=C2129451	PREF=midline midback pain unchanged with movement
+midline midback pain worse with movement	CUI=C2129450	PREF=midline midback pain worse with movement
+midline upper back pain improves with movement	CUI=C2129446	PREF=midline upper back pain improves with movement
+midline upper back pain is unchanged with movement	CUI=C2129445	PREF=midline upper back pain is unchanged with movement
+midline upper back pain worse with movement	CUI=C2129444	PREF=midline upper back pain worse with movement
+Moderate slowness, poverty or small amplitude of movement	CUI=C4036279	PREF=Moderate slowness, poverty or small amplitude of movement
+Moderately impaired. Definite and early fatiguing. May have occasional arrests in movement	CUI=C4036306	PREF=Moderately impaired. Definite and early fatiguing. May have occasional arrests in movement
+Muscle movement against resistance incomplete (finding)	CUI=C0575060	PREF=Muscle movement against resistance incomplete (finding)
+Muscle weakness, distal (lower limbs more affected than upper limbs), due to motor neuronopathy	CUI=C1834694	PREF=Muscle weakness, distal (lower limbs more affected than upper limbs), due to motor neuronopathy
+Muscle weakness, symmetric, proximal (lower limbs more affected than upper limbs) due to motor neuronopathy	CUI=C1854665	PREF=Muscle weakness, symmetric, proximal (lower limbs more affected than upper limbs) due to motor neuronopathy
+Neck joint - range of movement	CUI=C1319209	PREF=Neck joint - range of movement
+Neck joint - range of movement (observable entity)	CUI=C1319209	PREF=Neck joint - range of movement (observable entity)
+neck pain increased by head movement	CUI=C2219657	PREF=neck pain increased by head movement
+neck pain increased by head movement bending to left	CUI=C2129421	PREF=neck pain increased by head movement bending to left
+neck pain increased by head movement turning to right	CUI=C2129422	PREF=neck pain increased by head movement turning to right
+neck stiffness loosens after ordinary movements	CUI=C2128493	PREF=neck stiffness loosens after ordinary movements
+No ankle movement	CUI=C0582214	PREF=No ankle movement
+No ankle movement (finding)	CUI=C0582214	PREF=No ankle movement (finding)
+No cervical spine movement (finding)	CUI=C0582230	PREF=No cervical spine movement (finding)
+No elbow movement (finding)	CUI=C0582185	PREF=No elbow movement (finding)
+No finger movement (finding)	CUI=C0582196	PREF=No finger movement (finding)
+No foot movement	CUI=C0582218	PREF=No foot movement
+No foot movement	CUI=C0582218	PREF=No foot movement
+No foot movement (finding)	CUI=C0582218	PREF=No foot movement (finding)
+No hip movement	CUI=C0582204	PREF=No hip movement
+No hip movement (finding)	CUI=C0582204	PREF=No hip movement (finding)
+No involuntary movements (context-dependent category)	CUI=C0558695	PREF=No involuntary movements (context-dependent category)
+No involuntary movements (finding)	CUI=C0558695	PREF=No involuntary movements (finding)
+No involuntary movements (situation)	CUI=C0558695	PREF=No involuntary movements (situation)
+No knee movement	CUI=C0582209	PREF=No knee movement
+No knee movement (finding)	CUI=C0582209	PREF=No knee movement (finding)
+No lumbar spine movement	CUI=C0582238	PREF=No lumbar spine movement
+No lumbar spine movement (finding)	CUI=C0582238	PREF=No lumbar spine movement (finding)
+No motor skills acquired (in some)	CUI=C3553480	PREF=No motor skills acquired (in some)
+No movement	CUI=C4036164	PREF=No movement
+No purposeful eye movements (patient B)	CUI=C4228112	PREF=No purposeful eye movements (patient B)
+No purposeful leg movement	CUI=C4296871	PREF=No purposeful leg movement
+No shoulder movement	CUI=C0582181	PREF=No shoulder movement
+No shoulder movement (finding)	CUI=C0582181	PREF=No shoulder movement (finding)
+No spontaneous movements	CUI=C2748966	PREF=No spontaneous movements
+No subtalar movement	CUI=C0582222	PREF=No subtalar movement
+No subtalar movement (finding)	CUI=C0582222	PREF=No subtalar movement (finding)
+No thoracic spine movement	CUI=C0582234	PREF=No thoracic spine movement
+No thoracic spine movement (finding)	CUI=C0582234	PREF=No thoracic spine movement (finding)
+No thumb movement	CUI=C0582200	PREF=No thumb movement
+No thumb movement (finding)	CUI=C0582200	PREF=No thumb movement (finding)
+No toe movement	CUI=C0582226	PREF=No toe movement
+No toe movement (finding)	CUI=C0582226	PREF=No toe movement (finding)
+No wrist movement	CUI=C0582189	PREF=No wrist movement
+No wrist movement (finding)	CUI=C0582189	PREF=No wrist movement (finding)
+Normal fine motor activity	CUI=C1850572	PREF=Normal fine motor activity
+Normal or spontaneous movement (< 2 years of age)	CUI=C4509452	PREF=Normal or spontaneous movement (< 2 years of age)
+Normal range of ankle movement	CUI=C0582210	PREF=Normal range of ankle movement
+Normal range of ankle movement (finding)	CUI=C0582210	PREF=Normal range of ankle movement (finding)
+Normal range of cervical spine movement (finding)	CUI=C0582227	PREF=Normal range of cervical spine movement (finding)
+Normal range of elbow movement (finding)	CUI=C0582182	PREF=Normal range of elbow movement (finding)
+Normal range of finger movement (finding)	CUI=C0582192	PREF=Normal range of finger movement (finding)
+Normal range of foot movement	CUI=C0582215	PREF=Normal range of foot movement
+Normal range of foot movement (finding)	CUI=C0582215	PREF=Normal range of foot movement (finding)
+Normal range of hip movement	CUI=C0582201	PREF=Normal range of hip movement
+Normal range of hip movement (finding)	CUI=C0582201	PREF=Normal range of hip movement (finding)
+Normal range of knee movement	CUI=C0582206	PREF=Normal range of knee movement
+Normal range of knee movement (finding)	CUI=C0582206	PREF=Normal range of knee movement (finding)
+Normal range of lumbar spine movement	CUI=C0582235	PREF=Normal range of lumbar spine movement
+Normal range of lumbar spine movement (finding)	CUI=C0582235	PREF=Normal range of lumbar spine movement (finding)
+Normal range of shoulder movement	CUI=C0582178	PREF=Normal range of shoulder movement
+Normal range of shoulder movement (finding)	CUI=C0582178	PREF=Normal range of shoulder movement (finding)
+Normal range of subtalar movement	CUI=C0582219	PREF=Normal range of subtalar movement
+Normal range of subtalar movement (finding)	CUI=C0582219	PREF=Normal range of subtalar movement (finding)
+Normal range of thoracic spine movement	CUI=C0582231	PREF=Normal range of thoracic spine movement
+Normal range of thoracic spine movement (finding)	CUI=C0582231	PREF=Normal range of thoracic spine movement (finding)
+Normal range of thumb movement	CUI=C0582197	PREF=Normal range of thumb movement
+Normal range of thumb movement (finding)	CUI=C0582197	PREF=Normal range of thumb movement (finding)
+Normal range of toe movement	CUI=C0582223	PREF=Normal range of toe movement
+Normal range of toe movement (finding)	CUI=C0582223	PREF=Normal range of toe movement (finding)
+Normal range of wrist movement	CUI=C0582186	PREF=Normal range of wrist movement
+Normal range of wrist movement (finding)	CUI=C0582186	PREF=Normal range of wrist movement (finding)
+Normal range shoulder movement	CUI=C0582178	PREF=Normal range shoulder movement
+Normal range subtalar movement	CUI=C0582219	PREF=Normal range subtalar movement
+Normal symmetrical movements	CUI=C4036172	PREF=Normal symmetrical movements
+Normal vocal cord movement (finding)	CUI=C0577905	PREF=Normal vocal cord movement (finding)
+Oral motor functions	CUI=C0563145	PREF=Oral motor functions
+pain of ankle elicited by motion at initiation of movement	CUI=C2088498	PREF=pain of ankle elicited by motion at initiation of movement
+pain of ankle elicited by motion at initiation of movement (physical finding)	CUI=C2088498	PREF=pain of ankle elicited by motion at initiation of movement (physical finding)
+pain of both ankles elicited by active motion at initiation of movement	CUI=C2177869	PREF=pain of both ankles elicited by active motion at initiation of movement
+pain of both ankles elicited by active motion at initiation of movement (physical finding)	CUI=C2177869	PREF=pain of both ankles elicited by active motion at initiation of movement (physical finding)
+pain of both ankles elicited by motion at initiation of movement	CUI=C2196502	PREF=pain of both ankles elicited by motion at initiation of movement
+pain of both ankles elicited by motion at initiation of movement (physical finding)	CUI=C2196502	PREF=pain of both ankles elicited by motion at initiation of movement (physical finding)
+pain of both feet elicited at initiation of movement	CUI=C2196543	PREF=pain of both feet elicited at initiation of movement
+pain of both feet elicited at initiation of movement (physical finding)	CUI=C2196543	PREF=pain of both feet elicited at initiation of movement (physical finding)
+pain of cervical spine elicited by bilateral extension at initiation of movement	CUI=C2044074	PREF=pain of cervical spine elicited by bilateral extension at initiation of movement
+pain of cervical spine elicited by bilateral extension at initiation of movement (physical finding)	CUI=C2044074	PREF=pain of cervical spine elicited by bilateral extension at initiation of movement (physical finding)
+pain of cervical spine elicited by bilateral flexion at initiation of movement	CUI=C2044077	PREF=pain of cervical spine elicited by bilateral flexion at initiation of movement
+pain of cervical spine elicited by bilateral flexion at initiation of movement (physical finding)	CUI=C2044077	PREF=pain of cervical spine elicited by bilateral flexion at initiation of movement (physical finding)
+pain of cervical spine elicited by bilateral lateral bending at initiation of movement	CUI=C2044080	PREF=pain of cervical spine elicited by bilateral lateral bending at initiation of movement
+pain of cervical spine elicited by bilateral lateral bending at initiation of movement (physical finding)	CUI=C2044080	PREF=pain of cervical spine elicited by bilateral lateral bending at initiation of movement (physical finding)
+pain of cervical spine elicited by bilateral rotation at initiation of movement	CUI=C2044083	PREF=pain of cervical spine elicited by bilateral rotation at initiation of movement
+pain of cervical spine elicited by bilateral rotation at initiation of movement (physical finding)	CUI=C2044083	PREF=pain of cervical spine elicited by bilateral rotation at initiation of movement (physical finding)
+pain of cervical spine elicited by left-sided extension at initiation of movement	CUI=C2044086	PREF=pain of cervical spine elicited by left-sided extension at initiation of movement
+pain of cervical spine elicited by left-sided extension at initiation of movement (physical finding)	CUI=C2044086	PREF=pain of cervical spine elicited by left-sided extension at initiation of movement (physical finding)
+pain of cervical spine elicited by left-sided flexion at initiation of movement	CUI=C2044089	PREF=pain of cervical spine elicited by left-sided flexion at initiation of movement
+pain of cervical spine elicited by left-sided flexion at initiation of movement (physical finding)	CUI=C2044089	PREF=pain of cervical spine elicited by left-sided flexion at initiation of movement (physical finding)
+pain of cervical spine elicited by left-sided lateral bending at initiation of movement	CUI=C2044092	PREF=pain of cervical spine elicited by left-sided lateral bending at initiation of movement
+pain of cervical spine elicited by left-sided lateral bending at initiation of movement (physical finding)	CUI=C2044092	PREF=pain of cervical spine elicited by left-sided lateral bending at initiation of movement (physical finding)
+pain of cervical spine elicited by left-sided rotation at initiation of movement	CUI=C2044095	PREF=pain of cervical spine elicited by left-sided rotation at initiation of movement
+pain of cervical spine elicited by left-sided rotation at initiation of movement (physical finding)	CUI=C2044095	PREF=pain of cervical spine elicited by left-sided rotation at initiation of movement (physical finding)
+pain of cervical spine elicited by right-sided extension at initiation of movement	CUI=C2044098	PREF=pain of cervical spine elicited by right-sided extension at initiation of movement
+pain of cervical spine elicited by right-sided extension at initiation of movement (physical finding)	CUI=C2044098	PREF=pain of cervical spine elicited by right-sided extension at initiation of movement (physical finding)
+pain of cervical spine elicited by right-sided flexion at initiation of movement	CUI=C2044101	PREF=pain of cervical spine elicited by right-sided flexion at initiation of movement
+pain of cervical spine elicited by right-sided flexion at initiation of movement (physical finding)	CUI=C2044101	PREF=pain of cervical spine elicited by right-sided flexion at initiation of movement (physical finding)
+pain of cervical spine elicited by right-sided lateral bending at initiation of movement	CUI=C2044104	PREF=pain of cervical spine elicited by right-sided lateral bending at initiation of movement
+pain of cervical spine elicited by right-sided lateral bending at initiation of movement (physical finding)	CUI=C2044104	PREF=pain of cervical spine elicited by right-sided lateral bending at initiation of movement (physical finding)
+pain of cervical spine elicited by right-sided rotation at initiation of movement	CUI=C2044107	PREF=pain of cervical spine elicited by right-sided rotation at initiation of movement
+pain of cervical spine elicited by right-sided rotation at initiation of movement (physical finding)	CUI=C2044107	PREF=pain of cervical spine elicited by right-sided rotation at initiation of movement (physical finding)
+pain of elbow elicited at initiation of movement	CUI=C2088479	PREF=pain of elbow elicited at initiation of movement
+pain of elbow elicited at initiation of movement (physical finding)	CUI=C2088479	PREF=pain of elbow elicited at initiation of movement (physical finding)
+pain of finger of left hand elicited at initiation of movement	CUI=C2016681	PREF=pain of finger of left hand elicited at initiation of movement
+pain of finger of left hand elicited at initiation of movement (physical finding)	CUI=C2016681	PREF=pain of finger of left hand elicited at initiation of movement (physical finding)
+pain of finger of left hand elicited by abduction at initiation of movement	CUI=C2031664	PREF=pain of finger of left hand elicited by abduction at initiation of movement
+pain of finger of left hand elicited by abduction at initiation of movement (physical finding)	CUI=C2031664	PREF=pain of finger of left hand elicited by abduction at initiation of movement (physical finding)
+pain of finger of left hand elicited by adduction at initiation of movement	CUI=C2031665	PREF=pain of finger of left hand elicited by adduction at initiation of movement
+pain of finger of left hand elicited by adduction at initiation of movement (physical finding)	CUI=C2031665	PREF=pain of finger of left hand elicited by adduction at initiation of movement (physical finding)
+pain of finger of left hand elicited by extension at initiation of movement	CUI=C2031666	PREF=pain of finger of left hand elicited by extension at initiation of movement
+pain of finger of left hand elicited by extension at initiation of movement (physical finding)	CUI=C2031666	PREF=pain of finger of left hand elicited by extension at initiation of movement (physical finding)
+pain of finger of left hand elicited by flexion at initiation of movement	CUI=C2031667	PREF=pain of finger of left hand elicited by flexion at initiation of movement
+pain of finger of left hand elicited by flexion at initiation of movement (physical finding)	CUI=C2031667	PREF=pain of finger of left hand elicited by flexion at initiation of movement (physical finding)
+pain of finger of right hand elicited by abduction at initiation of movement	CUI=C2031676	PREF=pain of finger of right hand elicited by abduction at initiation of movement
+pain of finger of right hand elicited by abduction at initiation of movement (physical finding)	CUI=C2031676	PREF=pain of finger of right hand elicited by abduction at initiation of movement (physical finding)
+pain of finger of right hand elicited by adduction at initiation of movement	CUI=C2031677	PREF=pain of finger of right hand elicited by adduction at initiation of movement
+pain of finger of right hand elicited by adduction at initiation of movement (physical finding)	CUI=C2031677	PREF=pain of finger of right hand elicited by adduction at initiation of movement (physical finding)
+pain of finger of right hand elicited by at initiation of movement	CUI=C2016695	PREF=pain of finger of right hand elicited by at initiation of movement
+pain of finger of right hand elicited by at initiation of movement (physical finding)	CUI=C2016695	PREF=pain of finger of right hand elicited by at initiation of movement (physical finding)
+pain of finger of right hand elicited by extension at initiation of movement	CUI=C2031678	PREF=pain of finger of right hand elicited by extension at initiation of movement
+pain of finger of right hand elicited by extension at initiation of movement (physical finding)	CUI=C2031678	PREF=pain of finger of right hand elicited by extension at initiation of movement (physical finding)
+pain of finger of right hand elicited by flexion at initiation of movement	CUI=C2031679	PREF=pain of finger of right hand elicited by flexion at initiation of movement
+pain of finger of right hand elicited by flexion at initiation of movement (physical finding)	CUI=C2031679	PREF=pain of finger of right hand elicited by flexion at initiation of movement (physical finding)
+pain of fingers of both hands elicited at initiation of movement	CUI=C2016660	PREF=pain of fingers of both hands elicited at initiation of movement
+pain of fingers of both hands elicited at initiation of movement (physical finding)	CUI=C2016660	PREF=pain of fingers of both hands elicited at initiation of movement (physical finding)
+pain of fingers of both hands elicited by abduction at initiation of movement	CUI=C2031643	PREF=pain of fingers of both hands elicited by abduction at initiation of movement
+pain of fingers of both hands elicited by abduction at initiation of movement (physical finding)	CUI=C2031643	PREF=pain of fingers of both hands elicited by abduction at initiation of movement (physical finding)
+pain of fingers of both hands elicited by adduction at initiation of movement	CUI=C2031644	PREF=pain of fingers of both hands elicited by adduction at initiation of movement
+pain of fingers of both hands elicited by adduction at initiation of movement (physical finding)	CUI=C2031644	PREF=pain of fingers of both hands elicited by adduction at initiation of movement (physical finding)
+pain of fingers of both hands elicited by extension at initiation of movement	CUI=C2031645	PREF=pain of fingers of both hands elicited by extension at initiation of movement
+pain of fingers of both hands elicited by extension at initiation of movement (physical finding)	CUI=C2031645	PREF=pain of fingers of both hands elicited by extension at initiation of movement (physical finding)
+pain of fingers of both hands elicited by flexion at initiation of movement	CUI=C2031646	PREF=pain of fingers of both hands elicited by flexion at initiation of movement
+pain of fingers of both hands elicited by flexion at initiation of movement (physical finding)	CUI=C2031646	PREF=pain of fingers of both hands elicited by flexion at initiation of movement (physical finding)
+pain of foot elicited at initiation of movement	CUI=C2088501	PREF=pain of foot elicited at initiation of movement
+pain of foot elicited at initiation of movement (physical finding)	CUI=C2088501	PREF=pain of foot elicited at initiation of movement (physical finding)
+pain of hand elicited at initiation of movement	CUI=C2028532	PREF=pain of hand elicited at initiation of movement
+pain of hand elicited at initiation of movement (physical finding)	CUI=C2028532	PREF=pain of hand elicited at initiation of movement (physical finding)
+pain of hip elicited active extension at initiation of movement	CUI=C2031107	PREF=pain of hip elicited active extension at initiation of movement
+pain of hip elicited active extension at initiation of movement (physical finding)	CUI=C2031107	PREF=pain of hip elicited active extension at initiation of movement (physical finding)
+pain of hip elicited active flexion at initiation of movement	CUI=C2031110	PREF=pain of hip elicited active flexion at initiation of movement
+pain of hip elicited active flexion at initiation of movement (physical finding)	CUI=C2031110	PREF=pain of hip elicited active flexion at initiation of movement (physical finding)
+pain of hip elicited by active abduction at initiation of movement	CUI=C2031101	PREF=pain of hip elicited by active abduction at initiation of movement
+pain of hip elicited by active abduction at initiation of movement (physical finding)	CUI=C2031101	PREF=pain of hip elicited by active abduction at initiation of movement (physical finding)
+pain of hip elicited by active adduction at initiation of movement	CUI=C2031104	PREF=pain of hip elicited by active adduction at initiation of movement
+pain of hip elicited by active adduction at initiation of movement (physical finding)	CUI=C2031104	PREF=pain of hip elicited by active adduction at initiation of movement (physical finding)
+pain of hip elicited by active external rotation with hip extended at initiation of movement	CUI=C2016418	PREF=pain of hip elicited by active external rotation with hip extended at initiation of movement
+pain of hip elicited by active external rotation with hip extended at initiation of movement (physical finding)	CUI=C2016418	PREF=pain of hip elicited by active external rotation with hip extended at initiation of movement (physical finding)
+pain of hip elicited by active external rotation with hip flexed at initiation of movement	CUI=C2016421	PREF=pain of hip elicited by active external rotation with hip flexed at initiation of movement
+pain of hip elicited by active external rotation with hip flexed at initiation of movement (physical finding)	CUI=C2016421	PREF=pain of hip elicited by active external rotation with hip flexed at initiation of movement (physical finding)
+pain of hip elicited by active internal rotation with hip extended at initiation of movement	CUI=C2016432	PREF=pain of hip elicited by active internal rotation with hip extended at initiation of movement
+pain of hip elicited by active internal rotation with hip extended at initiation of movement (physical finding)	CUI=C2016432	PREF=pain of hip elicited by active internal rotation with hip extended at initiation of movement (physical finding)
+pain of hip elicited by active internal rotation with hip flexed at initiation of movement	CUI=C2016435	PREF=pain of hip elicited by active internal rotation with hip flexed at initiation of movement
+pain of hip elicited by active internal rotation with hip flexed at initiation of movement (physical finding)	CUI=C2016435	PREF=pain of hip elicited by active internal rotation with hip flexed at initiation of movement (physical finding)
+pain of hip elicited by motion at initiation of movement	CUI=C2031134	PREF=pain of hip elicited by motion at initiation of movement
+pain of hip elicited by motion at initiation of movement (physical finding)	CUI=C2031134	PREF=pain of hip elicited by motion at initiation of movement (physical finding)
+pain of hip elicited by passive abduction at initiation of movement	CUI=C2031160	PREF=pain of hip elicited by passive abduction at initiation of movement
+pain of hip elicited by passive abduction at initiation of movement (physical finding)	CUI=C2031160	PREF=pain of hip elicited by passive abduction at initiation of movement (physical finding)
+pain of hip elicited by passive adduction at initiation of movement	CUI=C2031163	PREF=pain of hip elicited by passive adduction at initiation of movement
+pain of hip elicited by passive adduction at initiation of movement (physical finding)	CUI=C2031163	PREF=pain of hip elicited by passive adduction at initiation of movement (physical finding)
+pain of hip elicited by passive extension at initiation of movement	CUI=C2031166	PREF=pain of hip elicited by passive extension at initiation of movement
+pain of hip elicited by passive extension at initiation of movement (physical finding)	CUI=C2031166	PREF=pain of hip elicited by passive extension at initiation of movement (physical finding)
+pain of hip elicited by passive external rotation with hip extended at initiation of movement	CUI=C2032620	PREF=pain of hip elicited by passive external rotation with hip extended at initiation of movement
+pain of hip elicited by passive external rotation with hip extended at initiation of movement (physical finding)	CUI=C2032620	PREF=pain of hip elicited by passive external rotation with hip extended at initiation of movement (physical finding)
+pain of hip elicited by passive external rotation with hip flexed at initiation of movement	CUI=C2032623	PREF=pain of hip elicited by passive external rotation with hip flexed at initiation of movement
+pain of hip elicited by passive external rotation with hip flexed at initiation of movement (physical finding)	CUI=C2032623	PREF=pain of hip elicited by passive external rotation with hip flexed at initiation of movement (physical finding)
+pain of hip elicited by passive flexion at initiation of movement	CUI=C2031169	PREF=pain of hip elicited by passive flexion at initiation of movement
+pain of hip elicited by passive flexion at initiation of movement (physical finding)	CUI=C2031169	PREF=pain of hip elicited by passive flexion at initiation of movement (physical finding)
+pain of hip elicited by passive internal rotation with hip extended at initiation of movement	CUI=C2032634	PREF=pain of hip elicited by passive internal rotation with hip extended at initiation of movement
+pain of hip elicited by passive internal rotation with hip extended at initiation of movement (physical finding)	CUI=C2032634	PREF=pain of hip elicited by passive internal rotation with hip extended at initiation of movement (physical finding)
+pain of hip elicited by passive internal rotation with hip flexed at initiation of movement	CUI=C2032637	PREF=pain of hip elicited by passive internal rotation with hip flexed at initiation of movement
+pain of hip elicited by passive internal rotation with hip flexed at initiation of movement (physical finding)	CUI=C2032637	PREF=pain of hip elicited by passive internal rotation with hip flexed at initiation of movement (physical finding)
+pain of left ankle elicited by active motion at initiation of movement	CUI=C2139489	PREF=pain of left ankle elicited by active motion at initiation of movement
+pain of left ankle elicited by active motion at initiation of movement (physical finding)	CUI=C2139489	PREF=pain of left ankle elicited by active motion at initiation of movement (physical finding)
+pain of left ankle elicited by motion at initiation of movement	CUI=C2139505	PREF=pain of left ankle elicited by motion at initiation of movement
+pain of left ankle elicited by motion at initiation of movement (physical finding)	CUI=C2139505	PREF=pain of left ankle elicited by motion at initiation of movement (physical finding)
+pain of left foot elicited at initiation of movement	CUI=C2196542	PREF=pain of left foot elicited at initiation of movement
+pain of left foot elicited at initiation of movement (physical finding)	CUI=C2196542	PREF=pain of left foot elicited at initiation of movement (physical finding)
+pain of left knee elicited at initiation of movement	CUI=C2110456	PREF=pain of left knee elicited at initiation of movement
+pain of left knee elicited at initiation of movement (physical finding)	CUI=C2110456	PREF=pain of left knee elicited at initiation of movement (physical finding)
+pain of lumbosacral spine elicited at initiation of active movement	CUI=C2199983	PREF=pain of lumbosacral spine elicited at initiation of active movement
+pain of lumbosacral spine elicited at initiation of active movement (physical finding)	CUI=C2199983	PREF=pain of lumbosacral spine elicited at initiation of active movement (physical finding)
+pain of lumbosacral spine elicited at initiation of movement	CUI=C2199985	PREF=pain of lumbosacral spine elicited at initiation of movement
+pain of lumbosacral spine elicited at initiation of movement (physical finding)	CUI=C2199985	PREF=pain of lumbosacral spine elicited at initiation of movement (physical finding)
+pain of lumbosacral spine elicited at initiation of passive movement	CUI=C2199984	PREF=pain of lumbosacral spine elicited at initiation of passive movement
+pain of lumbosacral spine elicited at initiation of passive movement (physical finding)	CUI=C2199984	PREF=pain of lumbosacral spine elicited at initiation of passive movement (physical finding)
+pain of right ankle elicited by active motion at initiation of movement	CUI=C2177395	PREF=pain of right ankle elicited by active motion at initiation of movement
+pain of right ankle elicited by active motion at initiation of movement (physical finding)	CUI=C2177395	PREF=pain of right ankle elicited by active motion at initiation of movement (physical finding)
+pain of right ankle elicited by motion at initiation of movement	CUI=C2196501	PREF=pain of right ankle elicited by motion at initiation of movement
+pain of right ankle elicited by motion at initiation of movement (physical finding)	CUI=C2196501	PREF=pain of right ankle elicited by motion at initiation of movement (physical finding)
+pain of right foot elicited at initiation of movement	CUI=C2196541	PREF=pain of right foot elicited at initiation of movement
+pain of right foot elicited at initiation of movement (physical finding)	CUI=C2196541	PREF=pain of right foot elicited at initiation of movement (physical finding)
+pain of right knee elicited by motion at initiation of movement	CUI=C2110463	PREF=pain of right knee elicited by motion at initiation of movement
+pain of right knee elicited by motion at initiation of movement (physical finding)	CUI=C2110463	PREF=pain of right knee elicited by motion at initiation of movement (physical finding)
+pain of shoulder elicited by motion at initiation of movement	CUI=C2088488	PREF=pain of shoulder elicited by motion at initiation of movement
+pain of shoulder elicited by motion at initiation of movement (physical finding)	CUI=C2088488	PREF=pain of shoulder elicited by motion at initiation of movement (physical finding)
+pain of thoracolumbar spine at initiation of active movement	CUI=C2115834	PREF=pain of thoracolumbar spine at initiation of active movement
+pain of thoracolumbar spine at initiation of active movement (physical finding)	CUI=C2115834	PREF=pain of thoracolumbar spine at initiation of active movement (physical finding)
+pain of thoracolumbar spine at initiation of passive movement	CUI=C2115835	PREF=pain of thoracolumbar spine at initiation of passive movement
+pain of thoracolumbar spine at initiation of passive movement (physical finding)	CUI=C2115835	PREF=pain of thoracolumbar spine at initiation of passive movement (physical finding)
+pain of thoracolumbar spine elicited at initiation of movement	CUI=C2088491	PREF=pain of thoracolumbar spine elicited at initiation of movement
+pain of thoracolumbar spine elicited at initiation of movement (physical finding)	CUI=C2088491	PREF=pain of thoracolumbar spine elicited at initiation of movement (physical finding)
+pain of toe elicited at initiation of movement	CUI=C2088504	PREF=pain of toe elicited at initiation of movement
+pain of toe elicited at initiation of movement (physical finding)	CUI=C2088504	PREF=pain of toe elicited at initiation of movement (physical finding)
+pain of toe of left foot elicited at initiation of movement	CUI=C2144287	PREF=pain of toe of left foot elicited at initiation of movement
+pain of toe of left foot elicited at initiation of movement (physical finding)	CUI=C2144287	PREF=pain of toe of left foot elicited at initiation of movement (physical finding)
+pain of toe of right foot elicited at initiation of movement	CUI=C2144288	PREF=pain of toe of right foot elicited at initiation of movement
+pain of toe of right foot elicited at initiation of movement (physical finding)	CUI=C2144288	PREF=pain of toe of right foot elicited at initiation of movement (physical finding)
+pain of toes of both feet elicited at initiation of movement	CUI=C2144286	PREF=pain of toes of both feet elicited at initiation of movement
+pain of toes of both feet elicited at initiation of movement (physical finding)	CUI=C2144286	PREF=pain of toes of both feet elicited at initiation of movement (physical finding)
+Pain on abdominal wall movement (finding)	CUI=C0423655	PREF=Pain on abdominal wall movement (finding)
+Pain on joint movement	CUI=C0575033	PREF=Pain on joint movement
+Pain on joint movement (finding)	CUI=C0575033	PREF=Pain on joint movement (finding)
+Pain on movement of cervix (finding)	CUI=C0567231	PREF=Pain on movement of cervix (finding)
+Pain on movement of ovary (finding)	CUI=C0567259	PREF=Pain on movement of ovary (finding)
+Pain on movement of pinna (finding)	CUI=C0576840	PREF=Pain on movement of pinna (finding)
+Pain on movement of skeletal muscle	CUI=C0575069	PREF=Pain on movement of skeletal muscle
+Pain on movement of skeletal muscle (finding)	CUI=C0575069	PREF=Pain on movement of skeletal muscle (finding)
+Pain on movement of skin (finding)	CUI=C0574747	PREF=Pain on movement of skin (finding)
+Pain on movement of uterus (finding)	CUI=C0567086	PREF=Pain on movement of uterus (finding)
+pain shooting down arm triggered by neck movement	CUI=C2032688	PREF=pain shooting down arm triggered by neck movement
+pain shooting down arm triggered by neck movement (symptom)	CUI=C2032688	PREF=pain shooting down arm triggered by neck movement (symptom)
+pain was elicited at the initiation of movement of both feet	CUI=C2196543	PREF=pain was elicited at the initiation of movement of both feet
+pain with eye movement	CUI=C0239430	PREF=pain with eye movement
+pain with eye movement to left	CUI=C2032726	PREF=pain with eye movement to left
+pain with eye movement to left (symptom)	CUI=C2032726	PREF=pain with eye movement to left (symptom)
+pain with eye movement to right	CUI=C2032727	PREF=pain with eye movement to right
+pain with eye movement to right (symptom)	CUI=C2032727	PREF=pain with eye movement to right (symptom)
+Passve movement-shouldr girdle	CUI=C0556864	PREF=Passve movement-shouldr girdle
+patient activity at time of event - involving dancing / rhythmic movement	CUI=C3647084	PREF=patient activity at time of event - involving dancing / rhythmic movement
+patient activity at time of event - involving dancing / rhythmic movement (history)	CUI=C3647084	PREF=patient activity at time of event - involving dancing / rhythmic movement (history)
+Patient has no pain or pain does not interfere with activity or movement	CUI=C3845453	PREF=Patient has no pain or pain does not interfere with activity or movement
+Patient has pain that does not interfere with activity or movement	CUI=C3844520	PREF=Patient has pain that does not interfere with activity or movement
+Perception of movement (function)	CUI=C0026598	PREF=Perception of movement (function)
+Performs oral motor functions	CUI=C0563325	PREF=Performs oral motor functions
+Performs oral motor functions	CUI=C0563325	PREF=Performs oral motor functions
+PM - Passive movements	CUI=C0079991	PREF=PM - Passive movements
+polysomnography: periodic leg movements	CUI=C2111852	PREF=polysomnography: periodic leg movements
+polysomnography: periodic leg movements (procedure)	CUI=C2111852	PREF=polysomnography: periodic leg movements (procedure)
+Poor control of movement (finding)	CUI=C0455918	PREF=Poor control of movement (finding)
+Poor fine and gross motor coordination	CUI=C1855555	PREF=Poor fine and gross motor coordination
+Poor fine motor skills	CUI=C4014389	PREF=Poor fine motor skills
+Poor gross motor coordination	CUI=C0556280	PREF=Poor gross motor coordination
+Poor motor coordination	CUI=C1848453	PREF=Poor motor coordination
+Poor motor skills	CUI=C4479570	PREF=Poor motor skills
+Poor spontaneous movements	CUI=C2675268	PREF=Poor spontaneous movements
+Restricted range of movement in some joints (rare)	CUI=C3151614	PREF=Restricted range of movement in some joints (rare)
+right ankle catches during movement	CUI=C2127603	PREF=right ankle catches during movement
+right ankle catches during movement (symptom)	CUI=C2127603	PREF=right ankle catches during movement (symptom)
+right eye pain with movement	CUI=C2032247	PREF=right eye pain with movement
+right fourth toe 'catches' during movement	CUI=C2127998	PREF=right fourth toe 'catches' during movement
+right fourth toe 'catches' during movement (symptom)	CUI=C2127998	PREF=right fourth toe 'catches' during movement (symptom)
+right great toe 'catches' during movement	CUI=C2127995	PREF=right great toe 'catches' during movement
+right hip catches during movement	CUI=C2127632	PREF=right hip catches during movement
+right hip catches during movement (symptom)	CUI=C2127632	PREF=right hip catches during movement (symptom)
+right index finger 'catches' during movement	CUI=C2127757	PREF=right index finger 'catches' during movement
+right index finger 'catches' during movement (symptom)	CUI=C2127757	PREF=right index finger 'catches' during movement (symptom)
+right inner edge shoulder blade pain unchanged with movement	CUI=C2127687	PREF=right inner edge shoulder blade pain unchanged with movement
+right inner edge shoulder blade pain worse with movement	CUI=C2127686	PREF=right inner edge shoulder blade pain worse with movement
+right knee catches during movement	CUI=C2127578	PREF=right knee catches during movement
+right knee catches during movement (symptom)	CUI=C2127578	PREF=right knee catches during movement (symptom)
+right little finger 'catches' during movement	CUI=C2127760	PREF=right little finger 'catches' during movement
+right little toe 'catches' during movement	CUI=C2127999	PREF=right little toe 'catches' during movement
+right little toe 'catches' during movement (symptom)	CUI=C2127999	PREF=right little toe 'catches' during movement (symptom)
+right middle finger 'catches' during movement	CUI=C2127758	PREF=right middle finger 'catches' during movement
+right middle finger 'catches' during movement (symptom)	CUI=C2127758	PREF=right middle finger 'catches' during movement (symptom)
+right middle toe 'catches' during movement	CUI=C2127997	PREF=right middle toe 'catches' during movement
+right middle toe 'catches' during movement (symptom)	CUI=C2127997	PREF=right middle toe 'catches' during movement (symptom)
+right ring finger 'catches' during movement	CUI=C2127759	PREF=right ring finger 'catches' during movement
+right second toe 'catches' during movement	CUI=C2127996	PREF=right second toe 'catches' during movement
+right shoulder catches during movement	CUI=C2127660	PREF=right shoulder catches during movement
+right shoulder catches during movement (symptom)	CUI=C2127660	PREF=right shoulder catches during movement (symptom)
+right thumb 'catches' during movement	CUI=C2127756	PREF=right thumb 'catches' during movement
+right thumb 'catches' during movement (symptom)	CUI=C2127756	PREF=right thumb 'catches' during movement (symptom)
+right wrist catches during movement	CUI=C2127917	PREF=right wrist catches during movement
+shoulder catches during movement	CUI=C2127659	PREF=shoulder catches during movement
+Shoulder joint - range of movement	CUI=C0575545	PREF=Shoulder joint - range of movement
+Shoulder joint - range of movement - finding	CUI=C1287989	PREF=Shoulder joint - range of movement - finding
+Shoulder joint - range of movement (observable entity)	CUI=C0575545	PREF=Shoulder joint - range of movement (observable entity)
+shoulder joint pain feels better after normal movement	CUI=C2128142	PREF=shoulder joint pain feels better after normal movement
+shoulder joint pain with active movement	CUI=C2126208	PREF=shoulder joint pain with active movement
+shoulder joint pain with active movement (symptom)	CUI=C2126208	PREF=shoulder joint pain with active movement (symptom)
+Shoulder joint painful on movement	CUI=C0575627	PREF=Shoulder joint painful on movement
+Shoulder joint painful on movement (finding)	CUI=C0575627	PREF=Shoulder joint painful on movement (finding)
+shoulder joint stiffness feels better after normal movement	CUI=C2109059	PREF=shoulder joint stiffness feels better after normal movement
+the ankle catches during movement	CUI=C2127602	PREF=the ankle catches during movement
+the elbow catches during movement	CUI=C2127538	PREF=the elbow catches during movement
+the fingers of both hands 'catch' during movement	CUI=C2127767	PREF=the fingers of both hands 'catch' during movement
+the hip catches during movement	CUI=C2030985	PREF=the hip catches during movement
+the knee catches during movement	CUI=C2109427	PREF=the knee catches during movement
+the left ankle catches during movement	CUI=C2127604	PREF=the left ankle catches during movement
+the left elbow catches during movement	CUI=C2127540	PREF=the left elbow catches during movement
+the left fourth toe 'catches' during movement	CUI=C2128004	PREF=the left fourth toe 'catches' during movement
+the left great toe 'catches' during movement	CUI=C2128001	PREF=the left great toe 'catches' during movement
+the left hip catches during movement	CUI=C2127633	PREF=the left hip catches during movement
+the left index finger 'catches' during movement	CUI=C2127763	PREF=the left index finger 'catches' during movement
+the left knee catches during movement	CUI=C2127579	PREF=the left knee catches during movement
+the left little finger 'catches' during movement	CUI=C2127766	PREF=the left little finger 'catches' during movement
+the left little toe 'catches' during movement	CUI=C2128005	PREF=the left little toe 'catches' during movement
+the left middle finger 'catches' during movement	CUI=C2127764	PREF=the left middle finger 'catches' during movement
+the left middle toe 'catches' during movement	CUI=C2128003	PREF=the left middle toe 'catches' during movement
+the left ring finger 'catches' during movement	CUI=C2127765	PREF=the left ring finger 'catches' during movement
+the left second toe 'catches' during movement	CUI=C2128002	PREF=the left second toe 'catches' during movement
+the left shoulder catches during movement	CUI=C2127661	PREF=the left shoulder catches during movement
+the left thumb 'catches' during movement	CUI=C2127762	PREF=the left thumb 'catches' during movement
+the left wrist catches during movement	CUI=C2127918	PREF=the left wrist catches during movement
+the right ankle catches during movement	CUI=C2127603	PREF=the right ankle catches during movement
+the right elbow catches during movement	CUI=C2127539	PREF=the right elbow catches during movement
+the right fourth toe 'catches' during movement	CUI=C2127998	PREF=the right fourth toe 'catches' during movement
+the right great toe 'catches' during movement	CUI=C2127995	PREF=the right great toe 'catches' during movement
+the right hip catches during movement	CUI=C2127632	PREF=the right hip catches during movement
+the right index finger 'catches' during movement	CUI=C2127757	PREF=the right index finger 'catches' during movement
+the right knee catches during movement	CUI=C2127578	PREF=the right knee catches during movement
+the right little finger 'catches' during movement	CUI=C2127760	PREF=the right little finger 'catches' during movement
+the right little toe 'catches' during movement	CUI=C2127999	PREF=the right little toe 'catches' during movement
+the right middle finger 'catches' during movement	CUI=C2127758	PREF=the right middle finger 'catches' during movement
+the right middle toe 'catches' during movement	CUI=C2127997	PREF=the right middle toe 'catches' during movement
+the right ring finger 'catches' during movement	CUI=C2127759	PREF=the right ring finger 'catches' during movement
+the right second toe 'catches' during movement	CUI=C2127996	PREF=the right second toe 'catches' during movement
+the right shoulder catches during movement	CUI=C2127660	PREF=the right shoulder catches during movement
+the right thumb 'catches' during movement	CUI=C2127756	PREF=the right thumb 'catches' during movement
+the right wrist catches during movement	CUI=C2127917	PREF=the right wrist catches during movement
+the shoulder catches during movement	CUI=C2127659	PREF=the shoulder catches during movement
+the toes of both feet 'catch' during movement	CUI=C2128006	PREF=the toes of both feet 'catch' during movement
+the wrist catches during movement	CUI=C2127916	PREF=the wrist catches during movement
+Thoracic spine - painful on movement (finding)	CUI=C0575354	PREF=Thoracic spine - painful on movement (finding)
+Thoracic spine - range of movement - finding	CUI=C1287925	PREF=Thoracic spine - range of movement - finding
+Thoracic spine - range of movement (observable entity)	CUI=C0575281	PREF=Thoracic spine - range of movement (observable entity)
+Thumb joint - range of movement	CUI=C0575905	PREF=Thumb joint - range of movement
+Thumb joint - range of movement - finding	CUI=C1288204	PREF=Thumb joint - range of movement - finding
+Thumb joint - range of movement (observable entity)	CUI=C0575905	PREF=Thumb joint - range of movement (observable entity)
+Thumb joint painful on movement	CUI=C0575966	PREF=Thumb joint painful on movement
+Thumb joint painful on movement (finding)	CUI=C0575966	PREF=Thumb joint painful on movement (finding)
+Thumb joint-range of movement	CUI=C0575905	PREF=Thumb joint-range of movement
+Toe joint - range of movement	CUI=C0576340	PREF=Toe joint - range of movement
+Toe joint - range of movement - finding	CUI=C1288220	PREF=Toe joint - range of movement - finding
+Toe joint - range of movement (observable entity)	CUI=C0576340	PREF=Toe joint - range of movement (observable entity)
+toe joint pain with active movement	CUI=C2108897	PREF=toe joint pain with active movement
+toe joint pain with passive movement	CUI=C2108898	PREF=toe joint pain with passive movement
+Toe joint painful on movement	CUI=C0576390	PREF=Toe joint painful on movement
+Toe joint painful on movement (finding)	CUI=C0576390	PREF=Toe joint painful on movement (finding)
+toe pain was elicited at the initiation of movement	CUI=C2088504	PREF=toe pain was elicited at the initiation of movement
+toes 'catch' during movement	CUI=C2127993	PREF=toes 'catch' during movement
+toes 'catch' during movement (symptom)	CUI=C2127993	PREF=toes 'catch' during movement (symptom)
+toes of both feet 'catch' during movement (symptom)	CUI=C2128006	PREF=toes of both feet 'catch' during movement (symptom)
+toes of left foot 'catch' during movement	CUI=C2128000	PREF=toes of left foot 'catch' during movement
+toes of left foot 'catch' during movement (symptom)	CUI=C2128000	PREF=toes of left foot 'catch' during movement (symptom)
+toes of right foot 'catch' during movement	CUI=C2127994	PREF=toes of right foot 'catch' during movement
+toes of right foot 'catch' during movement (symptom)	CUI=C2127994	PREF=toes of right foot 'catch' during movement (symptom)
+upper back pain along inner edge of right scapula unchanged with movement	CUI=C2127687	PREF=upper back pain along inner edge of right scapula unchanged with movement
+upper back pain along inner edge of right scapula unchanged with movement (symptom)	CUI=C2127687	PREF=upper back pain along inner edge of right scapula unchanged with movement (symptom)
+upper back pain along inner edge of right scapula worse with movement	CUI=C2127686	PREF=upper back pain along inner edge of right scapula worse with movement
+upper back pain along inner edge of right scapula worse with movement (symptom)	CUI=C2127686	PREF=upper back pain along inner edge of right scapula worse with movement (symptom)
+upper back pain in midline improves with movement	CUI=C2129446	PREF=upper back pain in midline improves with movement
+upper back pain in midline improves with movement (symptom)	CUI=C2129446	PREF=upper back pain in midline improves with movement (symptom)
+upper back pain in midline unchanged with movement	CUI=C2129445	PREF=upper back pain in midline unchanged with movement
+upper back pain in midline unchanged with movement (symptom)	CUI=C2129445	PREF=upper back pain in midline unchanged with movement (symptom)
+upper back pain in midline worse with movement	CUI=C2129444	PREF=upper back pain in midline worse with movement
+upper back pain in midline worse with movement (symptom)	CUI=C2129444	PREF=upper back pain in midline worse with movement (symptom)
+Upper motor neuron involvement	CUI=C4229270	PREF=Upper motor neuron involvement
+Upper motor neuron signs	CUI=C0749870	PREF=Upper motor neuron signs
+Weakness of joint movement	CUI=C0575026	PREF=Weakness of joint movement
+Weakness of joint movement (finding)	CUI=C0575026	PREF=Weakness of joint movement (finding)
+wrist catches during movement	CUI=C2127916	PREF=wrist catches during movement
+wrist catches during movement (symptom)	CUI=C2127916	PREF=wrist catches during movement (symptom)
+Wrist joint - range of movement	CUI=C0575717	PREF=Wrist joint - range of movement
+Wrist joint - range of movement - finding	CUI=C1288039	PREF=Wrist joint - range of movement - finding
+Wrist joint - range of movement (observable entity)	CUI=C0575717	PREF=Wrist joint - range of movement (observable entity)
+Wrist joint painful movement	CUI=C0575788	PREF=Wrist joint painful movement
+Wrist joint painful on movement	CUI=C0575788	PREF=Wrist joint painful on movement
+Wrist joint painful on movement (finding)	CUI=C0575788	PREF=Wrist joint painful on movement (finding)
+Wrist joint-range of movement	CUI=C0575717	PREF=Wrist joint-range of movement
+wrist pain was elicited at the initiation of movement	CUI=C2088476	PREF=wrist pain was elicited at the initiation of movement
+wrist pain with active movement	CUI=C2126204	PREF=wrist pain with active movement

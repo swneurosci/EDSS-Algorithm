@@ -1,0 +1,24 @@
+Phase: Decimal
+Input:Token
+Options: control=appelt
+
+
+
+Rule: DECIMAL
+(
+({Token.kind == number}):left
+({Token.string == "."})
+({Token.kind == number}):right
+):match
+-->
+{
+  Node start = ((AnnotationSet) bindings.get("left"))
+               .firstNode();
+  Node end   = ((AnnotationSet) bindings.get("right"))
+               .lastNode();
+
+  FeatureMap features = Factory.newFeatureMap();
+  features.put("rule", "Decimal");
+
+  outputAS.add(start, end, "Decimal", features);
+}

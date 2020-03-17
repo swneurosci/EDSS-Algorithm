@@ -1,0 +1,36 @@
+Phase: EDSSUnchanged
+Input: timeElapsed Sentence EDS Range Number
+Options: control=appelt
+
+
+Rule: EDSSUnchanged
+(
+	({EDS}):umls
+    ({timeElapsed.time=="unchanged"}):t
+
+):match
+-->
+:match.EDSS = {rule = EDSSUnchanged, context = :t.timeElapsed.time}
+
+
+Rule: EDSSUnchanged
+(
+	({EDS}):umls
+    ({timeElapsed.time=="unchanged"}):t
+    ({Number}):num
+
+):match
+-->
+:match.EDSS = {rule = EDSSUnchangedNumber, value = :num.Number.value, context = :t.timeElapsed.time}
+
+
+Rule: EDSSUnchanged
+(
+	({EDS}):umls
+    ({timeElapsed.time=="unchanged"}):t
+    ({Range}):num
+
+):match
+-->
+:match.EDSS = {rule = EDSSUnchangedRange, valueLower = :num.Range.N1, 
+			   value = :num.Range.N2, context = :t.timeElapsed.time}

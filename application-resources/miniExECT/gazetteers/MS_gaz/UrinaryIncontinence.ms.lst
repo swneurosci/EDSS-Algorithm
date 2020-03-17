@@ -1,0 +1,106 @@
+C0270328	daytime urinary incontinence
+C0403671	Dependency urinary incontinence
+C0403671	Dependency urinary incontinence (finding)
+C1720030	Finding of urinary incontinence occurrence
+C1720030	Finding of urinary incontinence occurrence (finding)
+C0489513	Fluid output.urinary incontinence
+C2187991	frequency of urinary incontinence at night while asleep
+C2187991	frequency of urinary incontinence at night while asleep (symptom)
+C2187992	frequency of urinary incontinence during day
+C2187992	frequency of urinary incontinence during day (symptom)
+C3844709	Frequently incontinent (7 or more episodes of urinary incontinence, but with at least one episode of continent voiding)
+C0150042	functional urinary incontinence
+C0150042	functional urinary incontinence (diagnosis)
+C0150042	Functional urinary incontinence (finding)
+C0945576	Functional urinary incontinence [CCC]
+C3472580	Intermittent urinary incontinence
+C3472580	Intermittent urinary incontinence (finding)
+C0869256	Mixed urinary incontinence
+C1720011	Number of urinary incontinence episodes
+C1720011	Number of urinary incontinence episodes (observable entity)
+C0477757	Other specified urinary incontinence
+C0403669	Postural urinary incontinence
+C0403669	Postural urinary incontinence (diagnosis)
+C0403669	Postural urinary incontinence (finding)
+C0150043	Reflex urinary incontinence
+C0150043	Reflex urinary incontinence (finding)
+C0943836	Reflex urinary incontinence [CCC]
+C0943836	Reflex urinary incontinence:Find:Pt:Genitourinary system:Ord:Observed.CCC
+C0943836	Reflex urinary incontinence:Finding:Point in time:Genitourinary system:Ordinal:Observed.CCC
+C0042025	Stress urinary incontinence
+C0042025	Stress urinary incontinence (disorder)
+C0943853	Stress urinary incontinence [CCC]
+C0943853	Stress urinary incontinence:Find:Pt:Genitourinary system:Ord:Observed.CCC
+C0943853	Stress urinary incontinence:Finding:Point in time:Genitourinary system:Ordinal:Observed.CCC
+C0150044	Total urinary incontinence
+C0150044	Total urinary incontinence (finding)
+C0945590	Total urinary incontinence [CCC]
+C0945590	Total urinary incontinence:Find:Pt:Genitourinary system:Ord:Observed.CCC
+C0945590	Total urinary incontinence:Finding:Point in time:Genitourinary system:Ordinal:Observed.CCC
+C2707774	Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility
+C2707773	Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility [CMS Assessment]
+C2707773	Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility:Find:Pt:^Patient:Ord:CMS Assessment
+C2707773	Trial of toileting program has been attempted on admission or reentry or since urinary incontinence was noted in this facility:Finding:Point in time:^Patient:Ordinal:CMS Assessment
+C0042024	UI - Urinary incontinence
+C0042024	Unspecified urinary incontinence
+C0150045	Urge urinary incontinence
+C0150045	Urge urinary incontinence (finding)
+C0943870	Urge urinary incontinence [CCC]
+C0042024	Urinary Incontinence
+C4014056	Urinary incontinence (1 family)
+C2673419	Urinary incontinence (adult)
+C0042024	urinary incontinence (diagnosis)
+C0042024	Urinary incontinence (finding)
+C3552722	Urinary incontinence (in 1 of 3 patients)
+C4012060	Urinary incontinence (in some patients with HSAN2D)
+C4230731	Urinary incontinence (in some patients)
+C3808649	Urinary incontinence (rare)
+C3280712	Urinary incontinence (variable)
+C2188456	urinary incontinence at least twice a week
+C2126234	urinary incontinence before reaching bathroom
+C2126234	urinary incontinence before reaching bathroom (symptom)
+C0262740	Urinary incontinence care: enuresis
+C2236602	urinary incontinence characterized
+C3668875	Urinary incontinence due to bladder problem
+C2368031	urinary incontinence due to cognitive impairment
+C2368031	urinary incontinence due to cognitive impairment (diagnosis)
+C2349678	Urinary incontinence due to cognitive impairment, or severe physical disability or immobility
+C2368033	urinary incontinence due to immobility
+C2368033	urinary incontinence due to immobility (diagnosis)
+C2368032	urinary incontinence due to severe physical disability
+C2368032	urinary incontinence due to severe physical disability (diagnosis)
+C0403666	Urinary incontinence due to urethral sphincter incompetence
+C3645888	urinary incontinence gradual onset
+C3645888	urinary incontinence gradual onset (symptom)
+C2188456	urinary incontinence occurring at least twice a week
+C2188456	urinary incontinence occurring at least twice a week (symptom)
+C0403670	Urinary incontinence of non-organic origin
+C0403670	Urinary incontinence of non-organic origin (finding)
+C0403670	Urinary incontinence of nonorganic origin
+C2188450	urinary incontinence on exam
+C1830535	Urinary incontinence or urinary catheter present
+C0403669	urinary incontinence postural
+C2126233	urinary incontinence preceded by a sudden urge
+C2126233	urinary incontinence preceded by sudden urge
+C2126233	urinary incontinence preceded by sudden urge (symptom)
+C1964101	urinary incontinence presence or absence assessed
+C1964101	urinary incontinence presence or absence assessed (treatment)
+C3645887	urinary incontinence volume
+C3645887	urinary incontinence volume (symptom)
+C3645886	urinary incontinence volume large
+C3645886	urinary incontinence volume large (symptom)
+C3645885	urinary incontinence volume small
+C3645885	urinary incontinence volume small (symptom)
+C3645884	urinary incontinence volume unable to be determined
+C3645884	urinary incontinence volume unable to be determined (symptom)
+C2188452	urinary incontinence while supine on exam
+C2188453	urinary incontinence with anatomical correction
+C0150044	urinary incontinence with continuous leakage
+C0150044	urinary incontinence with continuous leakage (symptom)
+C2127284	urinary incontinence without sensory awareness
+C2127284	urinary incontinence without sensory awareness (symptom)
+C2188457	urinary incontinence without sensory awareness of fullness
+C2188457	urinary incontinence without sensory awareness of fullness (symptom)
+C2188458	urinary incontinence without sensory awareness of wetness
+C2188458	urinary incontinence without sensory awareness of wetness (symptom)
+C1830599	When urinary incontinence occurs

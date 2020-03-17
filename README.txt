@@ -1,0 +1,1 @@
+This is an EDSS algorithm for the MS Society in Swansea.

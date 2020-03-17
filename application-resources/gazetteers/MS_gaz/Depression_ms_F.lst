@@ -1,0 +1,952 @@
+C4067354	(basc-ii) self report of personality clinical scales depression
+C4067354	(basc-ii) self report of personality clinical scales depression (procedure)
+C4067353	(basc-ii) self report of personality clinical scales depression percentile
+C4067353	(basc-ii) self report of personality clinical scales depression percentile (procedure)
+C4067352	(basc-ii) self report of personality clinical scales depression t-score
+C4067352	(basc-ii) self report of personality clinical scales depression t-score (procedure)
+C1535165	(Mania) or (hypomania) or (agitated depression)
+C1535165	(Mania) or (hypomania) or (agitated depression) (disorder)
+C1535540	(Neurotic depression reactive type) or (postnatal depression)
+C1535540	(Neurotic depression reactive type) or (postnatal depression) (disorder)
+C0260942	[V]Screening for depression
+C0260942	[V]Screening for depression (context-dependent category)
+C0260942	[V]Screening for depression (situation)
+C2700639	[X] (Depression: [episode, unspecified] or [NOS (& reactive)] or [depressive disorder NOS]
+C2700639	[X] (Depression: [episode, unspecified] or [NOS (& reactive)] or [depressive disorder NOS] (disorder)
+C0011570	[X] Depression NOS
+C1540579	[X] Depression recurrent: [unspecified] or [monopolar NOS]
+C1540579	[X] Depression recurrent: [unspecified] or [monopolar NOS] (disorder)
+C1579866	[X] Monopolar depression NOS
+C0011579	[X] Reactive depression NOS
+C0011579	[X] Reactive depression NOS
+C1579865	[X] Recurrent episodes of psychogenic depression
+C0349218	[X] Recurrent episodes of reactive depression
+C1541093	[X] Severe depressive episode with psychotic symptoms: (& single episode of [major depression] or [psychogenic depressive psychosis] or [psychotic depression] or [reactive depressive psychosis])
+C1541093	[X] Severe depressive episode with psychotic symptoms: (& single episode of [major depression] or [psychogenic depressive psychosis] or [psychotic depression] or [reactive depressive psychosis]) (disorder)
+C1542445	[X] Severe depressive episode without psychotic symptoms: (& [single episode agitated depression] or [single episode major depression] or [single episode vital depression])
+C1542445	[X] Severe depressive episode without psychotic symptoms: (& [single episode agitated depression] or [single episode major depression] or [single episode vital depression]) (disorder)
+C0556016	[X] Single episode agitated depression without psychotic symptoms
+C0556016	[X] Single episode agitated depression without psychotic symptoms (disorder)
+C0556017	[X] Single episode major depression without psychotic symptoms
+C0556017	[X] Single episode major depression without psychotic symptoms (disorder)
+C1579864	[X] Single episode of masked depression NOS
+C1579920	[X] Single episode of psychotic depression
+C1578541	[X] Vital depression, recurrent without psychotic symptoms
+C0154437	[X]Atypical depression
+C0349212	[X]Bipolar affective disorder, current episode mild or moderate depression
+C0349212	[X]Bipolar affective disorder, current episode mild or moderate depression (disorder)
+C0349213	[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms
+C0349213	[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms (disorder)
+C0011570	[X]Depression NOS
+C1578538	[X]Depression without psychotic symptoms: [recurrent: [major] or [manic-depressive psychosis, depressed type] or [vital] or [current severe episode]] or [endogenous]
+C1578538	[X]Depression without psychotic symptoms: [recurrent: [major] or [manic-depressive psychosis, depressed type] or [vital] or [current severe episode]] or [endogenous] (disorder)
+C1395188	[X]Endogenous depression with psychotic symptoms
+C1578542	[X]Endogenous depression without psychotic symptoms
+C0154412	[X]Major depression, recurrent without psychotic symptoms
+C1579088	[X]Mild anxiety depression
+C1534456	[X]Mixed anxiety and depressive disorder (& mild anxiety depression)
+C1534456	[X]Mixed anxiety and depressive disorder (& mild anxiety depression) (disorder)
+C0011579	[X]Prolonged single episode of reactive depression
+C0011579	[X]Prolonged single episode of reactive depression
+C1540578	[X]Recurrent depressive disorder (& [episodes of depressive reaction] or [episodes of psychogenic depression] or [episodes of reactive depression] or [seasonal depressive disorder])
+C1540578	[X]Recurrent depressive disorder (& [episodes of depressive reaction] or [episodes of psychogenic depression] or [episodes of reactive depression] or [seasonal depressive disorder]) (disorder)
+C1579865	[X]Recurrent episodes of psychogenic depression
+C0349218	[X]Recurrent episodes of reactive depression
+C0154413	[X]Recurrent severe episodes of major depression with psychotic symptoms
+C0154413	[X]Recurrent severe episodes of psychotic depression
+C0556016	[X]Single episode agitated depression without psychotic symptoms
+C0556017	[X]Single episode major depression w'out psychotic symptoms
+C0556017	[X]Single episode major depression without psychotic symptoms
+C1579922	[X]Single episode of major depression with psychotic symptoms
+C1579864	[X]Single episode of masked depression NOS
+C1579920	[X]Single episode of psychotic depression
+C0556017	[X]Single episode vital depression without psychotic symptoms
+C1578541	[X]Vital depression, recurrent without psychotic symptoms
+C3175844	About how many weeks altogether did you feel this way - the total period of depression or loss of interest was [CIDI-SF]
+C3175845	About how many Ws altogether did you feel this way - the total period of depression or loss of interest was
+C3175844	About how many Ws altogether did you feel this way - the total period of depression or loss of interest was:Time:Point in time:^Patient:Quantitative:CIDI-SF
+C3175844	About how many Ws altogether did you feel this way - the total period of depression or loss of interest was:Time:Pt:^Patient:Qn:CIDI-SF
+C1386135	Acute depression
+C1386135	Acute depression (diagnosis)
+C1386135	Acute depression (disorder)
+C3539789	Adult depression screening assessment
+C3539790	Adult depression screening assessment
+C3539789	Adult depression screening assessment:Imp:Pt:^Patient:Ord
+C3539789	Adult depression screening assessment:Impression/interpretation of study:Point in time:^Patient:Ordinal
+C0682790	agents for AOD-concurrent depression
+C0235136	Agitated depression
+C0235136	Agitated depression (diagnosis)
+C0235136	Agitated depression (disorder)
+C0338908	Anxiety depression
+C2874949	Anxiety depression (mild or not persistent)
+C4041543	Assessment of sadness
+C4041543	Assessment of sadness (procedure)
+C4273576	Assessment using BASDEC (Brief Assessment Schedule Depression Cards)
+C4273959	Assessment using BDI 11 (Beck Depression Inventory Second Edition)
+C4273959	Assessment using BDI II - Beck Depression Inventory Second Edition
+C2960240	Assessment using Beck depression inventory
+C2960240	Assessment using Beck depression inventory (procedure)
+C4273959	Assessment using Beck Depression Inventory II
+C4273959	Assessment using Beck Depression Inventory II (procedure)
+C4273576	Assessment using Brief Assessment Schedule Depression Cards
+C4273576	Assessment using Brief Assessment Schedule Depression Cards (procedure)
+C2959919	Assessment using hospital anxiety and depression scale
+C2959919	Assessment using hospital anxiety and depression scale (procedure)
+C4545796	Assessment using MADRS (Montgomery-Ã…sberg Depression Rating Scale)
+C4545796	Assessment using Montgomery-Ã…sberg Depression Rating Scale
+C4545796	Assessment using Montgomery-Ã…sberg Depression Rating Scale (procedure)
+C1718917	Assessment using PHQ-9 depression questionnaire
+C4275234	Assessment using PHQ-9 depression questionnaire
+C4305167	Assessment using Zung self rating depression scale
+C4305167	Assessment using Zung self rating depression scale (procedure)
+C0154437	Atypical depression
+C4067078	basc-ii subtests depression
+C4067078	basc-ii subtests depression (procedure)
+C4067077	basc-ii subtests depression confidence index
+C4067077	basc-ii subtests depression confidence index (procedure)
+C4067076	basc-ii subtests depression percentile
+C4067076	basc-ii subtests depression percentile (procedure)
+C4067075	basc-ii subtests depression t-score
+C4067075	basc-ii subtests depression t-score (procedure)
+C4536592	BASC-III depression clinical scale
+C4536592	BASC-III depression clinical scale (procedure)
+C4536595	BASC-III depression clinical scale confidence index
+C4536595	BASC-III depression clinical scale confidence index (procedure)
+C4536594	BASC-III depression clinical scale percentile
+C4536594	BASC-III depression clinical scale percentile (procedure)
+C4536593	BASC-III depression clinical scale T-score
+C4536593	BASC-III depression clinical scale T-score (procedure)
+C4536697	basc-iii self report of depression
+C4536697	basc-iii self report of depression (procedure)
+C4536699	basc-iii self report of depression percentile
+C4536699	basc-iii self report of depression percentile (procedure)
+C4536698	basc-iii self report of depression t-score
+C4536698	basc-iii self report of depression t-score (procedure)
+C4273584	BASDEC (Brief Assessment Schedule Depression Cards) score
+C0451022	BDI - Beck depression invent
+C0451022	BDI - Beck depression inventory
+C4273555	BDI-II (Beck Depression Inventory Second Edition) score
+C0451040	BDRS - Brief depression rating scale
+C4273865	BDRS (Brief Depression Rating Scale) score
+C0451022	Beck depression inventory
+C0451022	Beck depression inventory (assessment scale)
+C4273555	Beck Depression Inventory II score
+C4273555	Beck Depression Inventory II score (observable entity)
+C2960571	Beck depression inventory score
+C2960571	Beck depression inventory score (observable entity)
+C2237946	Beck depression scale
+C2237946	Beck depression scale (procedure)
+C0005587	Bipolar affective disorder, current episode depression
+C0005587	Bipolar affective disorder, current episode depression (disorder)
+C0349212	Bipolar affective disorder, current episode mild or moderate depression
+C0494396	Bipolar affective disorder, current episode severe depression with psychotic symptoms
+C0349213	Bipolar affective disorder, current episode severe depression without psychotic symptoms
+C4302201	Birth depression with associated metabolic acidemia of cord blood
+C3280191	Bitemporal depression (rare)
+C4273584	Brief Assessment Schedule Depression Cards score
+C4273584	Brief Assessment Schedule Depression Cards score (observable entity)
+C0451040	Brief depression rating scale
+C0451040	Brief depression rating scale (assessment scale)
+C4273865	Brief Depression Rating Scale score
+C4273865	Brief Depression Rating Scale score (observable entity)
+C4228927	Broad depression at inferolateral aspect of eyes
+C0439020	C/O - feeling depressed
+C0439020	C/O - feeling depressed (context-dependent category)
+C0581391	Chronic depression
+C0581391	chronic depression (diagnosis)
+C0581391	Chronic depression (disorder)
+C0581391	chronic depression (symptom)
+C2063289	chronic major depression
+C2063289	chronic major depression (diagnosis)
+C0520671	chronic major depression, recurrent
+C0520666	chronic major depression, single epsiode
+C0520671	chronic recurrent major depression
+C0520671	chronic recurrent major depression (diagnosis)
+C2362914	clinical depression
+C0439020	Complaining of feeling depressed
+C0439020	Complaining of feeling depressed (finding)
+C3494638	Counseling for depression
+C3494638	Counseling for depression (procedure)
+C3494638	Counselling for depression
+C3845528	Depressed mood (e.g., feeling sad, tearful)
+C0011570	Depression
+C0011581	depression
+C0460137	Depression
+C1579931	depression
+C0011581	depression (diagnosis)
+C0011570	depression (disease)
+C4540110	Depression (dominant)
+C0011570	depression (emotion)
+C0011570	Depression (finding)
+C1969970	Depression (HCP)
+C3277399	Depression (in 1 patient)
+C3280361	Depression (in some patients)
+C4534441	Depression (other than bipolar)
+C1579931	depression (symptom)
+C2165505	depression 1-3 days prior to menstruation
+C2165505	depression 1-3 days prior to menstruation (symptom)
+C2165506	depression accompanied
+C2165506	depression accompanied by
+C2165506	depression accompanied by (symptom)
+C2165508	depression accompanied by eating less
+C2165508	depression accompanied by eating less (symptom)
+C2165509	depression accompanied by eating more
+C2165509	depression accompanied by eating more (symptom)
+C2165507	depression accompanied by persistent worry
+C2165507	depression accompanied by persistent worry (symptom)
+C2165510	depression accompanied by sleeping less
+C2165510	depression accompanied by sleeping less (symptom)
+C2165511	depression accompanied by sleeping more
+C2165511	depression accompanied by sleeping more (symptom)
+C1386135	depression acute
+C3169791	Depression adult proto
+C3175850	Depression age last occurrence CIDI-SF
+C3175848	Depression age onset CIDI-SF
+C0235876	DEPRESSION AGGRAVATED
+C0235876	DEPRESSION AGGRAVATED
+C0235136	DEPRESSION AGITATED
+C2165512	depression alternating with periods of elation
+C2165512	depression alternating with periods of elation (symptom)
+C1524032	Depression and Suicide
+C1531668	Depression annual review
+C1531668	Depression annual review (finding)
+C0451107	Depression anxiety scale
+C0451107	Depression anxiety scale (assessment scale)
+C1563067	Depression anxiety stress scales anxiety score
+C1563067	Depression anxiety stress scales anxiety score (observable entity)
+C1562641	Depression anxiety stress scales depression score
+C1562641	Depression anxiety stress scales depression score (observable entity)
+C1562542	Depression anxiety stress scales stress score
+C1562542	Depression anxiety stress scales stress score (observable entity)
+C1578901	Depression as a result of stress
+C0581391	depression chronic
+C4065471	depression disruptive mood dysregulation disorder
+C3494707	Depression education
+C3494707	Depression education (procedure)
+C0011573	DEPRESSION ENDOGENOUS
+C0338895	depression endogenous - first episode
+C0553816	depression endogenous - recurrent
+C3175841	Depression feel worthless CIDI-SF
+C3175827	Depression how often CIDI-SF
+C0085159	depression in a seasonal pattern
+C3697979	depression in remission
+C3175856	Depression interfere activities CIDI-SF
+C1531669	Depression interim review
+C1531669	Depression interim review (finding)
+C2735696	Depression intervention
+C2165516	depression is relieved
+C1319226	Depression level
+C3175823	Depression lost interest CIDI-SF
+C1303151	Depression management program
+C1303151	Depression management program (regime/therapy)
+C1303151	Depression management programme
+C1303151	Depression management programme (regime/therapy)
+C0338897	depression masked
+C3175854	Depression medication CIDI-SF
+C1531670	Depression medication review
+C1531670	Depression medication review (procedure)
+C0520665	depression menopausal
+C0520665	depression menopausal (diagnosis)
+C0011570	DEPRESSION MENTAL
+C0588006	depression mild
+C0520675	depression minor
+C0588007	depression moderate
+C2165513	depression more in evening
+C2165513	depression more in evening (symptom)
+C0424136	depression more in morning
+C0424136	depression more in morning (symptom)
+C2165514	depression more in summer
+C2165514	depression more in summer (symptom)
+C0871610	depression more in winter
+C0871610	depression more in winter (symptom)
+C0460137	Depression motion
+C0011570	Depression NOS
+C0011570	Depression NOS (disorder)
+C3175846	Depression number >2Ws CIDI-SF
+C3175844	Depression number Ws CIDI-SF
+C2051715	depression occurring
+C2736987	Depression other than bipolar in last 7D
+C2739389	Depression other than bipolar in last 7D:Find:7D:^Patient:Ord:MDSv3
+C2739389	Depression other than bipolar in last 7D:Finding:7 days:^Patient:Ordinal:MDSv3
+C0338808	depression post-schizophrenic
+C0362037	depression postoperative
+C0581390	depression postviral
+C2165515	depression preceded by high activity level
+C2165515	depression preceded by high activity level (symptom)
+C0011570	DEPRESSION PSYCHIC
+C0743072	DEPRESSION PSYCHOTIC
+C0743072	DEPRESSION PSYCHOTIC
+C0221074	DEPRESSION PUERPERAL
+C0221074	DEPRESSION PUERPERAL
+C2169543	depression recently
+C0221480	depression recurrent
+C0349712	depression recurrent brief
+C2165517	depression relieved by counseling
+C2165517	depression relieved by counseling (symptom)
+C2165518	depression relieved by good news
+C2165518	depression relieved by good news (symptom)
+C2165519	depression relieved by medication
+C2165519	depression relieved by medication (symptom)
+C1446366	Depression requiring intervention
+C1446366	Depression requiring intervention (finding)
+C0679604	depression scale
+C4049644	Depression Scale (BASC-2)
+C0679604	depression scale (procedure)
+C4036707	Depression scale [UPDRS]
+C4036707	Depression scale UPDRS
+C4036707	Depression scale:Find:Pt:^Patient:Ord:UPDRS
+C4036707	Depression scale:Finding:Point in time:^Patient:Ordinal:UPDRS
+C3483981	Depression score
+C3483980	Depression score [M3]
+C3483980	Depression score:Score:Point in time:^Patient:Quantitative:M3
+C3483980	Depression score:Score:Pt:^Patient:Qn:M3
+C0740218	Depression screen
+C0740218	Depression screening
+C0740218	Depression screening (procedure)
+C4303801	Depression screening declined
+C4303801	Depression screening declined (situation)
+C3494635	Depression Screening Negative
+C3494635	Depression Screening Negative (finding)
+C4520504	Depression screening not done
+C4520504	Depression screening not done (situation)
+C3494636	Depression Screening Positive
+C3494636	Depression screening positive (situation)
+C4303801	Depression screening refused
+C4275234	Depression screening using Patient Health Questionnaire Nine Item score
+C4275234	Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+C4520515	Depression screening using Patient Health Questionnaire Two-Item score
+C4520515	Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+C4275234	Depression screening using PHQ-9 (Patient Health Questionnaire 9) score
+C4275234	Depression screening using PHQ-9 score
+C0085159	depression seasonal pattern
+C0085159	depression seasonal pattern (diagnosis)
+C2165520	depression seasonal pattern w/ few nonseasonal occurrences
+C2165520	depression seasonal pattern with few nonseasonal occurrences
+C2165520	depression seasonal pattern with few nonseasonal occurrences (symptom)
+C0451108	Depression self rating scale
+C0451108	Depression self rating scale (assessment scale)
+C1319135	Depression self-control
+C0588008	depression severe
+C0270488	depression stuporous
+C4084909	Depression Subordinate Domain
+C3175852	Depression tell professional CIDI-SF
+C3175842	Depression thoughts of death CIDI-SF
+C3175829	Depression tired CIDI-SF
+C3175839	Depression trouble concentrating CIDI-SF
+C3176703	Depression trouble sleeping freq QIDS
+C3175837	Depression trouble sleeping QIDS
+C3175831	Depression weight gain loss CIDI-SF
+C0338908	depression with anxiety
+C0338908	depression with anxiety (diagnosis)
+C1852199	Depression with hypomania (bipolar 2)
+C1852198	Depression with mania (bipolar 1)
+C0424136	Depression worse in morning
+C0424136	Depression worse in morning (finding)
+C0424137	Depression worse later in day
+C0424137	Depression worse later in day (finding)
+C0541869	Depression worsened
+C3259174	Depression wt gain loss QIDS
+C3843747	Depression, clinician diagnosis
+C0282126	Depression, Neurotic
+C0011570	Depression, NOS
+C0743072	Depression, psychotic
+C1535539	Depression: [reactive (neurotic)] or [postnatal]
+C1535539	Depression: [reactive (neurotic)] or [postnatal] (disorder)
+C2004268	Depression: [single major episode] or [agitated] or [endogenous (including first episode)]
+C2004268	Depression: [single major episode] or [agitated] or [endogenous (including first episode)] (disorder)
+C0943994	Depression:Find:24H:^Patient:Ord:Reported.HIV-SSC
+C1716769	Depression:Find:Pt:^Patient:Ord:MDS
+C0943994	Depression:Finding:24 hours:^Patient:Ordinal:Reported.HIV-SSC
+C1716769	Depression:Finding:Point in time:^Patient:Ordinal:MDS
+C0743072	Depressive psychoses
+C0743072	depressive psychosis
+C0011579	depressive reaction
+C0086132	Depressive symptoms
+C2095624	discussed concerns about depression
+C2095624	discussed concerns about depression (treatment)
+C3176524	Diurnal variation depression DI-PAD
+C3176525	Diurnal variation of depression
+C3176524	Diurnal variation of depression [DI-PAD]
+C3176524	Diurnal variation of depression:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4
+C3176524	Diurnal variation of depression:Finding:Point in time:^Patient:Ordinal:DI-PAD CGP V 1.4
+C3495058	Documentation of depression medication action plan
+C3495058	Documentation of depression medication action plan (procedure)
+C0338715	Drug-induced depression
+C0451108	DSRS - Depression self rating scale
+C3176492	Dysphoria - depression
+C3176491	Dysphoria - depression [DI-PAD]
+C3176491	Dysphoria - depression DI-PAD
+C3176491	Dysphoria - depression:Find:Pt:^Patient:Ord:DI-PAD CGP V 1.4
+C3176491	Dysphoria - depression:Finding:Point in time:^Patient:Ordinal:DI-PAD CGP V 1.4
+C2199612	eating binges followed by guilt and depression
+C2199612	eating binges followed by guilt and depression (symptom)
+C0679108	emotional and psychiatric depression
+C0086132	emotional depression
+C0086132	emotional depression
+C0260942	Encounter due to screening for depression
+C0011573	endogenous depression
+C0338895	Endogenous depression - first
+C0338895	endogenous depression - first episode
+C0338895	endogenous depression - first episode (diagnosis)
+C0553816	Endogenous depression - recurrent
+C0553816	Endogenous depression - recurrent (diagnosis)
+C0553816	Endogenous depression - recurrent (disorder)
+C0011573	Endogenous depression (diagnosis)
+C0011573	Endogenous depression (disorder)
+C0011573	Endogenous depression [Ambiguous]
+C0338895	Endogenous depression first episode
+C0338895	Endogenous depression first episode (disorder)
+C1395188	Endogenous depression with psychotic symptoms
+C0553816	Endogenous depression-recurr.
+C2219874	euphoria alternating with periods of depression
+C2219874	euphoria alternating with periods of depression (symptom)
+C2165513	evening depression
+C1976716	Expresses sadness &or anger &or empty feeling over lost roles &or status
+C1716703	Expresses sadness &or anger &or empty feeling over lost roles &or status:Find:Pt:^Patient:Ord:MDS
+C1716703	Expresses sadness &or anger &or empty feeling over lost roles &or status:Finding:Point in time:^Patient:Ordinal:MDS
+C1716703	Expresses sadness/anger/empty feeling over lost roles/status [Minimum Data Set]
+C2165516	factors relieving depression
+C2165516	factors relieving depression (symptom)
+C0455383	Family history of depression
+C0455383	Family history: Depression
+C0455383	Family history: Depression (context-dependent category)
+C0455383	Family history: Depression (situation)
+C0455435	Family history: Puerperal depression
+C0455435	Family history: Puerperal depression (context-dependent category)
+C0455435	Family history: Puerperal depression (situation)
+C2707455	Feeling down, depressed or hopeless in last 2 weeks.frequency [Reported PHQ-9 CMS]
+C2707453	Feeling down, depressed or hopeless in last 2 weeks.presence [Reported PHQ-9 CMS]
+C2924356	Feeling down, depressed or hopeless in last 2W.frequency
+C2707455	Feeling down, depressed or hopeless in last 2W.frequency:Find:2W:^Patient:Ord:Reported.PHQ-9.CMS
+C2707455	Feeling down, depressed or hopeless in last 2W.frequency:Finding:2 weeks:^Patient:Ordinal:Reported.PHQ-9.CMS
+C2924357	Feeling down, depressed or hopeless in last 2W.presence
+C2707453	Feeling down, depressed or hopeless in last 2W.presence:Find:2W:^Patient:Ord:Reported.PHQ-9.CMS
+C2707453	Feeling down, depressed or hopeless in last 2W.presence:Finding:2 weeks:^Patient:Ordinal:Reported.PHQ-9.CMS
+C1715513	Feeling down, depressed, or hopeless in last 2 weeks [Reported.PHQ]
+C2924103	Feeling down, depressed, or hopeless in last 2W
+C1715513	Feeling down, depressed, or hopeless in last 2W:Find:2W:^Patient:Ord:Reported.PHQ
+C1715513	Feeling down, depressed, or hopeless in last 2W:Finding:2 weeks:^Patient:Ordinal:Reported.PHQ
+C0455770	Feeling of loss of feeling
+C0455770	Feeling of loss of feeling (finding)
+C3536794	Feeling of sadness
+C1688635	Feeling sad
+C2706102	Feeling sad
+C3536794	Feeling sad
+C2706124	Feeling sad [CARE]
+C3175863	Feeling sad in past 7 days [QIDS]
+C3175864	Feeling sad in past 7D
+C3175863	Feeling sad in past 7D:Find:7D:^Patient:Ord:QIDS
+C3175863	Feeling sad in past 7D:Finding:7 days:^Patient:Ordinal:QIDS
+C3175863	Feeling sad QIDS
+C2706102	Feeling Sad:-:Point in time:^Patient:-
+C2706102	Feeling sad:-:Pt:^Patient:-
+C2706124	Feeling sad:Find:Pt:^Patient:Ord:CARE
+C2706124	Feeling sad:Finding:Point in time:^Patient:Ordinal:CARE
+C0455383	FH: Depression
+C0428700	Finding of single stimulus depression
+C0428700	Finding of single stimulus depression (finding)
+C0455503	H/O: depression
+C0455503	H/O: depression (situation)
+C0451221	HAD - Hospital anxiety and depression scale
+C1303271	HAD scale: depression score
+C1303271	HAD scale: depression score (observable entity)
+C0451221	HADS - Hospital anxiety and depression scale
+C4545802	HAM-D (Hamilton Depression Rating Scale) score
+C4545802	HAM-D (Hamilton Rating Scale for Depression) score
+C0451203	HAMD - Hamilton rating scale for depression
+C2021166	Hamilton depression rating scale (HDRS)
+C2021166	Hamilton depression rating scale (HDRS) (procedure)
+C0451203	Hamilton rating scale for depression
+C0451203	Hamilton rating scale for depression (assessment scale)
+C4545802	Hamilton Rating Scale for Depression score
+C4545802	Hamilton Rating Scale for Depression score (observable entity)
+C0455503	Has had depression
+C2029730	headache preceded by depression
+C2029730	headache preceded by depression (symptom)
+C4521427	HEDIS 2018 Depression Screen
+C4521426	HEDIS 2018 Value Set - Depression Screen
+C4521427	HEDIS 2018 Value Set - Depression Screen
+C4521427	HEDIS 2018 Value Set - Depression Screen:-:Point in time:^Patient:-
+C4521427	HEDIS 2018 Value Set - Depression Screen:-:Pt:^Patient:-
+C0455503	History of - depression
+C0455503	History of - depression (context-dependent category)
+C0455503	History of - depression (situation)
+C0455503	History of depression
+C0455503	History of depression (situation)
+C1303270	Hospital Anxiety and Depression (HAD) scale: anxiety score
+C1303270	Hospital Anxiety and Depression (HAD) scale: anxiety score (observable entity)
+C1303271	Hospital Anxiety and Depression (HAD) scale: depression score
+C1303271	Hospital Anxiety and Depression (HAD) scale: depression score (observable entity)
+C0451221	Hospital anxiety and depression scale
+C0451221	Hospital anxiety and depression scale (assessment scale)
+C3539657	Hospital Anxiety and Depression Scale Questionnaire
+C1303270	Hospital Anxiety and Depression scale: anxiety score
+C1303270	Hospital Anxiety and Depression scale: anxiety score (observable entity)
+C1303271	Hospital Anxiety and Depression scale: depression score
+C1303271	Hospital Anxiety and Depression scale: depression score (observable entity)
+C4085647	How Much Distress Feeling Sad
+C0451203	HRSD - Hamilton rating scale for depression
+C4545802	HRSD (Hamilton Rating Scale for Depression) score
+C3698779	I could not stop feeling sad in past 7 days [PROMIS]
+C2963867	I could not stop feeling sad in past 7D
+C3698779	I could not stop feeling sad in past 7D:Find:7D:^Patient:Ord:PROMIS
+C3698779	I could not stop feeling sad in past 7D:Finding:7 days:^Patient:Ordinal:PROMIS
+C1719140	Indicators of depression, anxiety, sad mood
+C1717050	Indicators of depression, anxiety, sad mood Set
+C1717050	Indicators of depression, anxiety, sad mood:-:Point in time:^Patient:Set
+C1717050	Indicators of depression, anxiety, sad mood:-:Pt:^Patient:Set
+C2224563	Instructions - self-help group for families of depression patients (treatment)
+C0011574	Involutional depression
+C0011574	involutional depression (diagnosis)
+C0011574	Involutional depression (disorder)
+C2078985	involutional depression in full remission
+C2078985	involutional depression in full remission (diagnosis)
+C2585007	Knowledge level about depression management
+C2585007	Knowledge level about depression management (observable entity)
+C0451254	Leeds scale for the self-assessment of anxiety & depression
+C0451254	Leeds scale for the self-assessment of anxiety and depression
+C0451254	Leeds scale for the self-assessment of anxiety and depression (assessment scale)
+C0451254	Leeds scales for the self-assessment of anxiety and depression
+C0451254	Leeds scales for the self-assessment of anxiety and depression (assessment scale)
+C1319226	Level of depression
+C1319226	Level of depression (observable entity)
+C3841875	Listen to you when you were feeling down or upset
+C1269683	major depression
+C0270463	major depression - in complete remission
+C0270462	major depression - in partial remission
+C0270461	major depression - in remission
+C3275630	Major depression (rare)
+C0270463	Major depression in complete remission
+C0270463	Major depression in complete remission (disorder)
+C0270463	Major depression in full remission
+C0270463	Major depression in full remission (disorder)
+C0270462	Major depression in partial remission
+C0270462	Major depression in partial remission (disorder)
+C0270461	Major depression in remission
+C0270461	Major depression in remission (disorder)
+C0270461	Major depression in remission, NOS
+C1282644	major depression melancholic type
+C0270455	major depression mild
+C4304080	major depression minimal
+C0270456	major depression moderate
+C4304584	major depression moderately severe
+C1269683	Major depression NOS
+C0154409	major depression recurrent episodes
+C4304084	major depression recurrent minimal
+C4304083	major depression recurrent moderately severe
+C0154413	major depression recurrent severe with psychosis
+C0270475	major depression recurrent severe with psychotic features, mood-congruent
+C0270476	major depression recurrent severe with psychotic features, mood-incongruent
+C0520672	major depression recurrent with catatonic features
+C3472470	major depression severe
+C0270458	major depression severe with psychotic features
+C0270459	major depression severe with psychotic features mood-congruent
+C0270460	major depression severe with psychotic features mood-incongruent
+C0270457	major depression severe without psychotic features
+C0270467	major depression single episode severe w/ psychotic features, mood congruent
+C0270468	major depression single episode severe w/ psychotic features, mood-incongruent
+C0236763	Major depression single episode, in partial remission
+C0236763	Major depression single episode, in partial remission (disorder)
+C4518519	Major depression with psychotic features
+C4518519	Major depression with psychotic features (disorder)
+C0270461	Major depression, in remission
+C1282644	Major depression, melancholic type
+C1282644	Major depression, melancholic type (diagnosis)
+C1282644	Major depression, melancholic type (disorder)
+C1282644	Major depression, melancholic type (disorder) [Ambiguous]
+C1269683	Major depression, NOS
+C0520674	major depression, recurrent - with postpartum onset
+C0520674	major depression, recurrent - with postpartum onset (diagnosis)
+C0270477	major depression, recurrent, in remission
+C3665435	major depression, recurrent, mild episode
+C0338890	major depression, recurrent, moderate episode
+C0338890	major depression, recurrent, moderate episode (diagnosis)
+C0024517	major depression, single episode
+C0024517	major depression, single episode (diagnosis)
+C0024517	Major depression, single episode (disorder)
+C0520667	major depression, single episode with catatonic features
+C0520667	major depression, single episode with catatonic features (diagnosis)
+C0520668	major depression, single episode with melancholic features
+C0520668	major depression, single episode with melancholic features (diagnosis)
+C2062769	major depression, single episode without melancholia or psychotic features
+C0270470	Major depression, single episode, in complete remission
+C0270470	Major depression, single episode, in complete remission (disorder)
+C0270470	Major depression, single episode, in full remission
+C0236763	Major depression, single episode, in partial remission
+C0024517	Major depression, single episode, NOS
+C2062770	major depression, single episode, without psychotic features, with melancholia
+C0005586	Manic depression
+C4534442	Manic depression (bipolar disease)
+C1716770	Manic depression [Minimum Data Set]
+C2739390	Manic depression other than schizophrenia in last 7 days [MDSv3]
+C2737129	Manic depression other than schizophrenia in last 7D
+C2739390	Manic depression other than schizophrenia in last 7D:Find:7D:^Patient:Ord:MDSv3
+C2739390	Manic depression other than schizophrenia in last 7D:Finding:7 days:^Patient:Ordinal:MDSv3
+C1716770	Manic depression:Find:Pt:^Patient:Ord:MDS
+C1716770	Manic depression:Finding:Point in time:^Patient:Ordinal:MDS
+C0424950	Manic-depression assoc member
+C0424950	Manic-depression association member
+C0424950	Manic-depression association member (finding)
+C2919392	Marks and Mathews fear questionnaire total associated anxiety and depression score
+C2919392	Marks and Mathews fear questionnaire total associated anxiety and depression score (observable entity)
+C0338897	Masked depression
+C0338897	Masked depression (diagnosis)
+C0338897	Masked depression (disorder)
+C0520665	Menopausal depression
+C0520665	Menopausal depression (disorder)
+C0520665	Menopausal depression, NOS
+C0011570	Mental Depression
+C0588006	Mild depression
+C0588006	Mild depression (diagnosis)
+C0588006	Mild depression (disorder)
+C3810454	Mild depression and delay in both scotopic and photopic function on electroretinography
+C0270455	Mild major depression
+C0270455	Mild major depression (diagnosis)
+C0270455	Mild major depression (disorder)
+C0154403	Mild major depression, single episode
+C0154403	Mild major depression, single episode (diagnosis)
+C0154403	Mild major depression, single episode (disorder)
+C0154410	Mild recurrent major depression
+C0154410	mild recurrent major depression (diagnosis)
+C0154410	Mild recurrent major depression (disorder)
+C4305327	Minimal depression
+C4305327	Minimal depression (disorder)
+C4304080	Minimal major depression
+C4304080	Minimal major depression (diagnosis)
+C4304080	Minimal major depression (disorder)
+C4304081	Minimal major depression one episode
+C4304081	Minimal major depression single episode
+C4304081	Minimal major depression single episode (disorder)
+C4304081	minimal major depression, single episode
+C4304081	minimal major depression, single episode (diagnosis)
+C4304084	Minimal recurrent major depression
+C4304084	Minimal recurrent major depression (diagnosis)
+C4304084	Minimal recurrent major depression (disorder)
+C0588007	Moderate depression
+C0588007	Moderate depression (diagnosis)
+C0588007	Moderate depression (disorder)
+C2078986	moderate involutional depression
+C2078986	moderate involutional depression (diagnosis)
+C0270456	Moderate major depression
+C0270456	Moderate major depression (diagnosis)
+C0270456	Moderate major depression (disorder)
+C0154404	Moderate major depression, single episode
+C0154404	Moderate major depression, single episode (diagnosis)
+C0154404	Moderate major depression, single episode (disorder)
+C2104807	moderate postpartum depression
+C2104807	moderate postpartum depression (diagnosis)
+C0154411	Moderate recurrent major depression
+C0154411	moderate recurrent major depression (diagnosis)
+C0154411	Moderate recurrent major depression (disorder)
+C4539579	Moderate sternal depression (in 1 patient)
+C4304583	Moderately severe depression
+C4304583	Moderately severe depression (disorder)
+C4304584	Moderately severe major depression
+C4304584	Moderately severe major depression (diagnosis)
+C4304584	Moderately severe major depression (disorder)
+C4304082	Moderately severe major depression one episode
+C4304082	Moderately severe major depression single episode
+C4304082	Moderately severe major depression single episode (disorder)
+C4304082	moderately severe major depression, single episode
+C4304082	moderately severe major depression, single episode (diagnosis)
+C4304083	Moderately severe recurrent major depression
+C4304083	Moderately severe recurrent major depression (diagnosis)
+C4304083	Moderately severe recurrent major depression (disorder)
+C0011570	monopolar depression
+C0011570	Monopolar depression NOS
+C2960593	Montgomery-Ã…sberg depression rating scale
+C2960593	Montgomery-Ã…sberg depression rating scale (assessment scale)
+C0424136	morning depression
+C3533031	My mood rapidly cycled in terms of anxiety, anger, and depression in last W
+C3699297	My mood rapidly cycled in terms of anxiety, anger, and depression in last W:Find:1W:^Patient:Ord:BSL-23
+C3699297	My mood rapidly cycled in terms of anxiety, anger, and depression in last W:Finding:1 week:^Patient:Ordinal:BSL-23
+C3699297	My mood rapidly cycled in terms of anxiety, anger, and depression in last week [BSL-23]
+C3531727	Negative screening for depression on PHQ-9
+C3531727	Negative screening for depression on PHQ-9 (Patient Health Questionnaire 9)
+C3531727	Negitive screening for depression on Patient Health Questionnaire 9 (finding)
+C0011579	Neurotic (reactive) depression
+C0282126	Neurotic depression
+C0011579	Neurotic depression reactive type
+C0011579	Neurotic Depressive Reaction
+C3842853	No depression, or not worse early
+C3839214	No history of depression
+C3839214	No history of depression (situation)
+C3259498	Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good [HRQOL]
+C3257930	Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many Ds during the past 30D was your mental health not good
+C3259498	Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many Ds during the past 30D was your mental health not good:NRat:30D:^Patient:Qn:HRQOL
+C3259498	Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many Ds during the past 30D was your mental health not good:Number = Count/Time:30 days:^Patient:Quantitative:HRQOL
+C3836625	nursing goals postpartum no signs of depression
+C1446277	On depression register
+C1446277	On depression register (finding)
+C2130233	pastoral care requested due to pain/depression
+C3647061	patient counseling: depression
+C3647061	patient counseling: depression (treatment)
+C1532102	Patient given advice about management of depression
+C1532102	Patient given advice about management of depression (context-dependent category)
+C1532102	Patient given advice about management of depression (regime/therapy)
+C1532102	Patient given advice about management of depression (situation)
+C2051715	pattern of depression
+C2051715	pattern of depression (symptom)
+C4035115	Periods of sadness or guilt greater than normal, never sustained for days or weeks
+C1387804	Persistent anxiety depression
+C4482370	Plan of care includes depression intervention
+C2735695	Plan of care includes depression intervention [CMS Assessment]
+C2735695	Plan of care includes depression intervention:Find:Pt:^Patient:Ord:CMS Assessment
+C2735695	Plan of care includes depression intervention:Finding:Point in time:^Patient:Ordinal:CMS Assessment
+C3531726	Positive screening for depression on Patient Health Questionnaire 9
+C3531726	Positive screening for depression on Patient Health Questionnaire 9 (finding)
+C3531726	Positive screening for depression on PHQ-9
+C3531726	Positive screening for depression on PHQ-9 (Patient Health Questionnaire 9)
+C0520665	Postmenopausal depression, NOS
+C3843186	Prescription medicine for depression or anxiety
+C0338629	Presenile dementia with depression
+C0338629	Presenile dementia with depression (disorder)
+C0338629	Presenile dementia+depression
+C4294900	prev med screening for adolescent depression impression and score
+C3494634	prev med standard depression screening tool completed for adolescent
+C3494633	prev med standard depression screening tool completed for adult
+C3494636	preventive med standardized depression screening: positive for symptoms
+C4295056	preventive medicine screening for adolescent depression
+C4295056	preventive medicine screening for adolescent depression (treatment)
+C3693660	preventive medicine screening for adult depression
+C3693660	preventive medicine screening for adult depression (treatment)
+C3693659	preventive medicine screening for adult depression impression and score
+C0270458	Psychotic depression
+C0743072	psychotic depression
+C0270458	Psychotic depression, NOS
+C0011580	Psychotic reactive depression
+C0011579	Reactive (neurotic) depression
+C0011579	REACTIVE DEPRESSION
+C0011579	reactive depression (diagnosis)
+C0011579	Reactive depression (situational)
+C0011579	Reactive depression (situational) (disorder)
+C0011579	Reactive depression (situational) (finding)
+C2169543	recent depression
+C2169543	recent depression (symptom)
+C0154409	Recurr. major depression NOS
+C3665435	Recurr.major depression-mild
+C0338891	Recurr.major depression-severe
+C0154409	Recurr.major depression-unspec
+C0221480	Recurrent depression
+C0221480	recurrent depression (diagnosis)
+C0221480	Recurrent depression (disorder)
+C0221480	recurrent depression (symptom)
+C1541764	Recurrent depression: [major episode] or [endogenous]
+C1541764	Recurrent depression: [major episode] or [endogenous] (disorder)
+C4290113	recurrent episodes of endogenous depression
+C0154409	recurrent episodes of major depression
+C4290114	recurrent episodes of psychogenic depression
+C4290115	recurrent episodes of reactive depression
+C4290117	recurrent episodes of vital depression
+C0154409	recurrent major depression
+C0154409	recurrent major depression (diagnosis)
+C0154409	Recurrent major depression (disorder)
+C3665667	Recurrent major depression in complete remission
+C3665667	Recurrent major depression in complete remission (disorder)
+C3665667	recurrent major depression in full remission
+C3665667	recurrent major depression in full remission (diagnosis)
+C3665667	Recurrent major depression in full remission (disorder)
+C0236764	Recurrent major depression in partial remission
+C0236764	recurrent major depression in partial remission (diagnosis)
+C0236764	Recurrent major depression in partial remission (disorder)
+C0270477	Recurrent major depression in remission
+C0270477	recurrent major depression in remission (diagnosis)
+C0270477	Recurrent major depression in remission (disorder)
+C0520673	recurrent major depression with atypical features
+C0520673	recurrent major depression with atypical features (diagnosis)
+C0520672	recurrent major depression with catatonic features
+C0520672	recurrent major depression with catatonic features (diagnosis)
+C0701819	recurrent major depression with melancholia
+C0701819	recurrent major depression with melancholia (diagnosis)
+C0154413	recurrent major depression with psychotic features
+C0154413	recurrent major depression with psychotic features (diagnosis)
+C2062772	recurrent major depression without melancholia
+C2062772	recurrent major depression without melancholia (diagnosis)
+C0154409	Recurrent major depression, NOS
+C2874925	Recurrent severe episodes of major depression with mood-congruent psychotic symptoms
+C2874926	Recurrent severe episodes of major depression with mood-incongruent psychotic symptoms
+C2874927	Recurrent severe episodes of major depression with psychotic symptoms
+C2874929	Recurrent severe episodes of psychotic depression
+C1446278	Removed from depression register
+C1446278	Removed from depression register (finding)
+C3536794	Sadness
+C3693659	screening for adult depression: impression and score
+C3693659	screening for adult depression: impression and score (treatment)
+C0260942	Screening for depression
+C3251083	screening for depression
+C3251083	screening for depression (treatment)
+C0085159	seasonal depression
+C0085159	seasonal depression (symptom)
+C2165520	seasonal depression with few nonseasonal occurrences
+C0085159	seasonal pattern depression
+C1319135	Self-control behavior: depression
+C1319135	Self-control behavior: depression (observable entity)
+C2224563	self-help group for families of depression patients
+C2224563	self-help group for families of depression patients (treatment)
+C0588008	Severe depression
+C0588008	Severe depression (diagnosis)
+C0588008	Severe depression (disorder)
+C3472470	Severe major depression
+C3472470	severe major depression (diagnosis)
+C3472470	Severe major depression (disorder)
+C0270458	Severe major depression with psychotic features
+C0270458	Severe major depression with psychotic features (disorder)
+C0270459	Severe major depression with psychotic features, mood-congruent
+C0270459	Severe major depression with psychotic features, mood-congruent (disorder)
+C0270460	Severe major depression with psychotic features, mood-incongruent
+C0270460	Severe major depression with psychotic features, mood-incongruent (disorder)
+C0270458	Severe major depression with psychotic features, NOS
+C0270457	Severe major depression without psychotic features
+C0270457	Severe major depression without psychotic features (disorder)
+C3472681	Severe major depression, single episode
+C3472681	Severe major depression, single episode (diagnosis)
+C3472681	Severe major depression, single episode (disorder)
+C0154406	Severe major depression, single episode, with psychotic features
+C0154406	Severe major depression, single episode, with psychotic features (disorder)
+C0270467	Severe major depression, single episode, with psychotic features, mood-congruent
+C0270467	Severe major depression, single episode, with psychotic features, mood-congruent (disorder)
+C0270468	Severe major depression, single episode, with psychotic features, mood-incongruent
+C0270468	Severe major depression, single episode, with psychotic features, mood-incongruent (diagnosis)
+C0270468	Severe major depression, single episode, with psychotic features, mood-incongruent (disorder)
+C0154405	Severe major depression, single episode, without psychotic features
+C0154405	Severe major depression, single episode, without psychotic features (disorder)
+C0342071	Severe postnatal depression
+C0342071	Severe postnatal depression (disorder)
+C0342071	severe postpartum depression
+C0342071	severe postpartum depression (diagnosis)
+C2104808	severe postpartum depression with psychotic behavior
+C2104808	severe postpartum depression with psychotic behavior (diagnosis)
+C2118796	severe recurrent major depression
+C2118796	severe recurrent major depression (diagnosis)
+C2118796	Severe recurrent major depression (disorder)
+C0154413	severe recurrent major depression with psychosis
+C0154413	severe recurrent major depression with psychosis (diagnosis)
+C0154413	Severe recurrent major depression with psychotic features
+C0154413	severe recurrent major depression with psychotic features (diagnosis)
+C0154413	Severe recurrent major depression with psychotic features (disorder)
+C0270475	Severe recurrent major depression with psychotic features, mood-congruent
+C0270475	Severe recurrent major depression with psychotic features, mood-congruent (diagnosis)
+C0270475	Severe recurrent major depression with psychotic features, mood-congruent (disorder)
+C0270476	Severe recurrent major depression with psychotic features, mood-incongruent
+C0270476	Severe recurrent major depression with psychotic features, mood-incongruent (diagnosis)
+C0270476	Severe recurrent major depression with psychotic features, mood-incongruent (disorder)
+C0154412	Severe recurrent major depression without psychotic features
+C0154412	severe recurrent major depression without psychotic features (diagnosis)
+C0154412	Severe recurrent major depression without psychotic features (disorder)
+C3266785	Severe recurrent seasonal major depression
+C3266785	Severe recurrent seasonal major depression (disorder)
+C0154406	severe single episode major depression with psychotic features
+C0154406	severe single episode major depression with psychotic features (diagnosis)
+C0270467	severe single episode major depression with psychotic features, mood-congruent
+C0270467	severe single episode major depression with psychotic features, mood-congruent (diagnosis)
+C0154405	severe single episode major depression without psychotic features
+C0154405	severe single episode major depression without psychotic features (diagnosis)
+C0556016	Single episode agitated depression without psychotic symptoms
+C0154408	single episode major depression in full remission
+C0154408	single episode major depression in full remission (diagnosis)
+C0236763	single episode major depression in partial remission
+C0236763	single episode major depression in partial remission (diagnosis)
+C2062771	single episode major depression in remission
+C2062771	single episode major depression in remission (diagnosis)
+C0556017	Single episode major depression w'out psychotic symptoms
+C0520669	single episode major depression with atypical features
+C0520669	single episode major depression with atypical features (diagnosis)
+C2062770	single episode major depression with melancholia without psychotic features
+C2062770	single episode major depression with melancholia without psychotic features (diagnosis)
+C0338885	single episode major depression with psychotic features
+C0338885	single episode major depression with psychotic features (diagnosis)
+C2062769	single episode major depression without melancholia or psychotic features
+C2062769	single episode major depression without melancholia or psychotic features (diagnosis)
+C0556017	Single episode major depression without psychotic symptoms
+C4268302	Single episode of 'masked' depression NOS
+C4290108	single episode of agitated depression
+C0024517	single episode of major depression
+C0270470	Single episode of major depression in full remission
+C0270470	Single episode of major depression in full remission (disorder)
+C2874911	Single episode of major depression with mood-congruent psychotic symptoms
+C2874912	Single episode of major depression with mood-incongruent psychotic symptoms
+C2874913	Single episode of major depression with psychotic symptoms
+C4290110	single episode of psychogenic depression
+C2874915	Single episode of psychotic depression
+C4290111	single episode of reactive depression
+C1395203	single episode of vital depression
+C0024517	Single major depression NOS
+C0154403	Single major depression-mild
+C0338884	Single major depression-severe
+C0024517	Single major depression-unspec
+C0428700	Single stimulus depression
+C0428700	Single stimulus depression - finding
+C3494634	Standardized adolescent depression screening tool completed
+C3494634	Standardized adolescent depression screening tool completed (situation)
+C3494633	Standardized adult depression screening tool completed
+C3494633	Standardized adult depression screening tool completed (situation)
+C3494634	standardized depression screening completed for adolescent
+C3494633	standardized depression screening completed for adult
+C2367534	standardized depression screening results documented
+C2367535	standardized depression screening revealed clinically significant symptoms
+C2367535	standardized depression screening revealed clinically significant symptoms (treatment)
+C2367536	standardized depression screening revealed mild to moderate symptoms
+C2367536	standardized depression screening revealed mild to moderate symptoms (treatment)
+C2367537	standardized depression screening revealed no significant symptoms
+C2367537	standardized depression screening revealed no significant symptoms (treatment)
+C2367538	standardized depression screening revealed no symptoms
+C3494633	standardized depression screening tool completed for adult
+C3494633	standardized depression screening tool completed for adult (treatment)
+C4482353	Standardized depression screening was conducted
+C2735650	Standardized depression screening was conducted [CMS Assessment]
+C2735650	Standardized depression screening was conducted:Find:Pt:^Patient:Nom:CMS Assessment
+C2735650	Standardized depression screening was conducted:Finding:Point in time:^Patient:Nominal:CMS Assessment
+C2367538	standardized depression screening: negative for symptoms
+C2367538	standardized depression screening: negative for symptoms (treatment)
+C3494636	standardized depression screening: positive for symptoms
+C3494636	standardized depression screening: positive for symptoms (treatment)
+C0270488	Stuporous depression
+C0270488	Stuporous depression (diagnosis)
+C0270488	Stuporous depression (disorder)
+C2165514	summer depression
+C3532620	Suspected depression
+C4035447	Sustained depression 1 week or more
+C4035445	Sustained depression with vegetative symptoms and suicidal thoughts or intent
+C4035446	Sustained depression with vegetative symptoms insomnia, anorexia, weight loss, loss of interest
+C0086132	Symptoms of depression
+C0086132	Symptoms of depression (finding)
+C2054147	taking medication for depression
+C2054147	taking medication for depression (history)
+C2063866	treatment-refractory depression
+C2063866	treatment-refractory depression (diagnosis)
+C0429108	TU depression
+C0429108	TU depression (finding)
+C2749368	Umbilical depression
+C0041696	Unipolar Depression
+C1837929	UNIPOLAR DEPRESSION 1
+C1837529	UNIPOLAR DEPRESSION 2
+C4017088	UNIPOLAR DEPRESSION, SUSCEPTIBILITY TO
+C2367534	using standardized depression assessment tool
+C2367534	using standardized depression assessment tool (treatment)
+C4084780	Usual Severity Feeling of Sadness
+C2130233	visit for pastoral care for pain or depression
+C2130233	visit for pastoral care for pain or depression (symptom)
+C2060843	visit for screening exam for depression
+C2060843	visit for screening exam for depression (symptom)
+C2130233	visit for: pastoral care pain / depression
+C2060843	visit for: screening exam depression
+C2060843	visit for: screening for depression
+C0451570	Wakefield self-assessment depression inventory
+C0451570	Wakefield self-assessment depression inventory (assessment scale)
+C0451582	WHO depression scale
+C0451582	WHO depression scale (assessment scale)
+C3472507	Whooley depression screen
+C3472507	Whooley depression screen (assessment scale)
+C0871610	winter depression
+C0451582	World Health Organisation (WHO) depression scale
+C0451582	World Health Organization (WHO) depression scale
+C0451582	World Health Organization (WHO) depression scale (assessment scale)
+C0451582	World Health Organization depression scale
+C0451582	World Health Organization depression scale (assessment scale)
+C3844493	Yes, patient was screened with a different standardized, validated assessment and the patient does not meet criteria for further evaluation for depression.
+C3844494	Yes, patient was screened with a different standardized, validated assessment and the patient meets criteria for further evaluation for depression.
+C4273947	Zung self rating depression scale score
+C4273947	Zung self rating depression scale score (observable entity)
+C0451593	Zung self-rating depression scale
+C0451593	Zung self-rating depression scale (assessment scale)
+

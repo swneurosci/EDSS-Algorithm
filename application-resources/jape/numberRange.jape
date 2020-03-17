@@ -1,0 +1,13 @@
+Phase: numberRange
+Input: Number Token
+Options: control=appelt
+
+
+Rule: numberRange
+(
+    ({Number}):n1
+    ({Token.string == "to"} | {Token.string == "-"} | {Token.string == "or"} | {Token.string == "–"} | {Token.string == "and"})
+    ({Number}):n2
+):match
+-->
+:match.Range = { rule = numberRange, N1 = :n1.Number.value, N2 = :n2.Number.value}

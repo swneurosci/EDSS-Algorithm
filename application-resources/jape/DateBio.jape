@@ -1,0 +1,71 @@
+Phase: Dates
+Input:Token Lookup2 Numeric DayDate Month
+Options: control=appelt
+
+
+
+Macro: YEAR
+(
+		{Token.string ==~ "[1-2][0-9]{3}"} |
+		{Token.string ==~ "[0-9]{2}"}
+)
+
+Macro: MONTH
+(
+	{Token.string ==~ "0?[1-9]"} |
+	{Token.string ==~ "1[0-2]"}
+)
+
+Macro: DATESEP
+(
+	{Token.kind == punctuation, Token.string == "/"} |
+	{Token.kind == punctuation, Token.string == "."}
+)
+
+Macro: DAYOFMONTH
+(
+		{Token.string ==~ "0?[1-9]"} |
+		{Token.string ==~ "1[0-9]"} |
+		{Token.string ==~ "2[0-9]"} |
+		{Token.string ==~ "3[0-1]"}
+)
+
+
+/* Matches UK date in dd/mm/yyyy, dd/mm/yy, dd.mm.yyyy or dd.mm.yy format */
+
+Rule: DateBio1
+
+({Token.category == CD})?
+(
+	(DAYOFMONTH):day
+	(DATESEP):sep
+	(MONTH):month
+	(DATESEP):sep2
+	(YEAR):year
+):match
+--> :match.DateBio = {rule = "DateBio1", value = :match@string, DateBio = :match@string, DayDate = :day@string, MonthDate = :month@string, YearDate = :year@string string = :match@string}
+
+
+
+
+Rule: DateBio2
+
+(
+	({Lookup2.majorType == "Numerals" , Lookup2.minorType == "Ordinals"}):day
+	({Lookup2.majorType == "time" , Lookup2.minorType == "date"}):month
+	({Numeric.rule == "Numerals"}):year			
+):match
+-->
+:match.DateBio = {rule = "DateBio2" , value = :match@string, DateBio = :match@string, DayDate = :match.Lookup2.Ordinals, MonthDate = :match.Lookup2.month, YearDate = :year@string, string = :match@string}
+
+
+
+Rule: DateBio3
+
+(
+	({DayDate.majorType == "time" , DayDate.minorType == "date"}):day
+	({Month.majorType == "time" , Month.minorType == "date"}):month
+	({Numeric.rule == "Numerals"}):year			
+):match
+-->
+:match.DateBio = {rule = "DateBio3" , DateBio =  :match@string, DayDate = :match.DayDate.value, MonthDate = :match.Month.month, YearDate = :match.Numeric.value, string = :match@string}

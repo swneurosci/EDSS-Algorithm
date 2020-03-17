@@ -1,0 +1,334 @@
+[X]Acute disseminated demyelination, unspecified	CUI=C0477368	PREF=[X]Acute disseminated demyelination, unspecified
+[X]Acute disseminated demyelination, unspecified (disorder)	CUI=C0477368	PREF=[X]Acute disseminated demyelination, unspecified (disorder)
+[X]Other specified acute disseminated demyelination	CUI=C0477367	PREF=[X]Other specified acute disseminated demyelination
+[X]Other specified acute disseminated demyelination (disorder)	CUI=C0477367	PREF=[X]Other specified acute disseminated demyelination (disorder)
+Abnormal brainstem auditory evoked potentials, suggesting demyelination	CUI=C1832340	PREF=Abnormal brainstem auditory evoked potentials, suggesting demyelination
+Abnormal MRI findings	CUI=C4229496	PREF=Abnormal MRI findings
+acute disseminated demyelination	CUI=C3650496	PREF=acute disseminated demyelination
+acute disseminated demyelination (diagnosis)	CUI=C3650496	PREF=acute disseminated demyelination (diagnosis)
+Acute disseminated demyelination, unspecified	CUI=C0477368	PREF=Acute disseminated demyelination, unspecified
+Bilateral hyperintense signals seen on MRI	CUI=C4314814	PREF=Bilateral hyperintense signals seen on MRI
+Biopsy shows white matter hypomyelination, demyelination, gliosis	CUI=C1859004	PREF=Biopsy shows white matter hypomyelination, demyelination, gliosis
+Brain imaging shows white-matter hypodensities and demyelination	CUI=C1849682	PREF=Brain imaging shows white-matter hypodensities and demyelination
+brain MRI T2-weighted SE hyperintense signal	CUI=C2238926	PREF=brain MRI T2-weighted SE hyperintense signal
+brain MRI T2-weighted SE hyperintense signal basal ganglia	CUI=C2238927	PREF=brain MRI T2-weighted SE hyperintense signal basal ganglia
+brain MRI T2-weighted SE hyperintense signal basal ganglia left	CUI=C2238928	PREF=brain MRI T2-weighted SE hyperintense signal basal ganglia left
+brain MRI T2-weighted SE hyperintense signal basal ganglia right	CUI=C2238929	PREF=brain MRI T2-weighted SE hyperintense signal basal ganglia right
+brain MRI T2-weighted SE hyperintense signal cerebellopontine angle	CUI=C2238930	PREF=brain MRI T2-weighted SE hyperintense signal cerebellopontine angle
+brain MRI T2-weighted SE hyperintense signal cerebellopontine angle left	CUI=C2238931	PREF=brain MRI T2-weighted SE hyperintense signal cerebellopontine angle left
+brain MRI T2-weighted SE hyperintense signal cerebellopontine angle right	CUI=C2238932	PREF=brain MRI T2-weighted SE hyperintense signal cerebellopontine angle right
+brain MRI T2-weighted SE hyperintense signal cerebellum	CUI=C2238933	PREF=brain MRI T2-weighted SE hyperintense signal cerebellum
+brain MRI T2-weighted SE hyperintense signal cerebellum left	CUI=C2238934	PREF=brain MRI T2-weighted SE hyperintense signal cerebellum left
+brain MRI T2-weighted SE hyperintense signal cerebellum midline	CUI=C2238935	PREF=brain MRI T2-weighted SE hyperintense signal cerebellum midline
+brain MRI T2-weighted SE hyperintense signal cerebellum right	CUI=C2238936	PREF=brain MRI T2-weighted SE hyperintense signal cerebellum right
+brain MRI T2-weighted SE hyperintense signal clivus	CUI=C2238937	PREF=brain MRI T2-weighted SE hyperintense signal clivus
+brain MRI T2-weighted SE hyperintense signal epidural	CUI=C2238938	PREF=brain MRI T2-weighted SE hyperintense signal epidural
+brain MRI T2-weighted SE hyperintense signal epidural left	CUI=C2238939	PREF=brain MRI T2-weighted SE hyperintense signal epidural left
+brain MRI T2-weighted SE hyperintense signal epidural right	CUI=C2238940	PREF=brain MRI T2-weighted SE hyperintense signal epidural right
+brain MRI T2-weighted SE hyperintense signal foramen magnum	CUI=C2238941	PREF=brain MRI T2-weighted SE hyperintense signal foramen magnum
+brain MRI T2-weighted SE hyperintense signal frontal	CUI=C2238942	PREF=brain MRI T2-weighted SE hyperintense signal frontal
+brain MRI T2-weighted SE hyperintense signal frontal left	CUI=C2238943	PREF=brain MRI T2-weighted SE hyperintense signal frontal left
+brain MRI T2-weighted SE hyperintense signal frontal midline	CUI=C2238944	PREF=brain MRI T2-weighted SE hyperintense signal frontal midline
+brain MRI T2-weighted SE hyperintense signal frontal right	CUI=C2238945	PREF=brain MRI T2-weighted SE hyperintense signal frontal right
+brain MRI T2-weighted SE hyperintense signal hypothalamus	CUI=C2238946	PREF=brain MRI T2-weighted SE hyperintense signal hypothalamus
+brain MRI T2-weighted SE hyperintense signal internal capsule	CUI=C2238947	PREF=brain MRI T2-weighted SE hyperintense signal internal capsule
+brain MRI T2-weighted SE hyperintense signal internal capsule left	CUI=C2238948	PREF=brain MRI T2-weighted SE hyperintense signal internal capsule left
+brain MRI T2-weighted SE hyperintense signal internal capsule right	CUI=C2238949	PREF=brain MRI T2-weighted SE hyperintense signal internal capsule right
+brain MRI T2-weighted SE hyperintense signal intrasellar	CUI=C2238950	PREF=brain MRI T2-weighted SE hyperintense signal intrasellar
+brain MRI T2-weighted SE hyperintense signal intraventricular	CUI=C2238951	PREF=brain MRI T2-weighted SE hyperintense signal intraventricular
+brain MRI T2-weighted SE hyperintense signal intraventricular fourth	CUI=C2238952	PREF=brain MRI T2-weighted SE hyperintense signal intraventricular fourth
+brain MRI T2-weighted SE hyperintense signal intraventricular left lateral	CUI=C2238953	PREF=brain MRI T2-weighted SE hyperintense signal intraventricular left lateral
+brain MRI T2-weighted SE hyperintense signal intraventricular right lateral	CUI=C2238954	PREF=brain MRI T2-weighted SE hyperintense signal intraventricular right lateral
+brain MRI T2-weighted SE hyperintense signal intraventricular third	CUI=C2238955	PREF=brain MRI T2-weighted SE hyperintense signal intraventricular third
+brain MRI T2-weighted SE hyperintense signal left	CUI=C2238956	PREF=brain MRI T2-weighted SE hyperintense signal left
+brain MRI T2-weighted SE hyperintense signal medulla	CUI=C2238957	PREF=brain MRI T2-weighted SE hyperintense signal medulla
+brain MRI T2-weighted SE hyperintense signal medulla left	CUI=C2238958	PREF=brain MRI T2-weighted SE hyperintense signal medulla left
+brain MRI T2-weighted SE hyperintense signal medulla right	CUI=C2238959	PREF=brain MRI T2-weighted SE hyperintense signal medulla right
+brain MRI T2-weighted SE hyperintense signal midbrain	CUI=C2238960	PREF=brain MRI T2-weighted SE hyperintense signal midbrain
+brain MRI T2-weighted SE hyperintense signal multiple locations	CUI=C2238961	PREF=brain MRI T2-weighted SE hyperintense signal multiple locations
+brain MRI T2-weighted SE hyperintense signal occipital	CUI=C2238962	PREF=brain MRI T2-weighted SE hyperintense signal occipital
+brain MRI T2-weighted SE hyperintense signal occipital left	CUI=C2238963	PREF=brain MRI T2-weighted SE hyperintense signal occipital left
+brain MRI T2-weighted SE hyperintense signal occipital right	CUI=C2238964	PREF=brain MRI T2-weighted SE hyperintense signal occipital right
+brain MRI T2-weighted SE hyperintense signal parasellar	CUI=C2238965	PREF=brain MRI T2-weighted SE hyperintense signal parasellar
+brain MRI T2-weighted SE hyperintense signal parietal	CUI=C2238966	PREF=brain MRI T2-weighted SE hyperintense signal parietal
+brain MRI T2-weighted SE hyperintense signal parietal left	CUI=C2238967	PREF=brain MRI T2-weighted SE hyperintense signal parietal left
+brain MRI T2-weighted SE hyperintense signal parietal midline	CUI=C2238968	PREF=brain MRI T2-weighted SE hyperintense signal parietal midline
+brain MRI T2-weighted SE hyperintense signal parietal right	CUI=C2238969	PREF=brain MRI T2-weighted SE hyperintense signal parietal right
+brain MRI T2-weighted SE hyperintense signal periventricular	CUI=C2238970	PREF=brain MRI T2-weighted SE hyperintense signal periventricular
+brain MRI T2-weighted SE hyperintense signal petrous apex	CUI=C2238971	PREF=brain MRI T2-weighted SE hyperintense signal petrous apex
+brain MRI T2-weighted SE hyperintense signal pineal	CUI=C2238972	PREF=brain MRI T2-weighted SE hyperintense signal pineal
+brain MRI T2-weighted SE hyperintense signal pons	CUI=C2238973	PREF=brain MRI T2-weighted SE hyperintense signal pons
+brain MRI T2-weighted SE hyperintense signal pons left	CUI=C2238974	PREF=brain MRI T2-weighted SE hyperintense signal pons left
+brain MRI T2-weighted SE hyperintense signal pons right	CUI=C2238975	PREF=brain MRI T2-weighted SE hyperintense signal pons right
+brain MRI T2-weighted SE hyperintense signal right	CUI=C2238976	PREF=brain MRI T2-weighted SE hyperintense signal right
+brain MRI T2-weighted SE hyperintense signal single location	CUI=C2238977	PREF=brain MRI T2-weighted SE hyperintense signal single location
+brain MRI T2-weighted SE hyperintense signal sphenoid ridge	CUI=C2238978	PREF=brain MRI T2-weighted SE hyperintense signal sphenoid ridge
+brain MRI T2-weighted SE hyperintense signal subarachnoid	CUI=C2238979	PREF=brain MRI T2-weighted SE hyperintense signal subarachnoid
+brain MRI T2-weighted SE hyperintense signal subdural	CUI=C2238980	PREF=brain MRI T2-weighted SE hyperintense signal subdural
+brain MRI T2-weighted SE hyperintense signal subdural left	CUI=C2238981	PREF=brain MRI T2-weighted SE hyperintense signal subdural left
+brain MRI T2-weighted SE hyperintense signal subdural right	CUI=C2238982	PREF=brain MRI T2-weighted SE hyperintense signal subdural right
+brain MRI T2-weighted SE hyperintense signal suprasellar	CUI=C2238983	PREF=brain MRI T2-weighted SE hyperintense signal suprasellar
+brain MRI T2-weighted SE hyperintense signal tectum	CUI=C2238984	PREF=brain MRI T2-weighted SE hyperintense signal tectum
+brain MRI T2-weighted SE hyperintense signal temporal	CUI=C2238985	PREF=brain MRI T2-weighted SE hyperintense signal temporal
+brain MRI T2-weighted SE hyperintense signal temporal left	CUI=C2238986	PREF=brain MRI T2-weighted SE hyperintense signal temporal left
+brain MRI T2-weighted SE hyperintense signal temporal right	CUI=C2238987	PREF=brain MRI T2-weighted SE hyperintense signal temporal right
+brain MRI T2-weighted SE hyperintense signal thalamus	CUI=C2238988	PREF=brain MRI T2-weighted SE hyperintense signal thalamus
+brain MRI T2-weighted SE hyperintense signal thalamus left	CUI=C2238989	PREF=brain MRI T2-weighted SE hyperintense signal thalamus left
+brain MRI T2-weighted SE hyperintense signal thalamus right	CUI=C2238990	PREF=brain MRI T2-weighted SE hyperintense signal thalamus right
+C-spine MRI T1-weighted cord mass intramedullary hyperintense signal	CUI=C2043665	PREF=C-spine MRI T1-weighted cord mass intramedullary hyperintense signal
+Central demyelination of corpus callosum	CUI=C0238265	PREF=Central demyelination of corpus callosum
+central demyelination of corpus callosum (diagnosis)	CUI=C0238265	PREF=central demyelination of corpus callosum (diagnosis)
+Central demyelination of corpus callosum (disorder)	CUI=C0238265	PREF=Central demyelination of corpus callosum (disorder)
+Central nervous system demyelination	CUI=C0338474	PREF=Central nervous system demyelination
+Central nervous system demyelination NOS	CUI=C0338474	PREF=Central nervous system demyelination NOS
+Central nervous system demyelination NOS (disorder)	CUI=C0338474	PREF=Central nervous system demyelination NOS (disorder)
+Cerebral demyelination and inflammation	CUI=C3806584	PREF=Cerebral demyelination and inflammation
+cervical spine MRI T1-weighted cord intradural extramedullary mass hyperintense signal	CUI=C2043659	PREF=cervical spine MRI T1-weighted cord intradural extramedullary mass hyperintense signal
+cervical spine MRI T1-weighted cord mass intramedullary hyperintense signal	CUI=C2043665	PREF=cervical spine MRI T1-weighted cord mass intramedullary hyperintense signal
+CNS demyelination NOS	CUI=C0338474	PREF=CNS demyelination NOS
+DEMYELINATION	CUI=C0011304	PREF=DEMYELINATION
+Demyelination (morphologic abnormality)	CUI=C0011304	PREF=Demyelination (morphologic abnormality)
+Demyelination in central white matter	CUI=C0338474	PREF=Demyelination in central white matter
+Demyelination in optic neuritis	CUI=C1395170	PREF=Demyelination in optic neuritis
+Demyelination of spinal cord	CUI=C0586256	PREF=Demyelination of spinal cord
+Demyelination of the posterior and lateral columns of the spinal cord	CUI=C3277586	PREF=Demyelination of the posterior and lateral columns of the spinal cord
+Demyelination with white matter disease in internal capsule, external capsule, genu of corpus callosum, subcortical white matter, and posterior fossa	CUI=C1848989	PREF=Demyelination with white matter disease in internal capsule, external capsule, genu of corpus callosum, subcortical white matter, and posterior fossa
+Demyelination, NOS	CUI=C0011304	PREF=Demyelination, NOS
+Demyelination, symmetric	CUI=C1868515	PREF=Demyelination, symmetric
+Diffuse demyelination (increased signal intensity in T2-weighted images, especially frontal lobes)	CUI=C1859893	PREF=Diffuse demyelination (increased signal intensity in T2-weighted images, especially frontal lobes)
+Diffuse demyelination seen on MRI	CUI=C4314597	PREF=Diffuse demyelination seen on MRI
+Diffuse hyperintense signal abnormalities in the white matter (in children)	CUI=C3810245	PREF=Diffuse hyperintense signal abnormalities in the white matter (in children)
+Disturbed visual and brainstem auditory evoked responses indicative of CNS demyelination	CUI=C1857655	PREF=Disturbed visual and brainstem auditory evoked responses indicative of CNS demyelination
+head magnetic resonance imaging T2-weighted SE hyperintense signal	CUI=C2238926	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal
+head magnetic resonance imaging T2-weighted SE hyperintense signal basal ganglia	CUI=C2238927	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal basal ganglia
+head magnetic resonance imaging T2-weighted SE hyperintense signal basal ganglia left	CUI=C2238928	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal basal ganglia left
+head magnetic resonance imaging T2-weighted SE hyperintense signal basal ganglia right	CUI=C2238929	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal basal ganglia right
+head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellopontine angle	CUI=C2238930	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellopontine angle
+head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellopontine angle left	CUI=C2238931	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellopontine angle left
+head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellopontine angle right	CUI=C2238932	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellopontine angle right
+head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellum	CUI=C2238933	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellum
+head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellum left	CUI=C2238934	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellum left
+head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellum midline	CUI=C2238935	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellum midline
+head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellum right	CUI=C2238936	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal cerebellum right
+head magnetic resonance imaging T2-weighted SE hyperintense signal clivus	CUI=C2238937	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal clivus
+head magnetic resonance imaging T2-weighted SE hyperintense signal epidural	CUI=C2238938	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal epidural
+head magnetic resonance imaging T2-weighted SE hyperintense signal epidural left	CUI=C2238939	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal epidural left
+head magnetic resonance imaging T2-weighted SE hyperintense signal epidural right	CUI=C2238940	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal epidural right
+head magnetic resonance imaging T2-weighted SE hyperintense signal foramen magnum	CUI=C2238941	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal foramen magnum
+head magnetic resonance imaging T2-weighted SE hyperintense signal frontal	CUI=C2238942	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal frontal
+head magnetic resonance imaging T2-weighted SE hyperintense signal frontal left	CUI=C2238943	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal frontal left
+head magnetic resonance imaging T2-weighted SE hyperintense signal frontal midline	CUI=C2238944	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal frontal midline
+head magnetic resonance imaging T2-weighted SE hyperintense signal frontal right	CUI=C2238945	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal frontal right
+head magnetic resonance imaging T2-weighted SE hyperintense signal hypothalamus	CUI=C2238946	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal hypothalamus
+head magnetic resonance imaging T2-weighted SE hyperintense signal internal capsule	CUI=C2238947	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal internal capsule
+head magnetic resonance imaging T2-weighted SE hyperintense signal internal capsule left	CUI=C2238948	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal internal capsule left
+head magnetic resonance imaging T2-weighted SE hyperintense signal internal capsule right	CUI=C2238949	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal internal capsule right
+head magnetic resonance imaging T2-weighted SE hyperintense signal intrasellar	CUI=C2238950	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal intrasellar
+head magnetic resonance imaging T2-weighted SE hyperintense signal intraventricular	CUI=C2238951	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal intraventricular
+head magnetic resonance imaging T2-weighted SE hyperintense signal intraventricular fourth	CUI=C2238952	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal intraventricular fourth
+head magnetic resonance imaging T2-weighted SE hyperintense signal intraventricular third	CUI=C2238955	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal intraventricular third
+head magnetic resonance imaging T2-weighted SE hyperintense signal left	CUI=C2238956	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal left
+head magnetic resonance imaging T2-weighted SE hyperintense signal medulla	CUI=C2238957	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal medulla
+head magnetic resonance imaging T2-weighted SE hyperintense signal medulla left	CUI=C2238958	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal medulla left
+head magnetic resonance imaging T2-weighted SE hyperintense signal medulla right	CUI=C2238959	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal medulla right
+head magnetic resonance imaging T2-weighted SE hyperintense signal midbrain	CUI=C2238960	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal midbrain
+head magnetic resonance imaging T2-weighted SE hyperintense signal multiple locations	CUI=C2238961	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal multiple locations
+head magnetic resonance imaging T2-weighted SE hyperintense signal occipital	CUI=C2238962	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal occipital
+head magnetic resonance imaging T2-weighted SE hyperintense signal occipital left	CUI=C2238963	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal occipital left
+head magnetic resonance imaging T2-weighted SE hyperintense signal occipital right	CUI=C2238964	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal occipital right
+head magnetic resonance imaging T2-weighted SE hyperintense signal parasellar	CUI=C2238965	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal parasellar
+head magnetic resonance imaging T2-weighted SE hyperintense signal parietal	CUI=C2238966	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal parietal
+head magnetic resonance imaging T2-weighted SE hyperintense signal parietal left	CUI=C2238967	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal parietal left
+head magnetic resonance imaging T2-weighted SE hyperintense signal parietal midline	CUI=C2238968	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal parietal midline
+head magnetic resonance imaging T2-weighted SE hyperintense signal parietal right	CUI=C2238969	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal parietal right
+head magnetic resonance imaging T2-weighted SE hyperintense signal periventricular	CUI=C2238970	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal periventricular
+head magnetic resonance imaging T2-weighted SE hyperintense signal petrous apex	CUI=C2238971	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal petrous apex
+head magnetic resonance imaging T2-weighted SE hyperintense signal pineal	CUI=C2238972	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal pineal
+head magnetic resonance imaging T2-weighted SE hyperintense signal pons	CUI=C2238973	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal pons
+head magnetic resonance imaging T2-weighted SE hyperintense signal pons left	CUI=C2238974	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal pons left
+head magnetic resonance imaging T2-weighted SE hyperintense signal pons right	CUI=C2238975	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal pons right
+head magnetic resonance imaging T2-weighted SE hyperintense signal right	CUI=C2238976	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal right
+head magnetic resonance imaging T2-weighted SE hyperintense signal single location	CUI=C2238977	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal single location
+head magnetic resonance imaging T2-weighted SE hyperintense signal sphenoid ridge	CUI=C2238978	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal sphenoid ridge
+head magnetic resonance imaging T2-weighted SE hyperintense signal subarachnoid	CUI=C2238979	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal subarachnoid
+head magnetic resonance imaging T2-weighted SE hyperintense signal subdural	CUI=C2238980	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal subdural
+head magnetic resonance imaging T2-weighted SE hyperintense signal subdural left	CUI=C2238981	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal subdural left
+head magnetic resonance imaging T2-weighted SE hyperintense signal subdural right	CUI=C2238982	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal subdural right
+head magnetic resonance imaging T2-weighted SE hyperintense signal suprasellar	CUI=C2238983	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal suprasellar
+head magnetic resonance imaging T2-weighted SE hyperintense signal tectum	CUI=C2238984	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal tectum
+head magnetic resonance imaging T2-weighted SE hyperintense signal temporal	CUI=C2238985	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal temporal
+head magnetic resonance imaging T2-weighted SE hyperintense signal temporal left	CUI=C2238986	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal temporal left
+head magnetic resonance imaging T2-weighted SE hyperintense signal temporal right	CUI=C2238987	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal temporal right
+head magnetic resonance imaging T2-weighted SE hyperintense signal thalamus	CUI=C2238988	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal thalamus
+head magnetic resonance imaging T2-weighted SE hyperintense signal thalamus left	CUI=C2238989	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal thalamus left
+head magnetic resonance imaging T2-weighted SE hyperintense signal thalamus right	CUI=C2238990	PREF=head magnetic resonance imaging T2-weighted SE hyperintense signal thalamus right
+Hyperintense signaling of dorsal aspect of spinal cord seen on MRI (inversion recovery images)	CUI=C3552147	PREF=Hyperintense signaling of dorsal aspect of spinal cord seen on MRI (inversion recovery images)
+Hypo- and demyelination of the brain	CUI=C2673637	PREF=Hypo- and demyelination of the brain
+L-spine MRI spinal cord mass extramedullary hyperintense signal	CUI=C2199871	PREF=L-spine MRI spinal cord mass extramedullary hyperintense signal
+L-spine MRI spinal cord mass intradural extramedullary hyperintense signal	CUI=C2191037	PREF=L-spine MRI spinal cord mass intradural extramedullary hyperintense signal
+Lesions characterized by demyelination, necrosis, gliosis, spongiosis, and capillary proliferation	CUI=C1839887	PREF=Lesions characterized by demyelination, necrosis, gliosis, spongiosis, and capillary proliferation
+Lesions in basal ganglia, brainstem, cerebellum, thalamus, spinal cord characterized by demyelination, necrosis, gliosis, spongiosis, and capillary proliferation	CUI=C2673315	PREF=Lesions in basal ganglia, brainstem, cerebellum, thalamus, spinal cord characterized by demyelination, necrosis, gliosis, spongiosis, and capillary proliferation
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal	CUI=C2238926	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal (procedure)	CUI=C2238926	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle	CUI=C2238930	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle (procedure)	CUI=C2238930	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle left	CUI=C2238931	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle left
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle left (procedure)	CUI=C2238931	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle left (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle right	CUI=C2238932	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle right
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle right (procedure)	CUI=C2238932	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal cerebellopontine angle right (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural	CUI=C2238938	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural (procedure)	CUI=C2238938	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural left	CUI=C2238939	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural left
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural left (procedure)	CUI=C2238939	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural left (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural right	CUI=C2238940	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural right
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural right (procedure)	CUI=C2238940	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal epidural right (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal in multiple locations	CUI=C2238961	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal in multiple locations
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal in multiple locations (procedure)	CUI=C2238961	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal in multiple locations (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal in single location	CUI=C2238977	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal in single location
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal in single location (procedure)	CUI=C2238977	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal in single location (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intrasellar	CUI=C2238950	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intrasellar
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intrasellar (procedure)	CUI=C2238950	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intrasellar (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular	CUI=C2238951	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular (procedure)	CUI=C2238951	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular fourth	CUI=C2238952	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular fourth
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular fourth (procedure)	CUI=C2238952	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular fourth (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular left lateral	CUI=C2238953	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular left lateral
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular left lateral (procedure)	CUI=C2238953	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular left lateral (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular right lateral	CUI=C2238954	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular right lateral
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular right lateral (procedure)	CUI=C2238954	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular right lateral (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular third	CUI=C2238955	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular third
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular third (procedure)	CUI=C2238955	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal intraventricular third (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of basal ganglia	CUI=C2238927	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of basal ganglia
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of basal ganglia (procedure)	CUI=C2238927	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of basal ganglia (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of cerebellum	CUI=C2238933	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of cerebellum
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of cerebellum (procedure)	CUI=C2238933	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of cerebellum (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of clivus	CUI=C2238937	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of clivus
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of clivus (procedure)	CUI=C2238937	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of clivus (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of foramen magnum	CUI=C2238941	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of foramen magnum
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of foramen magnum (procedure)	CUI=C2238941	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of foramen magnum (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of frontal lobe	CUI=C2238942	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of frontal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of frontal lobe (procedure)	CUI=C2238942	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of frontal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of hypothalamus	CUI=C2238946	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of hypothalamus
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of hypothalamus (procedure)	CUI=C2238946	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of hypothalamus (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of internal capsule	CUI=C2238947	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of internal capsule
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of internal capsule (procedure)	CUI=C2238947	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of internal capsule (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left basal ganglia	CUI=C2238928	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left basal ganglia
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left basal ganglia (procedure)	CUI=C2238928	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left basal ganglia (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left cerebellum	CUI=C2238934	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left cerebellum
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left cerebellum (procedure)	CUI=C2238934	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left cerebellum (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left frontal lobe	CUI=C2238943	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left frontal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left frontal lobe (procedure)	CUI=C2238943	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left frontal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left internal capsule	CUI=C2238948	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left internal capsule
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left internal capsule (procedure)	CUI=C2238948	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left internal capsule (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left medulla	CUI=C2238958	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left medulla
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left medulla (procedure)	CUI=C2238958	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left medulla (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left midbrain	CUI=C2238956	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left midbrain
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left midbrain (procedure)	CUI=C2238956	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left midbrain (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left occipital lobe	CUI=C2238963	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left occipital lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left occipital lobe (procedure)	CUI=C2238963	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left occipital lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left parietal lobe	CUI=C2238967	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left parietal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left parietal lobe (procedure)	CUI=C2238967	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left parietal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left pons	CUI=C2238974	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left pons
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left pons (procedure)	CUI=C2238974	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left pons (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left temporal lobe	CUI=C2238986	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left temporal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left temporal lobe (procedure)	CUI=C2238986	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left temporal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left thalamus	CUI=C2238989	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left thalamus
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left thalamus (procedure)	CUI=C2238989	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of left thalamus (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of medulla	CUI=C2238957	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of medulla
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of medulla (procedure)	CUI=C2238957	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of medulla (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midbrain	CUI=C2238960	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midbrain
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midbrain (procedure)	CUI=C2238960	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midbrain (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline cerebellum	CUI=C2238935	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline cerebellum
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline cerebellum (procedure)	CUI=C2238935	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline cerebellum (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline frontal lobe	CUI=C2238944	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline frontal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline frontal lobe (procedure)	CUI=C2238944	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline frontal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline parietal lobe	CUI=C2238968	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline parietal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline parietal lobe (procedure)	CUI=C2238968	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of midline parietal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of occipital lobe	CUI=C2238962	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of occipital lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of occipital lobe (procedure)	CUI=C2238962	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of occipital lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of parietal lobe	CUI=C2238966	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of parietal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of parietal lobe (procedure)	CUI=C2238966	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of parietal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of petrous apex	CUI=C2238971	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of petrous apex
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of petrous apex (procedure)	CUI=C2238971	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of petrous apex (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of pineal body	CUI=C2238972	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of pineal body
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of pineal body (procedure)	CUI=C2238972	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of pineal body (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of pons	CUI=C2238973	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of pons
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of pons (procedure)	CUI=C2238973	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of pons (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right basal ganglia	CUI=C2238929	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right basal ganglia
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right basal ganglia (procedure)	CUI=C2238929	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right basal ganglia (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right cerebellum	CUI=C2238936	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right cerebellum
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right cerebellum (procedure)	CUI=C2238936	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right cerebellum (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right frontal lobe	CUI=C2238945	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right frontal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right frontal lobe (procedure)	CUI=C2238945	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right frontal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right internal capsule	CUI=C2238949	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right internal capsule
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right internal capsule (procedure)	CUI=C2238949	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right internal capsule (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right medulla	CUI=C2238959	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right medulla
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right medulla (procedure)	CUI=C2238959	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right medulla (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right midbrain	CUI=C2238976	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right midbrain
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right midbrain (procedure)	CUI=C2238976	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right midbrain (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right occipital lobe	CUI=C2238964	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right occipital lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right occipital lobe (procedure)	CUI=C2238964	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right occipital lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right parietal lobe	CUI=C2238969	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right parietal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right parietal lobe (procedure)	CUI=C2238969	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right parietal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right pons	CUI=C2238975	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right pons
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right pons (procedure)	CUI=C2238975	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right pons (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right temporal lobe	CUI=C2238987	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right temporal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right temporal lobe (procedure)	CUI=C2238987	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right temporal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right thalamus	CUI=C2238990	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right thalamus
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right thalamus (procedure)	CUI=C2238990	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of right thalamus (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of sphenoid ridge	CUI=C2238978	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of sphenoid ridge
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of sphenoid ridge (procedure)	CUI=C2238978	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of sphenoid ridge (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of subarachnoid	CUI=C2238979	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of subarachnoid
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of subarachnoid (procedure)	CUI=C2238979	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of subarachnoid (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of tectum	CUI=C2238984	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of tectum
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of tectum (procedure)	CUI=C2238984	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of tectum (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of temporal lobe	CUI=C2238985	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of temporal lobe
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of temporal lobe (procedure)	CUI=C2238985	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of temporal lobe (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of thalamus	CUI=C2238988	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of thalamus
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of thalamus (procedure)	CUI=C2238988	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal of thalamus (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal parasellar	CUI=C2238965	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal parasellar
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal parasellar (procedure)	CUI=C2238965	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal parasellar (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal periventricular	CUI=C2238970	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal periventricular
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal periventricular (procedure)	CUI=C2238970	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal periventricular (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural	CUI=C2238980	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural (procedure)	CUI=C2238980	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural left	CUI=C2238981	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural left
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural left (procedure)	CUI=C2238981	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural left (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural right	CUI=C2238982	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural right
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural right (procedure)	CUI=C2238982	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal subdural right (procedure)
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal suprasellar	CUI=C2238983	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal suprasellar
+magnetic resonance imaging of brain: T2-weighted SE hyperintense signal suprasellar (procedure)	CUI=C2238983	PREF=magnetic resonance imaging of brain: T2-weighted SE hyperintense signal suprasellar (procedure)
+magnetic resonance imaging of lumbar spine: intradural extramedullary mass of cord with hyperintense signal intensity (S/I) ratio	CUI=C2191041	PREF=magnetic resonance imaging of lumbar spine: intradural extramedullary mass of cord with hyperintense signal intensity (S/I) ratio
+magnetic resonance imaging of lumbar spine: intradural extramedullary mass of cord with hyperintense signal intensity (S/I) ratio (procedure)	CUI=C2191041	PREF=magnetic resonance imaging of lumbar spine: intradural extramedullary mass of cord with hyperintense signal intensity (S/I) ratio (procedure)
+magnetic resonance imaging of lumbar spine: intramedullary mass of cord with hyperintense signal intensity (S/I) ratio	CUI=C2191033	PREF=magnetic resonance imaging of lumbar spine: intramedullary mass of cord with hyperintense signal intensity (S/I) ratio
+magnetic resonance imaging of lumbar spine: intramedullary mass of cord with hyperintense signal intensity (S/I) ratio (procedure)	CUI=C2191033	PREF=magnetic resonance imaging of lumbar spine: intramedullary mass of cord with hyperintense signal intensity (S/I) ratio (procedure)
+Neuropathologic examination shows severe demyelination	CUI=C1857320	PREF=Neuropathologic examination shows severe demyelination
+Neuropathology shows diffuse demyelination of the cerebral white matter	CUI=C1838582	PREF=Neuropathology shows diffuse demyelination of the cerebral white matter
+New Lesion Identification	CUI=C2986548	PREF=New Lesion Identification
+Number of plaques	CUI=C0449793	PREF=Number of plaques
+Number of plaques (observable entity)	CUI=C0449793	PREF=Number of plaques (observable entity)
+Other acute disseminated demyelination	CUI=C0494468	PREF=Other acute disseminated demyelination
+Other CNS demyelination NOS	CUI=C0393663	PREF=Other CNS demyelination NOS
+Other specified acute disseminated demyelination	CUI=C0477367	PREF=Other specified acute disseminated demyelination
+Other specified central nervous system demyelination NOS	CUI=C0393663	PREF=Other specified central nervous system demyelination NOS
+Other specified central nervous system demyelination NOS (disorder)	CUI=C0393663	PREF=Other specified central nervous system demyelination NOS (disorder)
+Patchy demyelination of subcortical white matter	CUI=C1857638	PREF=Patchy demyelination of subcortical white matter
+Primary demyelination	CUI=C0333456	PREF=Primary demyelination
+Primary demyelination (morphologic abnormality)	CUI=C0333456	PREF=Primary demyelination (morphologic abnormality)
+Rare segmental demyelination/remyelination	CUI=C1847905	PREF=Rare segmental demyelination/remyelination
+Scattered CNS demyelination	CUI=C1852065	PREF=Scattered CNS demyelination
+Secondary demyelination occurs later in disease	CUI=C1843155	PREF=Secondary demyelination occurs later in disease
+Segmental demyelination	CUI=C0333457	PREF=Segmental demyelination
+Segmental demyelination (morphologic abnormality)	CUI=C0333457	PREF=Segmental demyelination (morphologic abnormality)
+Segmental demyelination/remyelination	CUI=C1843077	PREF=Segmental demyelination/remyelination
+Severe demyelination of the white matter	CUI=C1856001	PREF=Severe demyelination of the white matter
+Slow course of functional deterioration compared to severity of MRI findings	CUI=C1858860	PREF=Slow course of functional deterioration compared to severity of MRI findings
+Spinal demyelination	CUI=C0586256	PREF=Spinal demyelination
+Spinal demyelination (disorder)	CUI=C0586256	PREF=Spinal demyelination (disorder)
+Symmetrical progressive demyelination	CUI=C1856411	PREF=Symmetrical progressive demyelination
+T-spine MRI T2-weighted cord mass extramedullary hyperintense signal	CUI=C2087004	PREF=T-spine MRI T2-weighted cord mass extramedullary hyperintense signal
+T-spine MRI T2-weighted cord mass intradural extramedullary hyperintense signal	CUI=C2087007	PREF=T-spine MRI T2-weighted cord mass intradural extramedullary hyperintense signal
+T-spine MRI T2-weighted cord mass intramedullary hyperintense signal	CUI=C2087011	PREF=T-spine MRI T2-weighted cord mass intramedullary hyperintense signal
+total number of plaques	CUI=C2082305	PREF=total number of plaques
+White matter dysmyelination/demyelination (71%)	CUI=C1849964	PREF=White matter dysmyelination/demyelination (71%)
+	CUI=	PREF=

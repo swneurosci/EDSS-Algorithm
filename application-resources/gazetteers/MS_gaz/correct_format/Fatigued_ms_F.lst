@@ -1,0 +1,39 @@
+Fatigued	CUI=C0015672	PREF=Fatigued
+Tiredness	CUI=C0015672	PREF=Tiredness
+[D]Tiredness	CUI=C0015672	PREF=[D]Tiredness
+[D]Tiredness (context-dependent category)	CUI=C0015672	PREF=[D]Tiredness (context-dependent category)
+[D]Tiredness (situation)	CUI=C0015672	PREF=[D]Tiredness (situation)
+Tiredness (finding)	CUI=C0015672	PREF=Tiredness (finding)
+Central muscle fatigue	CUI=C0231523	PREF=Central muscle fatigue
+Central muscle fatigue (finding)	CUI=C0231523	PREF=Central muscle fatigue (finding)
+Peripheral muscle fatigue	CUI=C0231524	PREF=Peripheral muscle fatigue
+Peripheral muscle fatigue (finding)	CUI=C0231524	PREF=Peripheral muscle fatigue (finding)
+High frequency muscle fatigue	CUI=C0231525	PREF=High frequency muscle fatigue
+High frequency muscle fatigue (finding)	CUI=C0231525	PREF=High frequency muscle fatigue (finding)
+Low frequency muscle fatigue	CUI=C0231526	PREF=Low frequency muscle fatigue
+Low frequency muscle fatigue (finding)	CUI=C0231526	PREF=Low frequency muscle fatigue (finding)
+Muscle tiredness	CUI=C0242979	PREF=Muscle tiredness
+([Tiredness] or [fatigue] or [lethargy] or [malaise] symptom) or (C/O "muzzy head") (finding)	CUI=C0439054	PREF=([Tiredness] or [fatigue] or [lethargy] or [malaise] symptom) or (C/O "muzzy head") (finding)
+([Tiredness] or [fatigue] or [lethargy] or [malaise] symptom) or (C/O "muzzy head")	CUI=C0439054	PREF=([Tiredness] or [fatigue] or [lethargy] or [malaise] symptom) or (C/O "muzzy head")
+C/O - "tired all the time"	CUI=C0439055	PREF=C/O - "tired all the time"
+TATT - Tired all the time	CUI=C0439055	PREF=TATT - Tired all the time
+Tired all the time	CUI=C0439055	PREF=Tired all the time
+Complaining of "tired all the time"	CUI=C0439055	PREF=Complaining of "tired all the time"
+Tiredness symptom NOS	CUI=C0558486	PREF=Tiredness symptom NOS
+Tiredness symptom	CUI=C0558486	PREF=Tiredness symptom
+Tiredness symptom NOS (finding)	CUI=C0558486	PREF=Tiredness symptom NOS (finding)
+Tiredness symptom (finding)	CUI=C0558486	PREF=Tiredness symptom (finding)
+Heavy legs	CUI=C0581911	PREF=Heavy legs
+Heavy legs (finding)	CUI=C0581911	PREF=Heavy legs (finding)
+Feeling of heaviness	CUI=C0581912	PREF=Feeling of heaviness
+Heavy feeling	CUI=C0581912	PREF=Heavy feeling
+Heaviness sensation	CUI=C0581912	PREF=Heaviness sensation
+Heaviness sensation (finding)	CUI=C0581912	PREF=Heaviness sensation (finding)
+Heavy feeling (finding)	CUI=C0581912	PREF=Heavy feeling (finding)
+Heaviness sensation (qualifier value)	CUI=C0581912	PREF=Heaviness sensation (qualifier value)
+feeling fatigued	CUI=C0849970	PREF=feeling fatigued
+[Tiredness], [fatigue], [lethargy] or [malaise] symptom (finding)	CUI=C1571782	PREF=[Tiredness], [fatigue], [lethargy] or [malaise] symptom (finding)
+[Tiredness], [fatigue], [lethargy] or [malaise] symptom	CUI=C1571782	PREF=[Tiredness], [fatigue], [lethargy] or [malaise] symptom
+Easily fatigued	CUI=C1859691	PREF=Easily fatigued
+Sleep apnea tired fatigued waking PhenX	CUI=C3174080	PREF=Sleep apnea tired fatigued waking PhenX
+	CUI=	PREF=

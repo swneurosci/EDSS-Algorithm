@@ -1,0 +1,17 @@
+Phase: Dates
+Input: PatientDates DateBio
+Options: control=first
+
+/*
+ * Get Clinic Date
+ */
+
+ Rule: ClinicDate
+ Priority: 100
+(
+	{PatientDates.minorType == clinic}
+	({DateBio}):a
+):match
+-->
+:match.ClinicDate = { rule = ClinicDate, val = :match.DateBio@string, string = :a@string, DayDate = :match.DateBio@DayDate, MonthDate = :match.DateBio@MonthDate, YearDate = :match.DateBio@YearDate}
+

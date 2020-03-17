@@ -1,0 +1,33 @@
+Imports: {import static gate.Utils.*; }
+
+Phase: EDSSContext
+Input: timeElapsed Sentence EDSS
+Options: control=appelt
+
+/*
+ * assigns additiional time context to EDSS i.e. baseline, since last visit
+*/
+
+
+Rule: prob1
+(
+  ({timeElapsed.time=="baseline"} | {timeElapsed.time=="past"} | {timeElapsed.time=="last"}):t
+	({EDSS}):umls
+):match
+-->
+:umls {
+  getOnlyAnn(umlsAnnots).getFeatures().put("when", 
+    getOnlyAnn(bindings.get("t")).getFeatures().get("time"));
+}
+
+
+Rule: prob1
+(
+  ({EDSS}):umls
+  ({timeElapsed.time=="baseline"} | {timeElapsed.time=="past"} | {timeElapsed.time=="last"}):t
+):match
+-->
+:umls {
+  getOnlyAnn(umlsAnnots).getFeatures().put("when", 
+    getOnlyAnn(bindings.get("t")).getFeatures().get("time"));
+}
